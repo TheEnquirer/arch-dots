@@ -280,8 +280,8 @@ com! Note call s:Note()
 
 
 " clipboard https://coderwall.com/p/v-st8w/vim-copy-to-system-clipboard-on-a-mac
-xmap <Leader>y :w !pbcopy<CR><CR>
-nmap <Leader>y :w !pbcopy<CR><CR>
+xmap <Leader>y :w !xsel --clipboard --input<CR><CR>
+nmap <Leader>y :w !xsel --clipboard --input<CR><CR>
 nmap <Leader>yy :%w !pbcopy<CR><CR>
 
 " split direction

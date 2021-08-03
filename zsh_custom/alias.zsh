@@ -40,7 +40,7 @@ alias GG='gutil -A'
 alias grsh='git remote show'
 
 ###########################################
-#    python 
+#    python
 ###########################################
 alias py='python3'
 alias p='python3'
@@ -61,6 +61,9 @@ function chpwd () {    # auto called by zsh
 #    done
 }
 
+########################################
+#    helpers
+########################################
 function toggleOPP {
     #tmpp=`mktemp`
     #mv "/Users/huxmarv/.config/alacritty/alacritty.yml" $tmpp
@@ -77,9 +80,10 @@ function toggleOPP {
 
 }
 
-
 alias opt="toggleOPP"
 
+alias pbcopy='xsel --clipboard --input'
+alias pbpaste='xsel --clipboard --output'
 
 
 
