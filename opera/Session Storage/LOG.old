@@ -1,3 +1,6 @@
-2021/08/04-14:12:30.096 5 Reusing MANIFEST /home/enquirer/.config/opera/Session Storage/MANIFEST-000001
-2021/08/04-14:12:30.096 5 Recovering log #3
-2021/08/04-14:12:30.097 5 Reusing old log /home/enquirer/.config/opera/Session Storage/000003.log 
+2021/08/04-21:43:47.206 3 Reusing MANIFEST /home/enquirer/.config/opera/Session Storage/MANIFEST-000001
+2021/08/04-21:43:47.207 3 Recovering log #4
+2021/08/04-21:43:47.207 3 Reusing old log /home/enquirer/.config/opera/Session Storage/000004.log 
+2021/08/04-21:47:03.527 4 Level-0 table #7: started
+2021/08/04-21:47:03.531 4 Level-0 table #7: 22369 bytes OK
+2021/08/04-21:47:03.536 4 Delete type=0 #4

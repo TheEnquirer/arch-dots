@@ -41,6 +41,10 @@ exec --no-startup-id xset r rate 200 40
 # start picom
 exec --no-startup-id picom --config ~/.config/picom.conf -b
 
+# moniter setup
+exec --no-startup-id xrandr --output HDMI-1 --rotate right
+exec --no-startup-id xrandr --output HDMI-1 --auto --output DP-2 --auto --left-of HDMI-1
+
 # change rez
 #exec --no-startup-id xrandr --dpi number!
 

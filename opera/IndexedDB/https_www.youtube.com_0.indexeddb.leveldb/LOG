@@ -1,29 +1,3 @@
-2021/08/04-14:33:20.133 261c Creating DB /home/enquirer/.config/opera/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
-2021/08/04-14:33:20.145 261c Reusing MANIFEST /home/enquirer/.config/opera/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/08/04-14:33:21.693 2839 Level-0 table #5: started
-2021/08/04-14:33:21.696 2839 Level-0 table #5: 10010 bytes OK
-2021/08/04-14:33:21.703 2839 Delete type=0 #3
-2021/08/04-14:33:21.704 2839 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
-2021/08/04-14:33:21.711 2839 Level-0 table #7: started
-2021/08/04-14:33:21.714 2839 Level-0 table #7: 876 bytes OK
-2021/08/04-14:33:21.721 2839 Delete type=0 #4
-2021/08/04-14:33:21.721 2839 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
-2021/08/04-14:33:21.721 2839 Manual compaction at level-1 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x9a\xd9\x99T\x19\xb1wB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 492 : 0
-2021/08/04-14:33:21.721 2839 Compacting 1@1 + 1@2 files
-2021/08/04-14:33:21.725 2839 Generated table #8@1: 77 keys, 1628 bytes
-2021/08/04-14:33:21.725 2839 Compacted 1@1 + 1@2 files => 1628 bytes
-2021/08/04-14:33:21.729 2839 compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/08/04-14:33:21.729 2839 Delete type=2 #7
-2021/08/04-14:33:21.729 2839 Manual compaction at level-1 from '\x00\x05\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x9a\xd9\x99T\x19\xb1wB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 492 : 0 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
-2021/08/04-14:33:21.731 2831 Level-0 table #10: started
-2021/08/04-14:33:21.734 2831 Level-0 table #10: 811 bytes OK
-2021/08/04-14:33:21.741 2831 Delete type=0 #6
-2021/08/04-14:33:21.741 2831 Delete type=2 #5
-2021/08/04-14:33:21.741 2831 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
-2021/08/04-14:33:21.741 2831 Manual compaction at level-1 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\xc8\x18\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00-\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t\x00-\x00a\x00s\x00s\x00e\x00t\x00s' @ 560 : 0
-2021/08/04-14:33:21.741 2831 Compacting 1@1 + 1@2 files
-2021/08/04-14:33:21.745 2831 Generated table #11@1: 53 keys, 1303 bytes
-2021/08/04-14:33:21.745 2831 Compacted 1@1 + 1@2 files => 1303 bytes
-2021/08/04-14:33:21.749 2831 compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/08/04-14:33:21.749 2831 Delete type=2 #10
-2021/08/04-14:33:21.749 2831 Manual compaction at level-1 from '\x00\x04\x00\x00\xc8\x18\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00-\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t\x00-\x00a\x00s\x00s\x00e\x00t\x00s' @ 560 : 0 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/08/04-21:40:44.531 1090 Reusing MANIFEST /home/enquirer/.config/opera/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/04-21:40:44.531 1090 Recovering log #9
+2021/08/04-21:40:44.532 1090 Reusing old log /home/enquirer/.config/opera/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000009.log 

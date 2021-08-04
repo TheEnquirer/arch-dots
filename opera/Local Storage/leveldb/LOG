@@ -1,5 +1,20 @@
-2021/08/04-14:27:42.933 5 Reusing MANIFEST /home/enquirer/.config/opera/Local Storage/leveldb/MANIFEST-000001
-2021/08/04-14:27:42.933 5 Recovering log #3
-2021/08/04-14:27:42.934 5 Level-0 table #3: started
-2021/08/04-14:27:42.938 5 Level-0 table #3: 31476 bytes OK
-2021/08/04-14:27:42.943 5 Delete type=0 #3
+2021/08/04-22:15:39.106 3 Reusing MANIFEST /home/enquirer/.config/opera/Local Storage/leveldb/MANIFEST-000001
+2021/08/04-22:15:39.106 3 Recovering log #35
+2021/08/04-22:15:39.107 3 Level-0 table #38: started
+2021/08/04-22:15:39.113 3 Level-0 table #38: 100735 bytes OK
+2021/08/04-22:15:39.119 3 Delete type=0 #35
+2021/08/04-22:15:50.441 3 Level-0 table #41: started
+2021/08/04-22:15:50.448 3 Level-0 table #41: 96259 bytes OK
+2021/08/04-22:15:50.453 3 Delete type=0 #39
+2021/08/04-22:22:19.770 7 Level-0 table #43: started
+2021/08/04-22:22:19.790 7 Level-0 table #43: 96363 bytes OK
+2021/08/04-22:22:19.794 7 Delete type=0 #40
+2021/08/04-22:22:19.795 7 Compacting 4@0 + 1@1 files
+2021/08/04-22:22:19.801 7 Generated table #44@0: 136 keys, 182892 bytes
+2021/08/04-22:22:19.801 7 Compacted 4@0 + 1@1 files => 182892 bytes
+2021/08/04-22:22:19.805 7 compacted to: files[ 0 1 0 0 0 0 0 ]
+2021/08/04-22:22:19.805 7 Delete type=2 #43
+2021/08/04-22:22:19.806 7 Delete type=2 #41
+2021/08/04-22:22:19.806 7 Delete type=2 #38
+2021/08/04-22:22:19.806 7 Delete type=2 #34
+2021/08/04-22:22:19.806 7 Delete type=2 #36

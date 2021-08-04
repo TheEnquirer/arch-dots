@@ -1,0 +1,9 @@
+2021/08/04-21:43:47.049 1230 Reusing MANIFEST /home/enquirer/.config/opera/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/04-21:43:47.049 1230 Recovering log #12
+2021/08/04-21:43:47.050 1230 Reusing old log /home/enquirer/.config/opera/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000012.log 
+2021/08/04-21:43:50.262 1251 Compacting 1@1 + 1@2 files
+2021/08/04-21:43:50.267 1251 Generated table #15@1: 156 keys, 132688 bytes
+2021/08/04-21:43:50.267 1251 Compacted 1@1 + 1@2 files => 132688 bytes
+2021/08/04-21:43:50.271 1251 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/08/04-21:43:50.271 1251 Delete type=2 #13
+2021/08/04-21:43:50.271 1251 Delete type=2 #10
