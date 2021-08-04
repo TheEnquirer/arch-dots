@@ -1,7 +1,7 @@
 window:
     decorations: None
     startup_mode: Maximized
-    #padding: 
+    #padding:
         #x: 10
         #y: 2
     dynamic_padding: true
@@ -10,7 +10,7 @@ scrolling:
 font:
     size: 8.5
     normal:
-        family: Hack Nerd Font
+        family: monospace
     use_thin_strokes: true
 
 #background_opacity: 0.85

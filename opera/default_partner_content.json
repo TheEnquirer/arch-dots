@@ -1,0 +1,2225 @@
+// mqcZh5HdfphNUJa0CGXPWdExOufpaivEN1OglCdCa85EoOsq47/hxUb/m4kNLYQG9CGQLhq/ZEmUJFoYmwbpHsBxXFBY/jrTf1utXmNdRGgLDyQpBmiaddKF12mPZWCjt0Apf+mR2y1X0erdtZygBrokzPg5qEFT/VNO//gz1B1UN7+lqF//RMNucnQ664d311WM11IhJbGuxx3akmYq1oR/TFIuVbR87Jb55eMo4UNQdmbTI3MdrqWD9TZ7ur7Shyt9jGb98ZXpVi9D+RJ0A5cBsAZotff4V0q+3pjXiaYR2vN90gV8swmgbwQhSw8Tg2A/qw7FqJBmqo/U1WoO5Q==
+{
+  "version": 93,
+  "search_engines": {
+    "location": {
+      "at": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_de"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "au": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing_attributed",
+            "wiki"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "az": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_az"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "be": {
+        "fr": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_fr"
+          ],
+          "speed_dial_index_list": [0]
+        },
+        "nl": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_nl"
+          ],
+          "speed_dial_index_list": [0]
+        },
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "br": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_pt"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "by": {
+        "ru": {
+          "list": [
+            "google_com_ru",
+            "yandex_ru",
+            "rambler_ru",
+            "duckduckgo",
+            "wiki_ru",
+            "yandex_dictionary_ru"
+          ],
+          "speed_dial_index_list": [1]
+        },
+        "other": {
+          "list": [
+            "google_com",
+            "yandex",
+            "rambler",
+            "duckduckgo",
+            "wiki_be",
+            "yandex_dictionary"
+          ],
+          "speed_dial_index_list": [1]
+        }
+      },
+      "ca": {
+        "fr": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing_attributed",
+            "wiki_fr"
+          ],
+          "speed_dial_index_list": [0]
+        },
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing_attributed",
+            "wiki"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "ch": {
+        "de": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_de"
+          ],
+          "speed_dial_index_list": [0]
+        },
+        "fr": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_fr"
+          ],
+          "speed_dial_index_list": [0]
+        },
+        "it": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_it"
+          ],
+          "speed_dial_index_list": [0]
+        },
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "cn": {
+        "other": {
+          "list": [
+            "sogou",
+            "baidu",
+            "qihoo_360",
+            "wiki_cn",
+            "google_cn"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "cz": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "seznam",
+            "bing",
+            "wiki_cs"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "de": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing_attributed",
+            "wiki_de"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "dk": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_da"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "ee": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_et"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "es": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing_attributed",
+            "wiki_es"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "fi": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_fi"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "fr": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing_attributed",
+            "wiki_fr"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "gb": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing_attributed",
+            "wiki"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "gr": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_el"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "hk": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_zh"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "hu": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_hu"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "ie": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "il": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_he"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "in": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing_attributed",
+            "wiki"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "it": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing_attributed",
+            "wiki_it"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "jp": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo_jp",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_ja"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "kr": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_ko"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "kz": {
+        "ru": {
+          "list": [
+            "google_com_ru",
+            "yandex_ru",
+            "rambler_ru",
+            "duckduckgo",
+            "wiki_ru",
+            "yandex_dictionary_ru"
+          ],
+          "speed_dial_index_list": [1]
+        },
+        "other": {
+          "list": [
+            "google_com",
+            "yandex",
+            "rambler",
+            "duckduckgo",
+            "wiki_kk",
+            "yandex_dictionary"
+          ],
+          "speed_dial_index_list": [1]
+        }
+      },
+      "lv": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_lv"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "ma": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_ar"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "mx": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_es"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "nl": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing_attributed",
+            "wiki_nl"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "no": {
+        "nn": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_nn"
+          ],
+          "speed_dial_index_list": [0]
+        },
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_no"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "nz": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "pl": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "bing",
+            "wiki_pl"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "pt": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_pt"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "ro": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_ro"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "rs": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_sr"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "ru": {
+        "ru": {
+          "list": [
+            "google_com_ru",
+            "yandex_ru",
+            "yandex_prom_ru",
+            "rambler_ru",
+            "duckduckgo",
+            "wiki_ru",
+            "yandex_dictionary_ru"
+          ],
+          "speed_dial_index_list": [1]
+        },
+        "other": {
+          "list": [
+            "google_com",
+            "yandex",
+            "yandex_prom",
+            "rambler",
+            "duckduckgo",
+            "wiki",
+            "yandex_dictionary"
+          ],
+          "speed_dial_index_list": [1]
+        }
+      },
+      "se": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_sv"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "sg": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "th": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_th"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "tr": {
+        "other": {
+          "list": [
+            "google_com",
+            "yandex_tr",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_tr"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "tw": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_zh"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "ua": {
+        "ru": {
+          "list": [
+            "google_com_ru",
+            "yandex_ua_fr_addressbar",
+            "rambler_ru",
+            "duckduckgo",
+            "wiki_ru",
+            "yandex_dictionary_ua",
+            {"name": "yandex_ru", "deleted": 34},
+            {"name": "yandex_dictionary_ru", "deleted": 34}
+          ],
+          "speed_dial_index_list": [0, 1]
+        },
+        "uk": {
+          "list": [
+            "google_com",
+            "yandex_ua_fr_addressbar",
+            "rambler",
+            "duckduckgo",
+            "wiki_ua",
+            "yandex_dictionary_ua"
+          ],
+          "speed_dial_index_list": [0, 1]
+        },
+        "other": {
+          "list": [
+            "google_com",
+            "yandex_ua_fr_addressbar",
+            "rambler",
+            "duckduckgo",
+            "wiki",
+            "yandex_dictionary_ua",
+            {"name": "yandex_dictionary", "deleted": 34},
+            {"name": "yandex", "deleted": 34}
+          ],
+          "speed_dial_index_list": [0, 1]
+        }
+      },
+      "us": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing_attributed",
+            "wiki"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "za": {
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      },
+      "cis": {
+        "ru": {
+          "list": [
+            "google_com_ru",
+            "yandex_ru",
+            "rambler_ru",
+            "duckduckgo",
+            "wiki_ru",
+            "yandex_dictionary_ru"
+          ],
+          "speed_dial_index_list": [1]
+        },
+        "other": {
+          "list": [
+            "google_com",
+            "yandex",
+            "rambler",
+            "duckduckgo",
+            "wiki",
+            "yandex_dictionary"
+          ],
+          "speed_dial_index_list": [1]
+        }
+      },
+      "other": {
+        "ar": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_ar"
+          ],
+          "speed_dial_index_list": [0]
+        },
+        "de": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_de"
+          ],
+          "speed_dial_index_list": [0]
+        },
+        "es": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_es"
+          ],
+          "speed_dial_index_list": [0]
+        },
+        "fr": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_fr"
+          ],
+          "speed_dial_index_list": [0]
+        },
+        "ja": {
+          "list": [
+            "google_com",
+            "yahoo_jp",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_ja"
+          ],
+          "speed_dial_index_list": [0]
+        },
+        "pl": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_pl"
+          ],
+          "speed_dial_index_list": [0]
+        },
+        "pt": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_pt"
+          ],
+          "speed_dial_index_list": [0]
+        },
+        "ru": {
+          "list": [
+            "google_com_ru",
+            "yandex_ru",
+            "rambler_ru",
+            "duckduckgo",
+            "wiki_ru",
+            "yandex_dictionary_ru"
+          ],
+          "speed_dial_index_list": [0]
+        },
+        "zh": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki_zh"
+          ],
+          "speed_dial_index_list": [0]
+        },
+        "other": {
+          "list": [
+            "google_com",
+            "yahoo",
+            "duckduckgo",
+            "amazon",
+            "bing",
+            "wiki"
+          ],
+          "speed_dial_index_list": [0]
+        }
+      }
+    }
+  },
+  "search_engines_flat": {
+    "amazon": {
+      "name": "Amazon",
+      "keyword": "z",
+      "favicon_url": "https://www.amazon.com/favicon.ico",
+      "search_url": "https://redir.opera.com/amazon/?q={searchTerms}",
+      "suggest_url": "https://completion.amazon.com/search/complete?q={searchTerms}&search-alias=aps&mkt=1",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "0CD5F3A0-8BF6-11E2-9E96-0800200C9A66"
+    },
+    "baidu": {
+      "name": "Baidu",
+      "keyword": "ba",
+      "favicon_url": "https://www.baidu.com/favicon.ico",
+      "search_url": "https://www.baidu.com/baidu?wd={searchTerms}&tn=54002054_dg&ie=utf-8",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "CFD4BE41-4C6D-496A-ADDB-4095DFA1DD0E",
+      "css_resource": "css/searchstyle_baidu.css",
+      "speed_dial_logo": "images/logo_baidu.png"
+    },
+    "bing": {
+      "name": "Bing",
+      "keyword": "b",
+      "favicon_url": "https://www.bing.com/s/a/bing_p.ico",
+      "search_url": "https://www.bing.com/search?q={searchTerms}&form=OPRTSD&pc=OPER",
+      "suggest_url": "https://api.bing.com/osjson.aspx?query={searchTerms}&language={language}&FORM=OPERAS",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "1AF2CDD0-8BF3-11E2-9E96-0800200C9A66"
+    },
+    "bing_attributed": {
+      "name": "Bing",
+      "keyword": "b",
+      "favicon_url": "https://www.bing.com/s/a/bing_p.ico",
+      "search_url": "https://www.bing.com/search?q={searchTerms}&form=OSASSB&pc=OSAS",
+      "suggest_url": "https://api.bing.com/osjson.aspx?query={searchTerms}&language={language}&FORM=OPERAS",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "48B659F0-181C-483F-B0D7-CF781F49C965"
+    },
+    "duckduckgo": {
+      "name": "DuckDuckGo",
+      "keyword": "d",
+      "favicon_url": "https://duckduckgo.com/favicon.ico",
+      "search_url": "https://duckduckgo.com/?q={searchTerms}&t=opera",
+      "search_url_override": "https://duckduckgo.com/?q={searchTerms}&t={opera:vpnClient}",
+      "suggest_url": "https://ac.duckduckgo.com/ac/?q={searchTerms}&type=list&t=opera",
+      "suggest_url_override": "https://ac.duckduckgo.com/ac/?q={searchTerms}&type=list&t={opera:vpnClient}",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "3BFDFA54-5DD6-4DFF-8B6C-C1715F306D6B"
+    },
+    "google_cn": {
+      "name": "Google Search",
+      "keyword": "o",
+      "favicon_url": "https://www.google.com/favicon.ico",
+      "search_url": "https://www.google.com/search?client=opera&q={searchTerms}&sourceid=opera&ie={inputEncoding}&oe={outputEncoding}",
+      "suggest_url": "https://www.google.com/complete/search?client=opera&q={searchTerms}&ie={inputEncoding}&oe={outputEncoding}",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "c6aa8762-ce1a-480c-8254-234117944d6e",
+      "css_resource": "css/searchstyle_google.css",
+      "speed_dial_logo": "images/logo_google.png"
+    },
+    "google_com": {
+      "name": "Google Search",
+      "keyword": "g",
+      "favicon_url": "https://www.google.com/favicon.ico",
+      "search_url": "https://www.google.com/search?client=opera&q={searchTerms}&sourceid=opera&ie={inputEncoding}&oe={outputEncoding}",
+      "suggest_url": "https://www.google.com/complete/search?client=opera&q={searchTerms}&ie={inputEncoding}&oe={outputEncoding}",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "FF57F01A-0718-44B7-8A1F-8B15BC33A50B",
+      "css_resource": "css/searchstyle_google.css",
+      "speed_dial_logo": "images/logo_google.png"
+    },
+    "google_com_ru": {
+      "name": "Google поиск",
+      "keyword": "g",
+      "favicon_url": "https://www.google.com/favicon.ico",
+      "search_url": "https://www.google.com/search?client=opera&q={searchTerms}&sourceid=opera&ie={inputEncoding}&oe={outputEncoding}",
+      "suggest_url": "https://www.google.com/complete/search?client=opera&q={searchTerms}&ie={inputEncoding}&oe={outputEncoding}",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "FF57F01A-0718-44B7-8A1F-8B15BC33A50B",
+      "css_resource": "css/searchstyle_google.css",
+      "speed_dial_logo": "images/logo_google.png"
+    },
+    "qihoo_360": {
+      "name": "360搜索",
+      "keyword": "q",
+      "favicon_url": "https://www.so.com/favicon.ico",
+      "search_url": "https://www.so.com/s?ie=utf-8&src=brw_oupeng&q={searchTerms}",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "4C95ADC1-5FD9-449D-BC75-77CA217403AE"
+    },
+    "rambler": {
+      "name": "Rambler",
+      "keyword": "r",
+      "favicon_url": "https://www.rambler.ru/favicon.ico",
+      "search_url": "https://redir.opera.com/search/rambler/?q={searchTerms}",
+      "suggest_url": "https://nova.rambler.ru/suggest?v=3&query={searchTerms}",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "1CF37043-6733-479C-9086-7B21A2292DDA"
+    },
+    "rambler_ru": {
+      "name": "Рамблер",
+      "keyword": "r",
+      "favicon_url": "https://www.rambler.ru/favicon.ico",
+      "search_url": "https://redir.opera.com/search/rambler/?q={searchTerms}",
+      "suggest_url": "https://nova.rambler.ru/suggest?v=3&query={searchTerms}",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "F3F34CBB-24FF-4830-9E87-1663E7A0A5EE"
+    },
+    "seznam": {
+      "name": "Seznam",
+      "keyword": "s",
+      "favicon_url": "https://www.seznam.cz/favicon.ico",
+      "search_url": "https://search.seznam.cz/?q={searchTerms}&sourceid=Opera_2",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "F98D4D4C-8AA7-4619-A1E7-AC89B24558DD"
+    },
+    "sogou": {
+      "name": "搜狗",
+      "keyword": "s",
+      "favicon_url": "https://www.sogou.com/images/logo/new/favicon.ico",
+      "search_url": "https://www.sogou.com/sogou?query={searchTerms}&pid=sogou-brse-5e62c1998206e011",
+      "css_resource": "css/searchstyle_sogou.css",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "B478FE0C-0761-41C3-946F-CD1340356039",
+      "speed_dial_logo": "images/logo_sogou.png"
+    },
+    "wiki": {
+      "name": "Wikipedia",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://en.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://en.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "2A3F5C20-8BF5-11E2-9E96-0800200C9A66"
+    },
+    "wiki_ar": {
+      "name": "ويكيبيديا",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://ar.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://ar.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "6D6B17CD-639D-4FF2-A9FE-40D27558A549"
+    },
+    "wiki_az": {
+      "name": "Vikipediya",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://az.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://az.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "EA35BF11-23B9-4D03-B4F3-E23DCD280586"
+    },
+    "wiki_be": {
+      "name": "Вікіпедыя",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://be.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://be.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "CE6D4C04-6E43-4CFD-87E6-E89982249C15"
+    },
+    "wiki_cn": {
+      "name": "Wikipedia",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://zh.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://zh.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "2ac87ee9-a017-446b-b091-22b3cd215735"
+    },
+    "wiki_cs": {
+      "name": "Wikipedia",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://cs.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://cs.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "635B13E6-3563-4B61-9319-E83994B156A8"
+    },
+    "wiki_da": {
+      "name": "Wikipedia",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://da.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://da.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "AF738CDB-CA97-47F4-9054-E6E740172F77"
+    },
+    "wiki_de": {
+      "name": "Wikipedia",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://de.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://de.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "090B539C-D0AC-46F1-92B6-BD919F2441B8"
+    },
+    "wiki_el": {
+      "name": "Βικιπαίδεια",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://el.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://el.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "F66613D9-4275-4391-82AA-BFDB1FA1F4C3"
+    },
+    "wiki_es": {
+      "name": "Wikipedia",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://es.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://es.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "34B8CDD7-B154-4396-A921-166BDD4C75F9"
+    },
+    "wiki_et": {
+      "name": "Vikipeedia",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://et.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://et.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "EE75AF9D-16B8-423E-803D-216F036695B6"
+    },
+    "wiki_fi": {
+      "name": "Wikipedia",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://fi.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://fi.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "27145DB8-82EE-4538-B618-D8C2BAC183DE"
+    },
+    "wiki_fr": {
+      "name": "Wikipédia",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://fr.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://fr.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "2FA9974C-BAE3-45B4-BAE2-6AED6EF9268B"
+    },
+    "wiki_he": {
+      "name": "ויקיפדיה",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://he.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://he.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "CF2DEC03-31A2-4138-B2B1-29E4EEF2DB6F"
+    },
+    "wiki_hu": {
+      "name": "Wikipédia",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://hu.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://hu.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "652AD053-BD56-46B9-9B67-92411F6DDA71"
+    },
+    "wiki_it": {
+      "name": "Wikipedia",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://it.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://it.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "FD6EBFFD-8441-4A4A-BAD8-08F3D6E1C1ED"
+    },
+    "wiki_ja": {
+      "name": "ウィキペディア",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://ja.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://ja.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "1A37A9DB-B0EF-4EE0-93BA-A08115633294"
+    },
+    "wiki_kk": {
+      "name": "Уикипедия",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://kk.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://kk.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "60AF68DC-960D-45B6-96C7-C1C184F07582"
+    },
+    "wiki_ko": {
+      "name": "위키백과",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://ko.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://ko.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "A3136F50-E852-47F1-8A87-77F7DCDB23CA"
+    },
+    "wiki_lv": {
+      "name": "Vikipēdijā",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://lv.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://lv.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "D0FB3C5D-2480-4C21-83FA-81B5A14D17A1"
+    },
+    "wiki_nl": {
+      "name": "Wikipedia",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://nl.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://nl.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "9491D2A7-E3F3-4701-89E9-9030A4220A0E"
+    },
+    "wiki_nn": {
+      "name": "Wikipedia",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://nn.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://nn.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "C38A5D19-B1AF-4A7E-9F6A-F13F6EF62A97"
+    },
+    "wiki_no": {
+      "name": "Wikipedia",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://no.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://no.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "D524D29A-4A3E-4E6A-BDFD-9685C73C33F0"
+    },
+    "wiki_pl": {
+      "name": "Wikipedia",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://pl.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://pl.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "85426FCD-8A2D-47FB-8024-2F2F165EFAF7"
+    },
+    "wiki_pt": {
+      "name": "Wikipédia",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://pt.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://pt.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "3201F3C0-F38E-4E82-9087-DA09405247C1"
+    },
+    "wiki_ro": {
+      "name": "Wikipedia",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://ro.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://ro.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "DB73DCE6-8FC3-43A4-8976-FA2961BF957C"
+    },
+    "wiki_ru": {
+      "name": "Википедия",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://ru.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://ru.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "66DD4BB6-A3BA-4B11-AF7A-F4BF23E073B2"
+    },
+    "wiki_sr": {
+      "name": "Википедија",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://sr.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://sr.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "9283BFA1-B2DC-47BF-9800-C2B36C1DD44F"
+    },
+    "wiki_sv": {
+      "name": "Wikipedia",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://sv.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://sv.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "258B16B4-5309-4CB3-98A6-EDF97BE39FE1"
+    },
+    "wiki_th": {
+      "name": "วิกิพีเดีย",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://th.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://th.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "0951E8F6-A283-4F78-90B1-B8C6AA5EABE3"
+    },
+    "wiki_tr": {
+      "name": "Vikipedi",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://tr.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://tr.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "78969BEA-12A5-4A73-9CC7-9FA887311F34"
+    },
+    "wiki_ua": {
+      "name": "Вікіпедія",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://uk.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://uk.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "5874A3C7-A48A-47BA-8BBD-6F72E2E457F8"
+    },
+    "wiki_zh": {
+      "name": "维基百科",
+      "keyword": "w",
+      "favicon_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "search_url": "https://zh.wikipedia.org/wiki/Special:Search?search={searchTerms}",
+      "suggest_url": "https://zh.wikipedia.org/w/api.php?action=opensearch&search={searchTerms}&format=json",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "82C5AF53-721F-4D98-AB9B-CD2BE4BB6EF0"
+    },
+    "yahoo": {
+      "name": "Yahoo!",
+      "keyword": "y",
+      "favicon_url": "https://search.yahoo.com/favicon.ico",
+      "search_url": "https://search.yahoo.com/search?ei={inputEncoding}&fr=opera2&p={searchTerms}",
+      "suggest_url": "https://ff.search.yahoo.com/gossip?output=fxjson&command={searchTerms}",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "3B6191A0-8BF3-11E2-9E96-0800200C9A66"
+    },
+    "yahoo_jp": {
+      "name": "Yahoo!",
+      "keyword": "y",
+      "favicon_url": "https://www.yahoo.co.jp/favicon.ico",
+      "search_url": "https://search.yahoo.co.jp/search?ei={inputEncoding}&fr=oprsd&p={searchTerms}",
+      "suggest_url": "https://ff.search.yahoo.com/gossip?output=fxjson&command={searchTerms}",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "CFCE84E5-9A95-4B3F-B8E4-3E98CF7EE6C5"
+    },
+    "yandex": {
+      "name": "Yandex",
+      "keyword": "y",
+      "favicon_url": "https://yandex.st/morda-logo/i/favicon.ico",
+      "search_url": "https://yandex.ru/search/?{yandex:referralID}text={searchTerms}&l10n={language}",
+      "suggest_url": "https://suggest.yandex.ru/suggest-ya.cgi?v=4&part={searchTerms}&l10n={language}",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "C665D993-1B49-4C2E-962C-BEB19993BB86",
+      "css_resource": "css/searchstyle_yandex_latin.css",
+      "speed_dial_logo": "images/logo_yandex.png"
+    },
+    "yandex_prom": {
+      "name": "Yandex",
+      "keyword": "yp",
+      "favicon_url": "https://yandex.st/morda-logo/i/favicon.ico",
+      "search_url": "https://yandex.ru/search/?{yandex:referralID}text={searchTerms}&l10n={language}",
+      "suggest_url": "https://suggest.yandex.ru/suggest-ya.cgi?v=4&part={searchTerms}&l10n={language}",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "7DBD903A-1B40-4E5A-8C21-67BD8EC6D3E0",
+      "css_resource": "css/searchstyle_yandex_latin.css",
+      "speed_dial_logo": "images/logo_yandex.png"
+    },
+    "yandex_dictionary": {
+      "name": "Перевод",
+      "keyword": "s",
+      "favicon_url": "https://translate.yandex.net/main/v2.92.1465389915/i/favicon.ico",
+      "search_url": "https://translate.yandex.ru/?text={searchTerms}",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "FDC2CCAB-E8F9-4620-91DD-B0B67285997C"
+    },
+    "yandex_dictionary_ru": {
+      "name": "Перевод",
+      "keyword": "s",
+      "favicon_url": "https://translate.yandex.net/main/v2.92.1465389915/i/favicon.ico",
+      "search_url": "https://translate.yandex.ru/?text={searchTerms}",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "6D3582E1-6013-429F-BB34-C75B90CDD1F8"
+    },
+    "yandex_dictionary_ua": {
+      "name": "Переклад",
+      "keyword": "s",
+      "favicon_url": "https://translate.yandex.net/main/v2.92.1465389915/i/favicon.ico",
+      "search_url": "https://translate.yandex.fr/?text={searchTerms}",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "07593226-C5C5-438B-86BE-3F6361CD5B10"
+    },
+    "yandex_ru": {
+      "name": "Яндекс",
+      "keyword": "y",
+      "favicon_url": "https://yandex.st/morda-logo/i/favicon.ico",
+      "search_url": "https://yandex.ru/search/?{yandex:referralID}text={searchTerms}&l10n={language}",
+      "suggest_url": "https://suggest.yandex.ru/suggest-ya.cgi?v=4&part={searchTerms}&l10n={language}",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "CCCED631-6DA2-4060-9824-95737E64350C",
+      "css_resource": "css/searchstyle_yandex.css",
+      "speed_dial_logo": "images/logo_yandex_ru.png"
+    },
+    "yandex_prom_ru": {
+      "name": "Яндекс",
+      "keyword": "yp",
+      "favicon_url": "https://yandex.st/morda-logo/i/favicon.ico",
+      "search_url": "https://yandex.ru/search/?{yandex:referralID}text={searchTerms}&l10n={language}",
+      "suggest_url": "https://suggest.yandex.ru/suggest-ya.cgi?v=4&part={searchTerms}&l10n={language}",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "7DBD903A-1B40-4E5A-8C21-67BD8EC6D3E0",
+      "css_resource": "css/searchstyle_yandex.css",
+      "speed_dial_logo": "images/logo_yandex_ru.png"
+    },
+    "yandex_tr": {
+      "name": "Yandex",
+      "keyword": "y",
+      "favicon_url": "https://yandex.com.tr/favicon.ico",
+      "search_url": "https://yandex.com.tr/search/?clid=1669559&text={searchTerms}&l10n={language}",
+      "suggest_url": "https://suggest.yandex.com.tr/suggest-opera?part={searchTerms}&n=5&uil=tr",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "013E742B-287B-4228-A0B9-BD617E4E02A4",
+      "css_resource": "css/searchstyle_yandex_latin.css",
+      "speed_dial_logo": "images/logo_yandex.png"
+    },
+    "yandex_ua": {
+      "name": "Яндекс",
+      "keyword": "y",
+      "favicon_url": "https://yandex.st/morda-logo/i/favicon.ico",
+      "search_url": "https://yandex.ua/search/?{yandex:referralID}text={searchTerms}&l10n={language}",
+      "suggest_url": "https://api.browser.yandex.ua/suggest/get?part={searchTerms}&l10n={language}",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "2F8F0E41-F521-45A4-9691-F664AFAFE67F",
+      "css_resource": "css/searchstyle_yandex.css",
+      "speed_dial_logo": "images/logo_yandex_ru.png"
+    },
+    "yandex_ua_fr": {
+      "name": "Яндекс",
+      "keyword": "y",
+      "favicon_url": "https://yandex.st/morda-logo/i/favicon.ico",
+      "search_url": "https://yandex.fr/search/?{yandex:referralID}text={searchTerms}&l10n={language}",
+      "suggest_url": "https://api.browser.yandex.ua/suggest/get?part={searchTerms}&l10n={language}",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "8fdabf2d-18d9-4a50-8c77-bc1db341be44",
+      "css_resource": "css/searchstyle_yandex.css",
+      "speed_dial_logo": "images/logo_yandex_ru.png"
+    },
+    "yandex_ua_fr_addressbar": {
+      "name": "Яндекс",
+      "keyword": "y",
+      "favicon_url": "https://yandex.st/morda-logo/i/favicon.ico",
+      "search_url": "https://yandex.fr/search/?clid=46144&text={searchTerms}&l10n={language}",
+      "suggest_url": "https://api.browser.yandex.ua/suggest/get?part={searchTerms}&l10n={language}",
+      "post": false,
+      "encoding": "UTF-8",
+      "uuid": "cffc7c67-cab1-4496-8f4d-4aaebf750e74",
+      "css_resource": "css/searchstyle_yandex.css",
+      "speed_dial_logo": "images/logo_yandex_ru.png"
+    }
+
+  },
+  "extension_one_click_installs": {
+    "other": {
+      "other": [
+        "alitools",
+        "amazon"
+      ]
+    }
+  },
+  "extension_one_click_installs_flat": {
+    "alitools": {
+      "extension_id": "nkekkheibgkgeepapinkalkongndfajn",
+      "url_patterns": [
+        "https://*.aliexpress.com/*"
+      ]
+    },
+    "amazon": {
+      "component_id": "ionkhgehfolinkdpgdbinmgbfaonpcnk",
+      "extension_id": "mmmbddcnnndpbdflpccgcknaaabgldak",
+      "url_patterns": [
+        "https://www.abebooks.com/*",
+        "https://www.amazon.ca/*",
+        "https://www.amazon.cn/*",
+        "https://www.amazon.co.jp/*",
+        "https://www.amazon.co.uk/*",
+        "https://www.amazon.com/*",
+        "https://www.amazon.de/*",
+        "https://www.amazon.es/*",
+        "https://www.amazon.fr/*",
+        "https://www.amazon.it/*",
+        "https://www.amazon.in/*",
+        "https://www.audible.ca/*",
+        "https://www.audible.cn/*",
+        "https://www.audible.co.jp/*",
+        "https://www.audible.co.uk/*",
+        "https://www.audible.com/*",
+        "https://www.audible.de/*",
+        "https://www.audible.es/*",
+        "https://www.audible.fr/*",
+        "https://www.audible.it/*",
+        "https://www.diapers.com/*",
+        "https://www.fabric.com/*",
+        "https://www.goodreads.com/*",
+        "https://www.primenow.com/*",
+        "https://www.woot.com/*",
+        "https://www.zappos.com/*"
+      ]
+    }
+  },
+  "player_service_items": {
+    "at": {
+      "other": [
+        "apple_at",
+        "deezer",
+        "soundcloud",
+        "spotify",
+        "tidal",
+        "youtube"
+      ]
+    },
+    "au": {
+      "other": [
+        "apple_au",
+        "deezer",
+        "soundcloud",
+        "spotify",
+        "tidal",
+        "youtube"
+      ]
+    },
+    "be": {
+      "other": [
+        "apple_be",
+        "deezer",
+        "soundcloud",
+        "spotify",
+        "tidal",
+        "youtube"
+      ]
+    },
+    "bg": {
+      "other": [
+        "apple_bg",
+        "deezer",
+        "spotify",
+        "youtube"
+      ]
+    },
+    "br": {
+      "other": [
+        "apple_br",
+        "deezer",
+        "spotify",
+        "tidal",
+        "youtube"
+      ]
+    },
+    "by": {
+      "other": [
+        "apple_by",
+        "deezer",
+        "youtube",
+        "spotify"
+      ]
+    },
+    "ca": {
+      "other": [
+        "apple_ca",
+        "deezer",
+        "soundcloud",
+        "spotify",
+        "tidal",
+        "youtube"
+      ]
+    },
+    "ch": {
+      "other": [
+        "apple_ch",
+        "deezer",
+        "soundcloud",
+        "spotify",
+        "tidal",
+        "youtube"
+      ]
+    },
+    "cn": {
+      "other": [
+        "apple_cn"
+      ]
+    },
+    "cz": {
+      "other": [
+        "apple_cz",
+        "deezer",
+        "spotify",
+        "tidal",
+        "youtube"
+      ]
+    },
+    "de": {
+      "other": [
+        "apple_de",
+        "deezer",
+        "soundcloud",
+        "spotify",
+        "tidal",
+        "youtube"
+      ]
+    },
+    "dk": {
+      "other": [
+        "apple_dk",
+        "deezer",
+        "soundcloud",
+        "spotify",
+        "tidal",
+        "youtube"
+      ]
+    },
+    "eg": {
+      "other": [
+        "apple_eg",
+        "deezer",
+        "spotify",
+        "youtube"
+      ]
+    },
+    "es": {
+      "other": [
+        "apple_es",
+        "deezer",
+        "soundcloud",
+        "spotify",
+        "tidal",
+        "youtube"
+      ]
+    },
+    "fi": {
+      "other": [
+        "apple_fi",
+        "deezer",
+        "soundcloud",
+        "spotify",
+        "tidal",
+        "youtube"
+      ]
+    },
+    "fr": {
+      "other": [
+        "apple_fr",
+        "spotify",
+        "youtube",
+        "deezer",
+        "tidal",
+        "soundcloud"
+      ]
+    },
+    "gb": {
+      "other": [
+        "apple_gb",
+        "spotify",
+        "youtube",
+        "deezer",
+        "tidal",
+        "soundcloud"
+      ]
+    },
+    "hu": {
+      "other": [
+        "apple_hu",
+        "spotify",
+        "youtube",
+        "deezer",
+        "tidal"
+      ]
+    },
+    "id": {
+      "other": [
+        "apple_id",
+        "deezer",
+        "spotify"
+      ]
+    },
+    "in": {
+      "other": [
+        "apple_in",
+        "gaana",
+        "spotify",
+        "youtube"
+      ]
+    },
+    "it": {
+      "other": [
+        "apple_it",
+        "spotify",
+        "youtube",
+        "deezer",
+        "tidal",
+        "soundcloud"
+      ]
+    },
+    "jp": {
+      "other": [
+        "apple_jp",
+        "deezer",
+        "spotify",
+        "youtube"
+      ]
+    },
+    "ke": {
+      "other": [
+        "apple_ke",
+        "deezer"
+      ]
+    },
+    "kr": {
+      "other": [
+        "apple_kr",
+        "youtube"
+      ]
+    },
+    "kz": {
+      "other": [
+        "apple_kz",
+        "spotify",
+        "deezer"
+      ]
+    },
+    "ma": {
+      "other": [
+        "apple_ma",
+        "deezer",
+        "spotify"
+      ]
+    },
+    "mx": {
+      "other": [
+        "apple_mx",
+        "deezer",
+        "spotify",
+        "tidal",
+        "youtube"
+      ]
+    },
+    "my": {
+      "other": [
+        "apple_my",
+        "deezer",
+        "spotify",
+        "tidal",
+        "youtube"
+      ]
+    },
+    "ng": {
+      "other": [
+        "apple_ng",
+        "deezer",
+        "youtube"
+      ]
+    },
+    "nl": {
+      "other": [
+        "apple_nl",
+        "spotify",
+        "youtube",
+        "deezer",
+        "tidal",
+        "soundcloud"
+      ]
+    },
+    "no": {
+      "other": [
+        "apple_no",
+        "spotify",
+        "youtube",
+        "deezer",
+        "tidal",
+        "soundcloud"
+      ]
+    },
+    "ph": {
+      "other": [
+        "apple_ph",
+        "deezer",
+        "spotify"
+      ]
+    },
+    "pl": {
+      "other": [
+        "apple_pl",
+        "spotify",
+        "youtube",
+        "deezer",
+        "tidal"
+      ]
+    },
+    "ro": {
+      "other": [
+        "apple_ro",
+        "spotify",
+        "youtube",
+        "deezer",
+        "tidal"
+      ]
+    },
+    "rs": {
+      "other": [
+        "apple_rs",
+        "deezer",
+        "spotify",
+        "youtube"
+      ]
+    },
+    "ru": {
+      "other": [
+        "apple_ru",
+        "deezer",
+        "youtube",
+        "spotify"
+      ]
+    },
+    "se": {
+      "other": [
+        "apple_se",
+        "spotify",
+        "youtube",
+        "deezer",
+        "tidal",
+        "soundcloud"
+      ]
+    },
+    "sg": {
+      "other": [
+        "apple_sg",
+        "deezer",
+        "tidal",
+        "spotify",
+        "youtube"
+      ]
+    },
+    "sk": {
+      "other": [
+        "apple_sk",
+        "spotify",
+        "youtube",
+        "deezer",
+        "tidal"
+      ]
+    },
+    "th": {
+      "other": [
+        "apple_th",
+        "spotify",
+        "youtube",
+        "deezer",
+        "tidal"
+      ]
+    },
+    "tr": {
+      "other": [
+        "apple_tr",
+        "spotify",
+        "youtube",
+        "deezer",
+        "tidal"
+      ]
+    },
+    "ua": {
+      "other": [
+        "apple_ua",
+        "deezer",
+        "youtube",
+        "spotify"
+      ]
+    },
+    "us": {
+      "other": [
+        "apple_us",
+        "deezer",
+        "soundcloud",
+        "spotify",
+        "tidal",
+        "youtube"
+      ]
+    },
+    "vn": {
+      "other": [
+        "apple_vn",
+        "deezer",
+        "spotify"
+      ]
+    },
+    "za": {
+      "other": [
+        "apple_za",
+        "deezer",
+        "spotify",
+        "tidal",
+        "youtube"
+      ]
+    },
+    "other": {
+      "other": [
+        "apple_other",
+        "deezer",
+        "soundcloud",
+        "spotify",
+        "tidal",
+        "youtube"
+      ]
+    }
+  },
+  "player_service_items_global": {
+    "apple": {
+      "banner": "iVBORw0KGgoAAAANSUhEUgAAAeAAAABQCAMAAAD2t1ZmAAAAOVBMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC8dlA9AAAAEnRSTlMAH9+AQJ8Q779gcJCvz1AwoH+4ym7pAAAEqUlEQVR42u3b63LTMBCG4ZUs6+Bjsvd/seBEsLVWNojaQ2G+5wcDTRoz8ybKWk4IAAAAAAAAAAAAAAAAAAAAAP4NfojBEPyvFsvMnuA/9eTvAv0tfl0J7iF9eaKCfXN0wNk3Q5+zBGaL94f7GH5ZqMAs4Wt6fjNXHD4S3EFCWToIHPxRmGsCd/yCVfou5igTZx1VpYsCj/ziCO4x8Gagw8AzVdmLAi/MjBn+Ro9tGV6oGvjkxeX4osAU38sE3OTBofN0Fniiiv6ywJSmHgv09Yxzr67+9eeaUnIq8PGYZfgnnOF8QS6GrU1Mr3ZuDO+SvdGB6+tnQuAvzER5dfbDM7J41gLPpMwI/HUZy8f6feBQH7NWubElsF+GruuSo18x2x2HBc+dy/qKcRe4f0WcqiOW7T4Etiq2+lGKsm7IT43aZ/FPy5kd0LhZ5DPW7QN3tTHLh3xbQ2Bn9yuFPwo8vB5cEhM0Sed9JVHuIGNW+RimJXDSR6oG9j0XJuyBNLF8xlARmGLlWsD8/llDYMfKrALr9QUXIpqtfKajMnBO4/RjpIbA+e9hdMasaZaDlYGf/BamsZu2X8I2V6OOT1jSgSm8Ri89YlFD4EVWZflPBF8Elqdf3ltLFmdil45YfS1wHrPUiNUSuM+v+R8m3jgVOAd1xcQ/EvyumU8stcCeN4MasVoCR96UlyrGMrDj4lj51oA567fxGVcLnMcsNWK1B/6QKW6GInDtswcPXC2+PXAes4oRqynwlH+nUAa26m754DgZbgjcukTLmLUbsZoCj7wJ6TzwWrv2bzZYon9b4BNDNbCMWdKtbwksp8ExrSeBF5z23rzPEeuBZcySEastME1yKjYN7iDwkA8JnzDxGVcNLGOW/L0xsN9N72FKvhK4w7bG5w18JtYDu/K0NbUGJv/gHfv0CHwHx6eelcAyZsmI1RI4M2Vig8A38OEXhXVgGbNkxGoLnJn0mFlYXwbGttVte5WiNyqwjFkyYrUFFmYZc2S1k5UffCK44XqwsDqwjFZREvwycFA/Khbr4PeBXf4r3LlGc68Cy5j1rrEcBl7PvhOjJ4F1H9hX9tNMt8FWZYOOz6klWjagRxmxysCz2mVM8nDGbYy65uH2gSnqKSthq/Lil3CvhywZs0IOoAM/1GmWlcCDCjfpwHKd2JCwuNhw8UvYFIH108LUAg/l8vqUe1feXGe9RMtBZpJHwdtyO29PPzVbD0yT/qpSpz90FXJhP+6eDqE4BRukmwSW5140P+6Hz+xcvNlhfRFY/9JSCyynX9Pg3DKG/efiu90pmM+v7qEILM892ztjzBDzv3AxqdF4shmtA8uqKil0YMeF/pFv/rhozFPfz3I+JoHrnwnEl8MvXqQ7Og7cyV10YP2ssUYCq69T6K3Kk9P0RHDR11cepAKr6dvowLXCYSUJXDvirD74Xr9jwOv3E4VD5zz55SEDVj2wBOzpMDAlaRMNSWB163bgw+8m+c5+vB/ef/9QirF3chlgmkZHO91mIbF23xkSrtt4EmmaA9v5/VBLebMbo91ixtF97LkZ6KPlEQNzmPuEvAAAAAAAAAAAAAAAAAAAAADwj/sGJBfShSp0r8YAAAAASUVORK5CYII=",
+      "banner_dark": "iVBORw0KGgoAAAANSUhEUgAAAeAAAABQCAMAAAD2t1ZmAAAAOVBMVEUAAAD///////////////////////////////////////////////////////////////////////8KOjVvAAAAEnRSTlMAH9+AQJ8Q779gcJCvz1AwoH+4ym7pAAAEqUlEQVR42u3b63LTMBCG4ZUs6+Bjsvd/seBEsLVWNojaQ2G+5wcDTRoz8ybKWk4IAAAAAAAAAAAAAAAAAAAAAP4NfojBEPyvFsvMnuA/9eTvAv0tfl0J7iF9eaKCfXN0wNk3Q5+zBGaL94f7GH5ZqMAs4Wt6fjNXHD4S3EFCWToIHPxRmGsCd/yCVfou5igTZx1VpYsCj/ziCO4x8Gagw8AzVdmLAi/MjBn+Ro9tGV6oGvjkxeX4osAU38sE3OTBofN0Fniiiv6ywJSmHgv09Yxzr67+9eeaUnIq8PGYZfgnnOF8QS6GrU1Mr3ZuDO+SvdGB6+tnQuAvzER5dfbDM7J41gLPpMwI/HUZy8f6feBQH7NWubElsF+GruuSo18x2x2HBc+dy/qKcRe4f0WcqiOW7T4Etiq2+lGKsm7IT43aZ/FPy5kd0LhZ5DPW7QN3tTHLh3xbQ2Bn9yuFPwo8vB5cEhM0Sed9JVHuIGNW+RimJXDSR6oG9j0XJuyBNLF8xlARmGLlWsD8/llDYMfKrALr9QUXIpqtfKajMnBO4/RjpIbA+e9hdMasaZaDlYGf/BamsZu2X8I2V6OOT1jSgSm8Ri89YlFD4EVWZflPBF8Elqdf3ltLFmdil45YfS1wHrPUiNUSuM+v+R8m3jgVOAd1xcQ/EvyumU8stcCeN4MasVoCR96UlyrGMrDj4lj51oA567fxGVcLnMcsNWK1B/6QKW6GInDtswcPXC2+PXAes4oRqynwlH+nUAa26m754DgZbgjcukTLmLUbsZoCj7wJ6TzwWrv2bzZYon9b4BNDNbCMWdKtbwksp8ExrSeBF5z23rzPEeuBZcySEastME1yKjYN7iDwkA8JnzDxGVcNLGOW/L0xsN9N72FKvhK4w7bG5w18JtYDu/K0NbUGJv/gHfv0CHwHx6eelcAyZsmI1RI4M2Vig8A38OEXhXVgGbNkxGoLnJn0mFlYXwbGttVte5WiNyqwjFkyYrUFFmYZc2S1k5UffCK44XqwsDqwjFZREvwycFA/Khbr4PeBXf4r3LlGc68Cy5j1rrEcBl7PvhOjJ4F1H9hX9tNMt8FWZYOOz6klWjagRxmxysCz2mVM8nDGbYy65uH2gSnqKSthq/Lil3CvhywZs0IOoAM/1GmWlcCDCjfpwHKd2JCwuNhw8UvYFIH108LUAg/l8vqUe1feXGe9RMtBZpJHwdtyO29PPzVbD0yT/qpSpz90FXJhP+6eDqE4BRukmwSW5140P+6Hz+xcvNlhfRFY/9JSCyynX9Pg3DKG/efiu90pmM+v7qEILM892ztjzBDzv3AxqdF4shmtA8uqKil0YMeF/pFv/rhozFPfz3I+JoHrnwnEl8MvXqQ7Og7cyV10YP2ssUYCq69T6K3Kk9P0RHDR11cepAKr6dvowLXCYSUJXDvirD74Xr9jwOv3E4VD5zz55SEDVj2wBOzpMDAlaRMNSWB163bgw+8m+c5+vB/ef/9QirF3chlgmkZHO91mIbF23xkSrtt4EmmaA9v5/VBLebMbo91ixtF97LkZ6KPlEQNzmPuEvAAAAAAAAAAAAAAAAAAAAADwj/sGJBfShSp0r8YAAAAASUVORK5CYII=",
+      "icon": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAOjSURBVHgBxVfPjxRFFH6vqrtnVtdhV1ZhF2VJCIksiT/wYkyI6A0TlaMHDiYmmnDx7D/g3avxyNmDMcSYKMSLETXRwxoTWVi2YXdhww4sy8xOd1c/vtfNr2WWqe4su7zJN1UzXVXfV++9qq5ieshEZATFZ8A7wBQwchebsRXgCjAPnALOMvNsXyuQfwDEsvV2UbkeJf8ISGX7rAccV25GZR/KM8A+2l5bAKYMvo5uBXneviWeJuPA5wG+TtBmbfmm5BdjyeJFSuevc3phkZJ2h1uffuiabx+yA3oeUQF7qI7duCk0M5vLlQWWeJHdTMzu+go7DjnliBwHgKUM9bSb2ubg0Q6pgEmqaj/+InLqOyZmm4PEUUnmTIOUPAN5ZoKCPCdLORvfiGMqYIgqmsxd5ZyaGJiLwZXQFYRhUSYoMxNSavT/qBDnsWcCqmE56SxLAc7YgiC1IISQ1JZCEluKKMJgvQK4lgAniCsc5jD7gjywlIAsbzbFjD+fD03uNq09Oykca9HM938LPOGNQS0BGTyQ8LNEL4/ldv84R3vHaMfkLoomRtkMNdZN1/12ieEBXYo8YMh6HlD381uv0ujJ97wz60YNSkJvCOp5IKUG8Y6oUttOE94yln3tagnoqQeQaFVstfCAf/haAhJSAdW6dMKIetYvtr4HKnbpBlgx9gnnwBo3KDDVutwOihzwtvNm88PWg4A19ifhCt72cddgg/IPX88DVj2wcWL/t+Doj7lMppeyfL6T8RobrrAV1xPQXg2l9Rz3KTh3wcnXZxJsvcLOsnXYll0olMkmPZB0iGZ+z+VaTHT5MsvcQmAOT/R74PS/xF2sjpzkAbAHhpZ9O+HjBawuEf3wldBy23APrXoRcS9iZHZ/20YT/+trGe/KHHSCjwP3gVGb4/HAODzWR//8RLTUZqxlxD7Q+Jcl8rDvqHVsCkfLEKdabHwpciQJWE7gqHFgxJ8E6gE9t7cefXC7ixCgu84+CcoyhdwXXuwf5PUJ5m+PWzob5244YnNwJ8n+EfZuw0qjApY3EvDKEZK/zhHeaCWxA3a9RPLma7RhXHcPE3188P7Cr0KuFuux/DQqxzZ6Ov0nZef/J5sxyfheojcOkxlq0pO0n/VS8qU8PftEPaB3v2lggrbXZoF3DS6KN1A5SXrg2T7rAV+su6TqXU3Ki+NWm16A37/Huy5bpbwnHqXytqQXFg3LMA3OahnwW+urgHpZw/wr8M1drxd2B1XpClMqSirQAAAAAElFTkSuQmCC",
+      "icon_dark": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAGhSURBVHgB7VeBUcMwDFR6HSBskE7QMEHDBLQTECaATgAbQCagTECZoGGDMkHMBHQD82p8EIKT2DmlveP6d1/1EsWSZdmWAqpAax1CpOAlGBlKQBk+g3kQBOqPBown4KceHgU4rxuf68Nj70SAPxHkRjDcrtiBkxF+koGM7zrec77dsgNXJGNsDWbgApwg0c6oTLo2zMbkP3s2loMfRm6tWe2GiPzyRj/4jA79VdeAI/LDOwnD1wFxjEkIiGYMwZwauXD5rpcD5uxIKsaYYU0tdhnL2wFzgr2QEPrkQEiCOHoSnhz4tw7wfaFcFMUOIiovplcqS64tP8CW7fzI1wFF9ttzDaNOJ18dXUvAoVyBS/AcRvIGvYx6oi0CCrxwvOubDqcZdaAtAlmDcZuxm/oDrP8dORQ7bRFoqummlmdc0hdUlmXsYEKulZYu63QbNhbdWMui4AioBm95Vk+Qb5WZpyQLxbO618dDyo0Jrxmvn+g16zR77LIRMp2T7ZoOj+WvXabL/rDQw4Mb4O/mNKi6pH9qPe6WIpJvzzmhH03U9/gCSeLplY8640sAAAAASUVORK5CYII=",
+      "default_width": 400,
+      "name": "Apple Music",
+      "webui_icon_url": "chrome://op-resources/images/player_service/apple_music.svg",
+      "allowlisted_urls": ["https://appleid.apple.com"]
+    },
+    "deezer": {
+      "banner": "iVBORw0KGgoAAAANSUhEUgAAAPAAAAAoCAMAAAD35ofiAAABpFBMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAql1Ap1wrRJsrEoIkLpH/kQUAAAC9GFj6sQgqUJT9fAI7qF3/gQA0j3jMJkvyWB4rS3YpSpQmPpMyp18ypl7RIksuXpcnPJOwF1v+vAU8En05qVz4tQcoIIn9dhr7kRI1knVNEHqOFGX/kAD/eAAvY5YsU5UlM5UlMpRnFHCgF2DncBwzp1+uF1q2GFnRI03VMjDXOy39ax3+eRr+khH+oA7/rwn/vgb+hBUqTZVTE3VtE2+IFmfaQyrhXyLqexrxlRDUKzQyaJdaFHR0Fmw0dJmPFmThXCLpeBrxlRKoF1v9yALaRSklOo8yl21AE3wqQJX6ZSA4j3gAAABAq100mW6AFWozpV9hFHIzVaUwTKAsRJwpO5hBE3ueF2DaMzzjRy7tWh72bQ7/lwD/kgD/jgD/iQD/hAAybZguW5b+hhX+lRH/owz6rQolM5RFE3pNFHiVF2PcSyjfVSXkZyD9eBnrgxfujBTynQ4hS23NAAAAZnRSTlMAQL/fnyBgEO+AoH/PcDCQr49Q30Aff2AgH9+Af39gYEAfHxD+/t/f35+fmIB/UEhAQEA/Hx8fEP7+/v7+/v7f39/f39/f39/f39+/n5+fn5+fn5+PgICAf39/f39wcG9gYFAwMCDo1A+TAAADIklEQVRo3u2XZ3vTMBCAT1ZkyXGcBbSlLaW7dNFN2XvvvfcwlLLKhhYoe/1pcpJq2W0fvsYUvfmiky568lqXUwIWi8VisVj+BbJhGDrwH2GFlzpWeKljhZcMbcsRE/M8yc8TZgSnDJwQwkFCEnC9A+abdYY7cEgLTXcR0LhOWEFkeCTMfREiGQYKPydjx8VHESZYiYqOzKcqH4dumWI+g3QQF2aoK6FFLVwWkY4vU2gUlxYT9qOA5rWwr+OUGK9dhoCEhgYlTORAKOsg8hXKeKGwH1sWDIUNBUgb8tMKj+RdqoU5DnIEgBVxiUMGj4pwYB4mEO5p5BsoZ1KMAxBZxUpYEGACl6FaXD14YP++Q3Mn3LWtq7MTEGoKr6iEXakBiEBBKaQysvEz83XNOvhlBySPMxxCPRHgAKpF3+yH9+/26qDpPgKgy9cFCRcoLAVKRIJDz8NZFZfw7OO+OQZc7kAkuEEe5AT60wpQLRoqvj/26ODGPQTmToEn7uEwScZJxjTuy/GRJXG1cLWpGx4eGrqtgzsjI83NzTjyjIIMFgoX5gnnkr5QDpOQlAgPNFy+dPEaXLlw7mz/4K3GxsYz5/8i7GQiyihMTRwkfLVw0ayzlAj3zf7a+m03bP8yMfmp5npH+8z6aZx24yWt7mEqLyMFnyt0E0e+RRUwdTeZ9ZQIN/z++f3rLtgxNbH5c39tR/uGmemosXpgPrqTEKQ5lwfqepVkqM+0bxY0Ir5DsZwW4YFTJ08cPw29vceOHrk52NNzuLvb/O4IzO8pR3UhHxBfugrZjqOeTkrGF/GiHXgOD77qwnXrKq/x8dbW1pYWaBkbGx1ta1uBgKppqRm4JaFGALJL0VLgyUEBAhlndEzndSmXqwflBSWRji798tXrN29Xr3rx/NnTNVA/NTH5pKb24+NHDx+Yu8iAwmgQQTlAIRYL5s4ThryIN/Xql/RiwhuNsNFxCkoYeNb4M1m1IvbvYIEwMGp8U9C0YsI7oX6LFN4khTUsmxMhdVx9LSGs4IhQ0AyZS3Edin+nXA4LhSsQ3ELkPJaeLm2xWCwWi6UK/AHM3nlzOmzCLgAAAABJRU5ErkJggg==",
+      "banner_dark": "iVBORw0KGgoAAAANSUhEUgAAAPAAAAAoCAMAAAD35ofiAAAAOVBMVEUAAAD///////////////////////////////////////////////////////////////////////8KOjVvAAAAEnRSTlMAQJ/fIL+AYBDvf3Awz5BQr4+k5bJjAAACV0lEQVRo3u2X27qjIAxGwzkIHt//YadJ2IC23+xLnQ7rpvwa+Vwa0cJgMBgMBoN/AX0ch4P/iCH87Qzhb2cIfw2oiC5nlS/CVql8PQSBUSewzED1bb+lGRCeQjiImhylqLEK4xS5QlsQppmzC3QpjhOWFB3XG6mnYVgN1Vt4Br2wdUfBbEV4jVVn4hJT8/5JeKrB5CI8lfwQ49UQwJijIcKKB1GsU/WVvL8LT93uaEm4scDT4LONXuVgfoRpMCsAu9Eu5EfbKATrqUChL/ABBi2LIYAycjzPqMBG2g13kcwL936HTWu8TYQDawARSZCFpEL392wqPevoYQci0xaEo2xINIC78Hx612dY2jcAg5GEWWBXDA29p62Sd7r3ve9sAXkGxdAEGX6mzHxV7+KzsNwFPL2HjzPanbPpfVEuWU8owndj1YtcA0EjXxUkvAsvF+H57AvrpV49RFj5FwkS/ajsib8IO11ZHZW0nM6+Irzpin2IcGlpQz++tXToW3ojVS5JIGBt9Jqr7yZB1rRu/7OFM2dop+5OgmYOmOT1ymgz2eKroRD7Gbb1KcKrfrHDwl2qNNG+O1L7nnKyCk31TkYbeTmua7raqy/j6ww4042/XdgSiPxzDm3BdinsUUYAjpthT54HCyTOumRzWaUCyoXyaY/PWKXltD61NKPfPi3JoGIQYOlytOEiDDl2cbm/pX8RbjpuEWFA3fwtd23s/h28CYM1zfcBi9ZvwmD1HA/jgryWZNPi4hGNVj8lwRn6OxUQ3oVfKJoizt4+Z5UeDAaDwWBwA38Aa3xJKfzx7IAAAAAASUVORK5CYII=",
+      "icon": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAARSSURBVHgB7VY7aGRVGP7O4965M5OXWvqKqCDC+mwslATZwnQW29gF7BbbFNulsRBRsNFqcUFkS0WxEAKbdHZWSsAgEd2HSYgTcOY+zsvvP7MrVjvbmDT5h58z997zn//73wc4p3M6Y1I4BXr4i3feMlyt8TB331myt1X9/wO4sWoXbz/urEowKsKSjRLLFfi0a3EKFIzGPZWBABQSdP6icCoAIgGIqwPVqRQhP2LgO30KAHZWY7zw+zWlke3O9keNJACCOsJZ08wkHP3wxJXk0pto+RAUQgp0JVCTJ311+fmVP3657wGbm7q6cPS90Yw3tdlsOWB4lu7KOzNDoGu8gk5dRJdAIMjaKWyDxE8PZ8ljBVodFhdVyqmfXa8pnzqL2PVmV4FtDFIdkZpEAQo7EdYwjUURDB6EdNuHMionHQgkea7OIrXV7CTULYsn+5sGcE0thScUm1RAW87WvkO5R4dQSsCqDAD0XvQF0FWzc6C+vrwcGiwJAIwJPK8FxmQ3mew+dW2/ue8BKanhpx++CBT83SMC7yQPBs1MD9SdjuWEdTtCZjfiMaMh1yU+AF+99PbSra5Y3ifG/eEAN4clDgcFJvzczvX/PFLqNja+BJgtrsB/QBRow4KZCaAy+iM28EtRSx9j4qUeutijZRbjbu5l3brnylBdL5VC1WgMtMU8j01jw2RL72PzxqY9OfhR8iaTaNQq/+Gb2UmYPHLSJKcRaEKoS8Smh9BUU5P4XEaLQdJYoFtrVkpgySaCMX0q2qarn+V+GUOcB4msuBdKVPceoBM6Nk5vEJ2UTcG1B3+XHQGYQADOYBgVFlmqruN+soRH1VS0QFv/LugwJh615Y5oBQzBp3I2gBjwc3RqS7wQvYWnQh8IJFC0KUfaq+PCm60BAcyTO5/gY2LbUNyn9jKA2myFiuUsOmUUMkxKSQUVv+KsSXWfPfK5liYjHY6JBBmdNI5Jd1RdPtg4+fjJ9+LEvupOKnTHc3B/zaE5nkczWqS7h1dODh96pm77747pmRO6dKR6OCz6OCgrHPfNt9/99tPXT7/x+tV6yaJdYCjmGc6qh1iwMWl7x4ak1vNkovuSNImI6aroPmBDu7ASvLnEEZDHqOdmz/bhmUzOuU/alB6LOqwHykUaEMi5Yqys5ubq6so3t3xYZ6jYvinHUKqQcldMKe7ayHaqI6X5ElGyVFql+ndMhZaIW6kAHs73Po+DQBBBegkvG1wp3+qIhjI1Y9zQOuZrTjohQ7CF2CbGyRxoJRn5IGUdOzNVyK9JQMi8liVN+7zUc+CekEGQ6QnPS4XPU8kRRIfWGDTsbjVvOw3HXVfy5kNOhc9nWMNrGL1nREcnekQ3PSCXstjpNTErSZ1GEUi57Bga6X3shPiAo/iqZ9Z78QJ93QU9namj8Z4O80dtL661PMzxF4qSyj2SNlCV2dve3okvrL62ZqQTUCQ3JIZHvBh0HOGczums6R/hYzPWEP10gQAAAABJRU5ErkJggg==",
+      "icon_dark": "iVBORw0KGgoAAAANSUhEUgAAACEAAAAgBAMAAABulgz5AAAAKlBMVEUAAAD///////////////////////////////////////////////////+Gu8ovAAAADXRSTlMAQL+fYDBwECCQUIB//OyCBgAAAINJREFUKM9joA/gcnFxQRVhunv3LukibMbGxrjsSFJSUgXRnEpKShAR27t3L8LMIV4kUFBQHESzCgoKQkQagSKFgoKiIBGELtm7dy+DdBEvsgnowiAlJTWICzEB0HMJzsbGFsHGxiY8YJ8CtSogm0OcCDCwF4i4uHiUuLg4MoJCnnYAALEPX22hcsxtAAAAAElFTkSuQmCC",
+      "default_width": 1005,
+      "name": "Deezer",
+      "webui_icon_url": "chrome://op-resources/images/player_service/deezer.svg",
+      "allowlisted_urls": ["https://www.deezer.com/bg/login", "https://www.deezer.com/br/login", "https://www.deezer.com/cz/login", "https://www.deezer.com/de/login", "https://www.deezer.com/en/login", "https://www.deezer.com/es/login", "https://www.deezer.com/fi/login", "https://www.deezer.com/fr/login", "https://www.deezer.com/hu/login", "https://www.deezer.com/id/login", "https://www.deezer.com/it/login", "https://www.deezer.com/mx/login", "https://www.deezer.com/nl/login", "https://www.deezer.com/no/login", "https://www.deezer.com/pl/login", "https://www.deezer.com/ro/login", "https://www.deezer.com/ru/login", "https://www.deezer.com/se/login", "https://www.deezer.com/sk/login", "https://www.deezer.com/sr/login", "https://www.deezer.com/th/login", "https://www.deezer.com/tr/login", "https://www.deezer.com/us/login"]
+    },
+    "gaana": {
+      "banner": "iVBORw0KGgoAAAANSUhEUgAAAPAAAAAoCAMAAAD35ofiAAAAQlBMVEUAAADmLDDoLTDnLTDfLDDmLDDlKzDnLDDnLDDoLDDnMDDnLTDlLTDnLTDmKzDnLDDkLDDkLTDpLTDnLjDnKDDnLTAPSulyAAAAFXRSTlMAgO+fEEAwv8+wIN9QYHCQkGCfcB/cf1edAAACZUlEQVRo3u2Y3bajIAyFE/lRAWttD+//qlMCJaBdczO9iHP8bjg5xayV7k0ahIuLi4uL82A2LGwp1BtyTPw8EVXGASyqgEFDRpsnPyIdHGJlBtBtfIcXdoyMAWhCjx9SyEZPseEGzrdxAIAltgDA0MbPYwrZPGKLAd/FFsDFlgnAxpZBH1KIhuQbV8Q5JnSNkcqAbOBB4YsxGzbE8h9FX86PqY8gpQDRpDoVJDCVQeUhxSHr6UjouhfzRu+o2VHBj5rCUgrZDLWcW9JJxxeOYsx6LrQQUzbsXA8qfRlNipBSgGjoPAKxpqZsSFai1PWokgN9GbXuorDfpwDRhFogmXnDvZ60hM6wdFDZFI2sI+0VTSpQsbnN3OupQcfesKVuNsF97VNYEA35ls191NPQ0hp2r+hYU2hKIZvsWzY367nkum59eVupm01ghu5ITyAa0kRzU7Y7PbvySmVjb4o2hfzB0vTnEcNBTy7P8WDZmmKfAkSTDcvmxoOevi/vaIo2hfzBMndY/pFljWwZi2mWqkP31B1U2s0p3AkmaZX8aLkpj++p0Xi6/G0mLasG0M+YQLv7pQ41hU1hVA4kc+NLDzlT5cDHv4Pc8SzGBvGjpYstdzBxzxQ/ELjjlRSnuf8/d1d3rIVaT4uuauOS1/620aTwdpLfpsHOA1/dazygBr16atnLRJWH9Jmnzb6/KjhFjyid9kqfpQntnO2u7q6suv6hPz/GZ8O9dwi//784y1T4XVb57ear0KtK+S+U/xmnMuNArej/hweM3yHwcqb3598VeJhlj8DfQS9v7El+PC8uLn4rfwD74VXj3esvagAAAABJRU5ErkJggg==",
+      "banner_dark": "iVBORw0KGgoAAAANSUhEUgAAAPAAAAAoCAMAAAD35ofiAAAANlBMVEUAAAD////////////////////////////////////////////////////////////////////xY8b8AAAAEXRSTlMAgJ/vEEAwvyDPYLCQcN9QoKvOUVkAAAJdSURBVGje7ZjBlqQgDEUTBERUKP7/Z6cJFiFaZzZTizjt3dipxpwT3yMG4eHh4eHhPriIB7GGNiLHRNgRTSMARHOA2ULDup1v0Q5OpbMC2DHe4Ac/F8YBDGHCDyl0Y5cysENIY5wBIJYRAJjEHdcUujFlxEESsQcI4ocFwIsfJntJoRqSb94Q11KxPUYqA5qBJ4M/zM2wuRy/vOjhBNdvQUoBqql1GqhgLYPKQ4pz0zOQ0H0ttoUpULOjgk1P4SmFbqZezl51slQCxdj0jNyHlmbYtW9UehhDilxTgGpoPwKx1absSFbiqMt0yYEeRq/7UDidU4Bqci+QzBzxrCddsjAsbVQ2xSDrTGtVUws0bG63Sj0t2CINe9TNJtg2mcKDasi3bO6rnq5ehGHPis49haUUumm+ZXOznrHVtcvyotio9NqdxJZeQDWkieWm7E96ivKOymZpijGF/sHSyf2I+aInlxf6YClMcU4BqmmGZXPjRc8ky7uaYkyhf7BsHZZfsqyRP8ZiHkRMK/j0pkZOEW4wSb+qHz035fk9NbpEh7/o6IxoAexeKuhPb+rcU/gaFhNAMzsfesiZrxak8neQO57HMqB+tJRHv438KlnKBzJ3vCPFbc7/++nojr1Qn+hiu9oY21WeNoYUyS/62zT4deKje48ntGC3RC07LlR5rv9LtDjJo0J40S3G1rXaZ2nChuDF0T1Aw/Y/7OfbeG+E9wrl5/8f7jIVfpdNf7v5KvSpUv8H5X8mmMY8USv6/+EB43cIHO/0/fy7Ak+r7hH4O9j4xt/k5fnw8PBb+QO08Ud43ZBI+AAAAABJRU5ErkJggg==",
+      "icon": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAPFBMVEUAAADmLDDjKDDkKjDnLDDnLDDlLTDmLDDmKzDmLDDoLTDnLTDoLTDfMDDnLTDnLDDnLTDkLTDfIDDnLTA+eTEmAAAAE3RSTlMAgCAwz59QkHBA79+vEL+/YGAQHNEVdAAAAKtJREFUOMvN00EKgzAARNGfpIkata31/ndtGUiycKC70r8SfMIkIOeXfg9uc9xRwYKJ3uZAZnRzIEKccg58chse7cMEyYEAux4WKA4UWPQATA4kmHVW4G5AbYfbgGqANvYtV6Bb6lscmCH1LQ4sDWiLAQV45pxnbTEgMDodqJFWugC1HumFKgaMdl20B5eLNkBbqwNrUDrs6UChFVcHsn8/wBJVOjRw9A//5ht7zj0qipQFHwAAAABJRU5ErkJggg==",
+      "icon_dark": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEUAAAD///////////////////////////////////////////////////////////////+3leKCAAAAEHRSTlMAgCAwz59Qv5BwQBDv369gHBGKSQAAAKlJREFUOMvN08sOgyAURdENCAKi9v+/tuQmeCcn7azpHpl0NTn44PWl34OtxQMrSFB5uhTIeJsCEWLNOTBTG/b1xwRJgQCHXXQoChTodgFUBRI0OyuwCzDW4S5gCGAbny0CVMC3CNAg+RYB+gK2RYAC3DnnZlsECHjycY/IKgkwO+90YBUBvInqJ2A3WgPfOhQ4g2WHlS9tYRVPBbL+3UGPVrptoPcP3+YbUdkz0gy3M+gAAAAASUVORK5CYII=",
+      "default_width": 1185,
+      "name": "Gaana",
+      "webui_icon_url": "chrome://op-resources/images/player_service/gaana.svg",
+      "allowlisted_urls": ["https://gaana.com/"]
+    },
+    "soundcloud": {
+      "banner": "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",
+      "banner_dark": "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",
+      "icon": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABWVBMVEX////5PwD5OwD+gAD+fgD+ewD+eQD9dgD9cwD9bwD9bQD8aQD6RAD5QgD5OQD5NwD4NgD8ZgD8YgD8XgD7XAD7WgD6RwD7VwD+8ezyTQ32RgL7UQD4x7H3v6X2u5/4YwD7VQD3RQD73M31uJz1spX1s4/zpH3xl3D3TQD6SgD61sf508D50L35zLb3w6r2u5z2uJb1rYv2oHz0m3f1jV/zeEbzhUX4WQf6UQD1RAD//fv8593739L62cn72cP51cL4zrv4y7L3xK74w6P2vaL4wJv1tZr0sI/yoX7yn3X0oXD1mW/0mGrykmbxj171jFf1bzr1ezj2biv2dyj2biL1Wxn2Zxf2XQP1VAH6WQD4VgD6VQD6TgD6TAD99fD97uf749f5ya/2vqL1tZL2sYn0rob1qIP0iVzyhVfzi1H0hlD2gj7zXyP3VBH2XA3zTQ31YwvzSQj2YAA71w75AAABQElEQVQ4y4XMVVcCARQE4LG7dY1dcKVLuhvpBikpu1v//4MLC57Vl/u93Zl7BlMETBMwQ8AsAXMEzBOwQMAiAUsEbPx3KJCc2PzrsJYMh5Pu798AW1LbtVwMAn/8cxxhe2Sn1Xyp1m/VRgxdtUY5dkTt5lPhTm1VWyMY8rvbYoFdUd2dy95Y4lZLCKLjs05nUIDn+a7H46kWNZqEmbPIFBCdq+Xl9y7Pg2W9p+XnUkljS3PHputYECJxhWUh9Pl7bVaTVspNEYPZeAkJp5dFT2eXcUqlXHbChRSKqCIACZuuh77OqUrYVCpVSm4yGszRICQKuj70+sZDvqjVajMZYSWlNEj6QEOvB8Mwb5WKy+VyPjrsdodDtjd2wb0eMQyYgSPBwZDP97E/8uUbVFgmYIWACQL9MEmgH1YJWCNgnfADh8BNQDma110AAAAASUVORK5CYII=",
+      "icon_dark": "iVBORw0KGgoAAAANSUhEUgAAACEAAAAgCAMAAACrZuH4AAAAk1BMVEUAAAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////ROyVeAAAAMHRSTlMA4KA+3Vf67NZ7W065qmBQSSUJ8s/Ev6ahbEI2Hxzo5ciyko5+c3AwGAGGaGZkEgRgGSKWAAAAvklEQVQ4y+3QxxKCMAAEUCEJJPTeQUCqNf//dSpEEZWT443Ncd9sJtms+TG9URPJXO4v6UGglIqVtSR0nqdDlG8kda0I+UzQ5qO3yha3rqY+xLZ7F2cMOJAfn4JWREumehcnHWdkkRMWo2A7gPUIeAYGom7LuFZeBc3Yih86SJRtJCBI5oLKo1AIlIThQOLNBRpFcNu43yHquClmQmCfK8eeASMOQJBr6kyU/fQW1QxS3wzAXoMcC3RPmzX/yRUMWx4ZsIx8bQAAAABJRU5ErkJggg==",
+      "default_width": 973,
+      "name": "SoundCloud",
+      "webui_icon_url": "chrome://op-resources/images/player_service/soundcloud.svg",
+      "allowlisted_urls": ["https://soundcloud.com/"]
+    },
+    "spotify": {
+      "banner": "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",
+      "banner_dark": "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",
+      "icon": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAULSURBVHgBtVdrbFRFFD5n7mUXpZAIFBDYRwsVtoGSAlEeGiBiBKxERSURaHf5YaImJvwTfmEUIokaogk/SGiXhyGBSFB8NiRtY2q1iYJ97ZbYdrttkyqigraUfdzjd7fudru7bbe0/ZK5987MmfOY85i5TOOArbFsiaarrVEyCkgonxUvIuGosNxmkWvEqoVC9H2wqKI9W548FsHmqs16+wKbh0SVEvPjlAWgUD2LOhF0VZwei3ZUBRzN+7fDwI8geCndH9opKqXBFadraTwKxKx+OO8DEnmTJgfvBV3eg5SNAvaGVx4ifVolrF5LkwmRL3L7rS/8tPZkOHlYDSM6fFixxfrlpAs3wVzyR07oQurwMAUcuzvfF5H1NEUQoefsfs+x5LGEC+yNnhLS5QpNPaIG0dZul7fa7OjmIxZ0unyckVykD9v3uzD7keu/pRPwbCGZB0uc6CygsaEp4qN4b4itNh+2JrebNaoYkkldmPiQWL5T0/OaA3mHB7JgTE6f2xkSKtBFtrDGz4BP0YjEwk8FCyuuxhSw+8p+hi7F8blolIp7Vniv0wSx0L93mU76a5C2BwLnDpNPVN3l8m7h/BZ3QYTpRvIkfLQl7qP5vftmWG6SizR9CXZkERs0K8FEkzCz1mWEjKCCm4IrKloyKZLb9HrOA9x3iBS/RUNxF7ozQPPZ3uQpI028KWs6hfgSfLGeSVYiBmZQdrgFtWqF6XJYuKrX5Q0kT9p8nnLw88T70GSXIiWuDIwcIDzATOvGIdzEHLDdycLlFqIOuPaKo3HvhoRAQ2YlEwupIh1qFGfmhYpAXINtv4oPvzWi6ts+dfSgWBlxiqVfbbfey5+7kknLA7cnsGY1xGwc4sElousldp/7WxkceHq4iOgitvncddiKdaniIWUX4uASjROLW0vNI3qbEj6Ebv6oxEKf6Yx9yHgk/RPpN19mjWib7VxPGi1Rimzwby6axsT/SgR1QXGPREIt3UWfNJr03cvO9OB1ymyLm0v3KqXeocEakQ7GavjpIr5ezDA5AA3NqC5Em05jQm7B8h+RDecCrorziWEYYF/gQJZxXtqKe9FTOnwTyHgmS0zoasoaPAdK7zBIdtj97qNK5ORti/WEFo5gyJCMK6Zp3ToZ7Es5E5MoKIC1X6PUdrDSbiihm6zkTwTIQFS0HGFjDpNhBfd1YLERV7JNiF0rlHcaKLczQ6FXEcAa+NgysYdaP+hGRK/ULJG0SeTAX/P6rI+knt8joNJ8LPzVY9PC9CR21AzAAjQnj3znCms5ll9i044WdzUCa1OK9YZEaA8sm21oks8xd3AerFWoEQ+CfgD5fheUAbRaDqvKzqLyuvhyh9+9HztxHPQzKbP1F7sLvS8PngV+90sgvkATRwCKHdPu0OXAo95e5P83lJr7CUR3Bl1nryQ2CPXgOjqraHIQQBG7hp16PtMk4qK+q9D7mPmdCD+D1QGKHVKTAudIwk3oKlIa/04o0LO8vAqBd5ymHm93LD/XGu+k34p97s/xepamAIiPE13LvW8kj6VVgNw+yy7k/XmaZIhKF25ixCxFUB75P58nKJn6UQuOdLq8RzNNj/prZm8oW4Nr61ncCVx0X7K5xtCjB3sKztSNRDPmz6kJW6tnt4pSmcHGNpyCY63ph+Q6g+nd+LVuNGSlQBz5bfvskZC2CmfBGgSUjRnXceaIiHltl26wa9DuSk2g2Pt3tjz/A7h05Lh+2gorAAAAAElFTkSuQmCC",
+      "icon_dark": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAALqSURBVHgBvZZLSFRRGMfPWDI9rKioDDOsCGkRlW7SiBKMMGwjVESBPQhatixXQvTahC3aVUs3Rk96IqREDha9YQglR0wXaUiJ5mDm6fd1z8Dleu/cO+Md//DjzJ37ne989zvnfOdEVAbSWm+gqYaNsB6K4C/8gvcQh45IJNKjwhKDzoVT8FIHVyfUq5kKJzXQrbPXV9ihMpX56ms6PF3KZPCl8EaHr4eQ7zd4HnTo3OmuXwBXde51xWvwWj07moTdqXEjqUVH0w0lLrGNwSB8ge8u75fBStO3UAVTjFpRaf/6Y44o++AMlMO8gE7FTwnsgYvw0ScT1faO7xwvt6oQhJ9SaIIhlwBeiE2EH1JWuxx9q0hRm3GykGYTSBmW0rvYZvcHvkEfDNIn7hFIAU0DnFVm2tEErJKX9S7R9WprR8RgVAfXD7gPx6HEJZBbDvs6+fOyzp2k+FTaArjteN8oq3+b8phCaIdWZe2A1zBAmqdsDqM0m2Ed7IQysNf+WgG7Z+Z5r2OMInES84i+TmUh+hXBSW0dRH66JxnIc3M0MjLy2zgUmwplLcJiWAFzYFRZdWEA4mTms9jTyvNNgb5Hac8r9/qi/o+NUYtHdOPw1rRBJAvwERx2ZERO1h63Dslk8oZ8fa9HdFKAykwbRMthHzTjOwHnYAnP85W1nqYpGo32Sx04YVLmpl54Agll1YohGIYkFJhBZSFuV9bi22We7f1luoo9/NdIitZ4pHRY+53fDmFfrK2y3qX9NQGrU4dRm4neLtluR5R12MgFVKZDtptM2wKThXHzla/gOQswZgtGMtsEizzibcH+YMr4gA5HCTgNhcbv0zS2+53p+6DDUwLupHnf6TZ/VTClZ0elrpOiZ+dK1qjSCYMHOne6rvyEUT406/DlP7gjkAs6HI1Bg8pG2roTxnX2aoMKNVPh5BA81sF2iXxxq7ZdvdMpojIQTtfSbIFyZdV3uY5PKuva3g+foJ0K9zOoz39aYHhuSbk8fQAAAABJRU5ErkJggg==",
+      "default_width": 768,
+      "name": "Spotify",
+      "webui_icon_url": "chrome://op-resources/images/player_service/spotify.svg",
+      "allowlisted_urls": ["https://accounts.spotify.com/", "https://facebook.com/", "https://appleid.apple.com"]
+    },
+    "tidal": {
+      "banner": "iVBORw0KGgoAAAANSUhEUgAAAPAAAAAoCAMAAAD35ofiAAAAOVBMVEUAAAAQDgwQDw0QDgwQDg0QDwwQDwwQEBAQDw0QEBAQDw4QDwsQDgsQEA0QDAgQDgwQDgwQDQ0QDw0eYnrcAAAAEnRSTlMAgN9gn0C/EO8gzzBwUB+Qj1CPDsnGAAABeklEQVRo3u2X25KCMAxAk9IbArrb///YTWDGlNKVB2SqTM6DpiVhOJJpKyiKoiiKoihngliNLgumhJXossaYCKxHJSPmgDDQ0EGGw4XfASoEJIKMpWabfoIvg9WoxKQcELoyHZ9ZxvYgSHoaa4/SwbnIg2EtOiIsmKl6n9sXCHtDzA7MnvCSzLiid1ez+8LNWlpeDzB7wizUj5GiGCDHpsQ38Q2Edxatw8KsHMtrPU1YTx+hgfDOtnRMWMJbea13XNFAePfgcVw4pKLAzD9ATCk2ERZKzePCUnBf53aS0UZYGvl8Yc8dDTDQl28pXC5VJ7S0LFki3kxYNqN3C3frRcvy0BOGaxoKy3HjvcK9WXkEGgoxXE04dJEik2euGK/U0tS4t5iYYV09upkHhX5bw9zhPz550WKY6GTeZe87RG6Das0r4c/dlhYiBhBs3rb8ih9Hhc8/eDystVDgaG6CjMku4FT8byCee9FAg59NDRNAURRFURRF+TL+ANcALSfWEHabAAAAAElFTkSuQmCC",
+      "banner_dark": "iVBORw0KGgoAAAANSUhEUgAAAPAAAAAoCAMAAAD35ofiAAAAM1BMVEUAAAD///////////////////////////////////////////////////////////////+3leKCAAAAEHRSTlMAgN9gn0C/HxDvzzBwUJCgAO6IzQAAAXVJREFUaN7tl9uSgyAMQBPk6m35/6/drGs3iGx9oAytk/PQJph0PGOKCoIgCIIgCEJLEIvRbcEYsRDd1hgjgcXoxIwpwEyUGkgwe81goIBHwnPOPRO0BuMGFqMcFVOAGfJyjA+UdsBweZxLpzJAW/jEsBTVCDNqKf7O+AHCVhGbww9XwnsxYbLZ5dUa4fYjzZcnzcvCu5CbA0XBQ4qOUdGq7SB8sWlVCxMu5MccLWhLH76D8MVtqU6YwzE/5gx3VAg3ePCoF/Yxa1DbNIcYQwdh5qxZL8wN7lg7cEUfYR7k9sL7v3eiL9tP+LxVNRhp3rIe4q6fMN+MXi08HDctTWlQROCeLsL8uPFaYacOHp5SJvi7CfshUKTSygPznUZ6tHYkXWI6ds9mY6XQnno2HPzHO29aD0Lia5Lr7QMlptjzTPh9b0u7LnpgdDq2X5SstcLtHzxWrTVkGFpbIGHRv+CSvTcQfzYTJeu5h/AgCIIgCIIgfBjfM4YohnAE3bYAAAAASUVORK5CYII=",
+      "icon": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAgVBMVEUAAAD////9/f0VFRUKCgo9PT3y8vJaWlpTU1MREREODg74+Pj19fXS0tLOzs61tbWbm5tEREQBAQH39/fX19e/v7+8vLx4eHhycnJtbW1mZmZgYGAHBwfr6+vp6enIyMjCwsLBwcGfn5+UlJSTk5OCgoKBgYFQUFBNTU0cHBwbGxuvWLLJAAAAp0lEQVQ4y+3QuRrCIBBF4RkgIZDVLGZ1333/B3SgMclnqOz0b05xpwH4+7Z6ZSOljdfATIu+uehY1JvdZ1eYuDDErQe3CJH1tFNaGOkYkqi2Yc0GDQlvKkaS6bVJyk8mMYeRR0K7AEEXlYA8QyyfMMHLc04Raaoo+THhMKMGGxnYDAo+C4oiAId7iBg6Ljza0fzYEh0j2XNYpHeIBw0OvKL3OQkBP+kFQpYGTPmGxTwAAAAASUVORK5CYII=",
+      "icon_dark": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAllBMVEUAAAD8/PyVlZX+/v7+/v78/Pz09PTx8fHv7+/g4ODb29vf39/Dw8Ofn5/5+fmDg4NZWVn9/f36+vrs7Ozz8/Pw8PDu7u7v7+/x8fHk5OTR0dG9vb3h4eHT09NmZmb5+fn5+fn7+/v5+fn29vby8vL09PTq6ury8vLl5eX19fXo6Ojd3d29vb3d3d3MzMzd3d2+vr7///+UGmHjAAAAMXRSTlMA9Af9+e/Et5FMNhUREA0MB/PMqYx1aWZYWExHPDYF7uflyMXBvLKxr6uTaWFSRkMz6lpDaAAAAKpJREFUOMvt0LcOwzAMRVHKvffe0nvl//9cRE22AXnKlpzlAnqaCH/fVnQiti3yLuZ7iXrPU2txzePoaj7dcxVx48AzRtQqviOq5XivVOT0m0bR7mskj9GHYEsvlnKmXPyMYngw4hq0g3JCPCoAFmLiwoSfZBQlTUPqde/DTDiINK3IEEiu0TJmw4IXQ2SNfO8ZcqsOZMIdfTBdkAoOfI9ggWfSfZZEEfykD/2tEJadB2qXAAAAAElFTkSuQmCC",
+      "default_width": 695,
+      "name": "Tidal",
+      "webui_icon_url": "chrome://op-resources/images/player_service/tidal.svg",
+      "allowlisted_urls": ["https://listen.tidal.com/login"]
+    },
+    "youtube": {
+      "banner": "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",
+      "banner_dark": "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",
+      "icon": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAJVSURBVHgBxVeBdaMwDDV9N4BH8AbHBpfbICMwQjdIO0HYADZoNkhvgnQDsgHpBDr9Gl0IkYxpeVe9p5AHxl/+fEty4TKNnPN82bL/Yi/Zg4v3YBf2M/sb+x/2QxHvfd0YOLDv2Xt2WuANxSA/DewHYPqi7+nK1KJVdyuAi3fZbPDAcmXwcRDlFK+YrpwvRzcXrWdGS54rDMMurLfzmSX45maMB7nfRbyqq0+vfLMhOh7JtK4j2u+JQphjwmvgtuAwoQD3PVHTEFVVDEj88ZHodLoGgucJYU7BQxIcE8Lqmsh7mmVJxu92qbFhHECTBMeqMXGu4BDky0sMAszo42oB9+ZEoBq23eaDj10+mx58/6EF/qlMKoX26bP0971lEOwhEH1MZdMvFGqKzhNa9KenFAsNAjipL8IOBzKfiWF1qW0nTOpaODnSikxZpgWkGfRiBSJbV9HBg9OSgh9uIbvlWlVxiumc2+2u74shU0rWnCA9uDUNQEWx6JUfLjYO/m4imB61bm3r3POzzhoYeX/X3rroIkQisb/bvQhTSSqtpw8RtmQlEQShpV7ZhjnZUZKZLtBmPhGhuml7ew5YEpGwpI+pJBX3Jgt2Epl3qY52noja4z+1uYLPFiOh3mar+SdFyi3HKK/pZuO2HKc/VbjZDyYLEkTbxklld6BCSjOC/whu3LTYZRhe323IQQtdcnUoPqmWDMBYdbpp6ca46zSlsNfXnNSNAXZTOgTxX9tyK4jvO5hMAqlXAMccy45mChvtQtB+AA5z82fXTroezzfsP91Kx/O/k8Urm9OLYi4AAAAASUVORK5CYII=",
+      "icon_dark": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAI0SURBVHgBxVfrbdswEKaC/q82qDpBtUHZDTyCNmg3sDqBvYG8gbMBkQniDaRMoGSCL3fgMSYUvuQIyQccbOHexyN5rFQhANT0syP6TdQSNUS1sJ+JJqIL0QPRfVVVz2oLkOOG6EA0Yx0G1lW3gjMWxx/FQaq3OusR22FEaTVIsMW2zv0g2qW/apk5/RhlGywFbjBuuEm+a9FpM3os/4cadHrHgV3zMZOFIdIx67BL12fsMK8OKR8yStoLtIPtcuNR70osgZwS9g6hyFPOG5H7i/x2PHvyfUKu8QMYUs5hszYoBwe5E9vHiMzRX/sYOpE54za4JTEIB1kzs4soG6/sS6TW18cIm6CO8LtU+V0JxyWjsNEc+kQVBmY8hrREaRfjef2jkd52JtELj8yYg4xEA6nwGdAlAnFbd4n5Tl2vVB/uKv2hCkGn24noJ/397+k7fFfXU9NHfac2BOwJhzU635SNdlkF9/2kCgG7ZfcqfI+8qEiluQJTgNFINheVd6yl0YaI84tMRzrAm9hAbCtpaZ53TSqOOUiDPDqRHwO8oeQg+hfg7VGG0atSODhEshRoMWBwG9pE9ozarWPswhhx+2XkSr+PyAx+I5Vexz3KhpYm4xxYzoiIV8EFsfOC5b454zqMnEXfLVluoj6GtlPJSDYgPZLVkvWcSebtTNhqKGXoAj2WDw+lXhCfOpbHgvi6h8kikCM+Drax7mkWqMZppdNZHDc5+5UqBK7Pc030S230PH8Ft1pa1R9gjIUAAAAASUVORK5CYII=",
+      "default_width": 510,
+      "name": "YouTube Music",
+      "webui_icon_url": "chrome://op-resources/images/player_service/youtube_music.svg",
+      "allowlisted_urls": ["https://accounts.google.com", "https://accounts.youtube.com"]
+    }
+  },
+  "player_service_items_flat": {
+    "apple_at": {
+      "id": "apple",
+      "url": "https://music.apple.com/at/browse"
+    },
+    "apple_au": {
+      "id": "apple",
+      "url": "https://music.apple.com/au/browse"
+    },
+    "apple_be": {
+      "id": "apple",
+      "url": "https://music.apple.com/be/browse"
+    },
+    "apple_bg": {
+      "id": "apple",
+      "url": "https://music.apple.com/bg/browse"
+    },
+    "apple_br": {
+      "id": "apple",
+      "url": "https://music.apple.com/br/browse"
+    },
+    "apple_by": {
+      "id": "apple",
+      "url": "https://music.apple.com/by/browse"
+    },
+    "apple_ca": {
+      "id": "apple",
+      "url": "https://music.apple.com/ca/browse"
+    },
+    "apple_ch": {
+      "id": "apple",
+      "url": "https://music.apple.com/ch/browse"
+    },
+    "apple_cn": {
+      "id": "apple",
+      "url": "https://music.apple.com/cn/browse"
+    },
+    "apple_cz": {
+      "id": "apple",
+      "url": "https://music.apple.com/cz/browse"
+    },
+    "apple_de": {
+      "id": "apple",
+      "url": "https://music.apple.com/de/browse"
+    },
+    "apple_dk": {
+      "id": "apple",
+      "url": "https://music.apple.com/dk/browse"
+    },
+    "apple_eg": {
+      "id": "apple",
+      "url": "https://music.apple.com/eg/browse"
+    },
+    "apple_es": {
+      "id": "apple",
+      "url": "https://music.apple.com/es/browse"
+    },
+    "apple_fi": {
+      "id": "apple",
+      "url": "https://music.apple.com/fi/browse"
+    },
+    "apple_fr": {
+      "id": "apple",
+      "url": "https://music.apple.com/fr/browse"
+    },
+    "apple_gb": {
+      "id": "apple",
+      "url": "https://music.apple.com/gb/browse"
+    },
+    "apple_hu": {
+      "id": "apple",
+      "url": "https://music.apple.com/hu/browse"
+    },
+    "apple_id": {
+      "id": "apple",
+      "url": "https://music.apple.com/id/browse"
+    },
+    "apple_in": {
+      "id": "apple",
+      "url": "https://music.apple.com/in/browse"
+    },
+    "apple_it": {
+      "id": "apple",
+      "url": "https://music.apple.com/it/browse"
+    },
+    "apple_jp": {
+      "id": "apple",
+      "url": "https://music.apple.com/jp/browse"
+    },
+    "apple_ke": {
+      "id": "apple",
+      "url": "https://music.apple.com/ke/browse"
+    },
+    "apple_kr": {
+      "id": "apple",
+      "url": "https://music.apple.com/kr/browse"
+    },
+    "apple_kz": {
+      "id": "apple",
+      "url": "https://music.apple.com/kz/browse"
+    },
+    "apple_ma": {
+      "id": "apple",
+      "url": "https://music.apple.com/ma/browse"
+    },
+    "apple_mx": {
+      "id": "apple",
+      "url": "https://music.apple.com/mx/browse"
+    },
+    "apple_my": {
+      "id": "apple",
+      "url": "https://music.apple.com/my/browse"
+    },
+    "apple_ng": {
+      "id": "apple",
+      "url": "https://music.apple.com/ng/browse"
+    },
+    "apple_nl": {
+      "id": "apple",
+      "url": "https://music.apple.com/nl/browse"
+    },
+    "apple_no": {
+      "id": "apple",
+      "url": "https://music.apple.com/no/browse"
+    },
+    "apple_ph": {
+      "id": "apple",
+      "url": "https://music.apple.com/ph/browse"
+    },
+    "apple_pl": {
+      "id": "apple",
+      "url": "https://music.apple.com/pl/browse"
+    },
+    "apple_ro": {
+      "id": "apple",
+      "url": "https://music.apple.com/ro/browse"
+    },
+    "apple_rs": {
+      "id": "apple",
+      "url": "https://music.apple.com/rs/browse"
+    },
+    "apple_ru": {
+      "id": "apple",
+      "url": "https://music.apple.com/ru/browse"
+    },
+    "apple_se": {
+      "id": "apple",
+      "url": "https://music.apple.com/se/browse"
+    },
+    "apple_sg": {
+      "id": "apple",
+      "url": "https://music.apple.com/sg/browse"
+    },
+    "apple_sk": {
+      "id": "apple",
+      "url": "https://music.apple.com/sk/browse"
+    },
+    "apple_th": {
+      "id": "apple",
+      "url": "https://music.apple.com/th/browse"
+    },
+    "apple_tr": {
+      "id": "apple",
+      "url": "https://music.apple.com/tr/browse"
+    },
+    "apple_ua": {
+      "id": "apple",
+      "url": "https://music.apple.com/ua/browse"
+    },
+    "apple_us": {
+      "id": "apple",
+      "url": "https://music.apple.com/us/browse"
+    },
+    "apple_vn": {
+      "id": "apple",
+      "url": "https://music.apple.com/vn/browse"
+    },
+    "apple_za": {
+      "id": "apple",
+      "url": "https://music.apple.com/za/browse"
+    },
+    "apple_other": {
+      "id": "apple",
+      "url": "https://music.apple.com/us/browse"
+    },
+    "deezer": {
+      "id": "deezer",
+      "url": "https://www.deezer.com"
+    },
+    "gaana": {
+      "id": "gaana",
+      "url": "https://gaana.com/"
+    },
+    "soundcloud": {
+      "id": "soundcloud",
+      "url": "https://soundcloud.com/"
+    },
+    "spotify": {
+      "id": "spotify",
+      "url": "https://open.spotify.com"
+    },
+    "tidal": {
+      "id": "tidal",
+      "url": "https://tidal.com/"
+    },
+    "youtube": {
+      "id": "youtube",
+      "url": "https://music.youtube.com"
+    }
+  }
+}

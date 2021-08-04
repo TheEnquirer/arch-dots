@@ -34,6 +34,7 @@ exec --no-startup-id nm-applet
 
 exec --no-startup-id setxkbmap -option ctrl:swapcaps
 exec --no-startup-id xset r rate 200 40
+exec --no-startup-id picom --config ~/.config/picom.conf -b
 
 # Use pactl to adjust volume in PulseAudio.
 set $refresh_i3status killall -SIGUSR1 i3status

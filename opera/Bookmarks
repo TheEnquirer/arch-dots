@@ -1,0 +1,211 @@
+{
+   "checksum": "6923cd63aff63bacf4ca713268b09498",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13272559325652957",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "custom_root": {
+         "pinboard": {
+            "children": [  ],
+            "date_added": "13272559325652994",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-a000-000000000907",
+            "id": "7",
+            "name": "Pinboard",
+            "type": "folder"
+         },
+         "speedDial": {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13272559325817727",
+                  "guid": "78aebee7-f2e9-4a34-a663-4e7e590d6556",
+                  "id": "10",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/19ea7f40b1ae613c104a34d808d66a2d5d42d752.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/7f04e2fb73f4ec7f2ca125d2842523c757d3cf8b.png",
+                     "imageDataType": "2",
+                     "imageID": "0A04E00C4607F268D1000DD29FB11AC16E1DC38E9CCD535B084AF87ABA45F514",
+                     "imageType": "2",
+                     "partner_id": "amazon_us",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/7f04e2fb73f4ec7f2ca125d2842523c757d3cf8b.png",
+                     "partner_url": "https://www.amazon.com/?&linkCode=ll2&tag=opera-bf-us-20&linkId=6a8099a8a50394a7e672e63a033df8a7&language=en_US&ref_=as_li_ss_tl",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/amazon_us",
+                     "revision": "20210621",
+                     "server_position": "1"
+                  },
+                  "name": "Amazon",
+                  "type": "url",
+                  "url": "http://www.amazon.com/"
+               }, {
+                  "date_added": "13272559325818764",
+                  "guid": "4e0f179f-883c-4eed-84f5-4cf3278bbeac",
+                  "id": "11",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/7cf961789fe79e374395db2135e3511cc5fe0cd6.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/e2653358daac1327db358b2baff1ec56c8700ec3.png",
+                     "imageDataType": "2",
+                     "imageID": "5856580431A344785082CAC829A71C16B9512D415DF24B7F393D146CE0C12844",
+                     "imageType": "2",
+                     "partner_id": "ebay_us",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/e2653358daac1327db358b2baff1ec56c8700ec3.png",
+                     "partner_url": "https://www.ebay.com/?mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337314645&customid=&toolid=10001&mkevt=1",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/ebay_us",
+                     "revision": "20171003",
+                     "server_position": "2"
+                  },
+                  "name": "eBay",
+                  "type": "url",
+                  "url": "http://www.ebay.com/"
+               }, {
+                  "date_added": "13272559325819960",
+                  "guid": "31e3a174-e82d-4b83-9a75-c2fa83a30e6d",
+                  "id": "12",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/a07ea74aa0b3aae5b7dc37789a2e834b1e883060.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/bd1ec98a8b358bc0cf68cad5a59c192b56d12dfc.png",
+                     "imageDataType": "2",
+                     "imageID": "2927498828C5AE69F685B89AB2C78250E59651632542A7013555819175954B5B",
+                     "imageType": "2",
+                     "partner_id": "booking_com_us",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/bd1ec98a8b358bc0cf68cad5a59c192b56d12dfc.png",
+                     "partner_url": "https://www.booking.com/index.html?aid=343339&label=operasoft-sdg015-343339&utm_source=Opera&utm_medium=web&utm_campaign=sdg015",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/booking_com_us",
+                     "revision": "20210709",
+                     "server_position": "3"
+                  },
+                  "name": "Booking.com: Cheap Hotels",
+                  "type": "url",
+                  "url": "https://www.booking.com/"
+               }, {
+                  "date_added": "13272559325820923",
+                  "guid": "e48f89ea-a26b-45f0-89f5-151dbc985022",
+                  "id": "13",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/609fa7dfdac6e13e43d220628faf73eb0bc67ff2.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/45d66636ee054bab02b87aa150c3132e77fe510c.png",
+                     "imageDataType": "2",
+                     "imageID": "652E93302BCFC0C7802E12842DCD9161E3874447B22B8CF52623C05BF8295121",
+                     "imageType": "2",
+                     "partner_id": "aliexpress_com_us",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/45d66636ee054bab02b87aa150c3132e77fe510c.png",
+                     "partner_url": "https://s.click.aliexpress.com/e/_dZ0copP",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/aliexpress_com_us",
+                     "revision": "20171003",
+                     "server_position": "4"
+                  },
+                  "name": "AliExpress",
+                  "type": "url",
+                  "url": "http://aliexpress.com/"
+               }, {
+                  "date_added": "13272559325821293",
+                  "guid": "8f35aa07-e286-4162-8498-e2dabceb320d",
+                  "id": "14",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/037dd67b44c3f90140a40d76b542f480f5981dc7.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/7d4d0a497c452d7a476a16f74b6b0f2165496b7e.png",
+                     "imageDataType": "2",
+                     "imageID": "9C4C67D97E8D500795A584CF7E2195D1AA9C30677B5D1F36E79EEECED8165AA5",
+                     "imageType": "2",
+                     "partner_id": "kayak_us",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/7d4d0a497c452d7a476a16f74b6b0f2165496b7e.png",
+                     "partner_url": "https://www.kayak.com/in?a=operabrowser&url=/flights&hotels&encoder=27_1&enc_pid=deeplinks&enc_cid=0&enc_lid=SSD_US&enc_cid=&utm_source=operabrowser&utm_medium=affiliate&utm_term=rev&utm_campaign=deeplinks&utm_content={SD_US}",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/kayak_us",
+                     "revision": "20190716",
+                     "server_position": "6"
+                  },
+                  "name": "Kayak",
+                  "type": "url",
+                  "url": "https://www.kayak.com/"
+               }, {
+                  "date_added": "13272559325823131",
+                  "guid": "8c7c5ee3-7be5-4935-a839-02e94dec93cd",
+                  "id": "15",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/336f945906478bb7548a0f88644bf8a2f24c1e9a.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/95a166aba7935fc6dc7d7e1d2f76e9a544600b99.png",
+                     "imageDataType": "2",
+                     "imageID": "C4757800391D7ACAE7E65B54D248B3DC77582FB4021FCDB647D893A2A6A8730F",
+                     "imageType": "2",
+                     "partner_id": "forgeofempires_us",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/95a166aba7935fc6dc7d7e1d2f76e9a544600b99.png",
+                     "partner_url": "https://om.forgeofempires.com/foe/us/?ref=operafix_us_us",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/forgeofempires_us",
+                     "revision": "20190814",
+                     "server_position": "10"
+                  },
+                  "name": "Forge of Empires",
+                  "type": "url",
+                  "url": "https://www.innogames.com/"
+               } ],
+               "date_added": "13272559325691864",
+               "date_modified": "13272559325823131",
+               "guid": "c38f5c02-5f5e-49cc-be7b-17cb7bd26c82",
+               "id": "9",
+               "meta_info": {
+                  "speed_dial_root_folder_guid": "09f80e63-b6ef-4ecd-8806-807493b95d07"
+               },
+               "name": "avo",
+               "type": "folder"
+            } ],
+            "date_added": "13272559325652993",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-a000-000000000904",
+            "id": "6",
+            "name": "Speed Dials",
+            "type": "folder"
+         },
+         "trash": {
+            "children": [  ],
+            "date_added": "13272559325652995",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-a000-000000000905",
+            "id": "8",
+            "name": "Trash",
+            "type": "folder"
+         },
+         "unsorted": {
+            "children": [  ],
+            "date_added": "13272559325652987",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-a000-000000000901",
+            "id": "4",
+            "name": "Unsorted bookmarks",
+            "type": "folder"
+         },
+         "userRoot": {
+            "children": [  ],
+            "date_added": "13272559325652991",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-a000-000000000902",
+            "id": "5",
+            "name": "Other bookmarks",
+            "type": "folder"
+         }
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13272559325652959",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Imported bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13272559325652959",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
