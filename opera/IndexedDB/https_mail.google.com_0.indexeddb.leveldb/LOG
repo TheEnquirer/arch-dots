@@ -1,0 +1,6 @@
+2021/08/04-14:31:05.525 2831 Creating DB /home/enquirer/.config/opera/IndexedDB/https_mail.google.com_0.indexeddb.leveldb since it was missing.
+2021/08/04-14:31:05.537 2831 Reusing MANIFEST /home/enquirer/.config/opera/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/04-14:34:50.585 28f4 Level-0 table #5: started
+2021/08/04-14:34:50.589 28f4 Level-0 table #5: 2151 bytes OK
+2021/08/04-14:34:50.594 28f4 Delete type=0 #3
+2021/08/04-14:34:50.594 28f4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

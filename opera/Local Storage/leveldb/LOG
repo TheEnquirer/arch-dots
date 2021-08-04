@@ -1,3 +1,5 @@
-2021/08/04-14:12:29.406 3 Reusing MANIFEST /home/enquirer/.config/opera/Local Storage/leveldb/MANIFEST-000001
-2021/08/04-14:12:29.407 3 Recovering log #3
-2021/08/04-14:12:29.407 3 Reusing old log /home/enquirer/.config/opera/Local Storage/leveldb/000003.log 
+2021/08/04-14:27:42.933 5 Reusing MANIFEST /home/enquirer/.config/opera/Local Storage/leveldb/MANIFEST-000001
+2021/08/04-14:27:42.933 5 Recovering log #3
+2021/08/04-14:27:42.934 5 Level-0 table #3: started
+2021/08/04-14:27:42.938 5 Level-0 table #3: 31476 bytes OK
+2021/08/04-14:27:42.943 5 Delete type=0 #3
