@@ -44,9 +44,16 @@ exec --no-startup-id picom --config ~/.config/picom.conf -b
 # start unclutter
 exec --no-startup-id unclutter &
 
+# start feh
+exec --no-startup-id feh --bg-fill ~/.config/bgs/firewatch-blue-mountains
+
 # moniter setup
 #exec --no-startup-id xrandr --output HDMI-1 --rotate right
 #exec --no-startup-id xrandr --output HDMI-1 --auto --output DP-2 --auto --left-of HDMI-1
+
+#xrandr --output HDMI-1 --rotate right
+#xrandr --output HDMI-1 --auto --output DP-2 --auto --left-of HDMI-1
+
 
 # change rez
 #exec --no-startup-id xrandr --dpi number!
@@ -89,6 +96,9 @@ bindsym $mod+ctrl+h focus left
 bindsym $mod+ctrl+j focus down
 bindsym $mod+ctrl+k focus up
 bindsym $mod+ctrl+l focus right
+bindsym $mod+ctrl+1 focus output DP-2
+bindsym $mod+ctrl+2 focus output HDMI-1
+
 
 # alternatively, you can use the cursor keys:
 # bindsym $mod+Left focus left
@@ -101,6 +111,8 @@ bindsym $movemod+h move left
 bindsym $movemod+j move down
 bindsym $movemod+k move up
 bindsym $movemod+l move right
+bindsym $movemod+1 move container to output DP-2
+bindsym $movemod+2 move container to output HDMI-1
 
 # alternatively, you can use the cursor keys:
 # bindsym $mod+Shift+Left move left
