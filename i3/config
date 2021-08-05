@@ -41,9 +41,12 @@ exec --no-startup-id xset r rate 200 40
 # start picom
 exec --no-startup-id picom --config ~/.config/picom.conf -b
 
+# start unclutter
+exec --no-startup-id unclutter &
+
 # moniter setup
-exec --no-startup-id xrandr --output HDMI-1 --rotate right
-exec --no-startup-id xrandr --output HDMI-1 --auto --output DP-2 --auto --left-of HDMI-1
+#exec --no-startup-id xrandr --output HDMI-1 --rotate right
+#exec --no-startup-id xrandr --output HDMI-1 --auto --output DP-2 --auto --left-of HDMI-1
 
 # change rez
 #exec --no-startup-id xrandr --dpi number!
@@ -72,7 +75,7 @@ bindsym $mod+q kill
 bindsym $mod+w kill
 
 # start dmenu (a program launcher)
-bindsym $mod+d exec --no-startup-id dmenu_run
+bindsym $mod+space exec --no-startup-id rofi -show run
 # A more modern dmenu replacement is rofi:
 # bindcode $mod+40 exec "rofi -modi drun,run -show drun"
 # There also is i3-dmenu-desktop which only displays applications shipping a
@@ -122,7 +125,7 @@ bindsym $movemod+i layout toggle split
 bindsym $mod+ctrl+f floating toggle
 
 # change focus between tiling / floating windows
-bindsym $mod+space focus mode_toggle
+bindsym Mod4+space focus mode_toggle
 
 # focus the parent container
 bindsym $mod+a focus parent

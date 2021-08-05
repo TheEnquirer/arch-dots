@@ -1,0 +1,36 @@
+#########################
+#    YABAI SETUP	#
+#########################
+
+# layout 
+yabai -m config layout bsp
+
+# set gap padding padding and gaps to 15px
+yabai -m config top_padding    20
+yabai -m config bottom_padding 20
+yabai -m config left_padding   20
+yabai -m config right_padding  20
+yabai -m config window_gap     15
+
+
+# make alacritty look cool 
+yabai -m config --space 8 top_padding 35
+yabai -m config --space 8 bottom_padding 25
+yabai -m config --space 8 left_padding 35
+yabai -m config --space 8 right_padding 35
+yabai -m config --space 8 window_gap 30
+yabai -m rule --add app="SFMLSlime" manage=off
+# debug
+yabai -m config debug_output
+#yabai -m config --window "SFMLSlime" layout float
+
+# borders!
+
+
+#yabai -m config window_border on
+#yabai -m config window_border_width 15
+#yabai -m config active_window_border_color 0xff775759
+#yabai -m config normal_window_border_color 0xff555555
+#yabai -m config active_window_border_topmost on
+
+echo 'yabai configuration loaded.'
