@@ -99,6 +99,7 @@ bindsym $mod+ctrl+l focus right
 bindsym $mod+ctrl+1 focus output DP-2
 bindsym $mod+ctrl+2 focus output HDMI-1
 
+#bindsym $mod+Tab focus previous
 
 # alternatively, you can use the cursor keys:
 # bindsym $mod+Left focus left
