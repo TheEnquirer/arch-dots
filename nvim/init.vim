@@ -106,7 +106,7 @@ endif
 
 " from https://www.linode.com/docs/tools-reference/tools/introduction-to-vim-customization/
 set ttyfast " speed up scrolling
-set scrolloff=5 " display 8 lines above and below cursor at all times
+set scrolloff=5 " display 8 lines above and below cursor at all ti
 set matchpairs+=<:>
 
 " autoread (https://vi.stackexchange.com/a/13092)
@@ -244,7 +244,7 @@ nmap <Leader>hr <Plug>(GitGutterRevertHunk)
 
 "no escape key (escape pressing escape)
 inoremap jc <Esc>
-inoremap jf <Esc>:w<return>
+inoremap jf <Esc>:w<return>:<Backspace>
 inoremap <C-c> <Esc>:w<return>
 command W w
 
@@ -288,9 +288,10 @@ nmap <Leader>yy :%w !pbcopy<CR><CR>
 set splitbelow
 set splitright
 
-set cmdheight=2
+set cmdheight=1
 set signcolumn=yes
-set statusline^=%{coc#status()}%{get(b:,'coc_current_function','')}
+"set statusline^=%{coc#status()}%{get(b:,'coc_current_function','')}
+set statusline=0
 "   Completion window
 inoremap <expr> <Tab> pumvisible() ? "\<C-n>" : "\<Tab>"
 inoremap <expr> <S-Tab> pumvisible() ? "\<C-p>" : "\<S-Tab>"
@@ -351,4 +352,7 @@ vmap <C-_> %
 
 noh
 
+set noshowmode
+set noshowcmd
+set shortmess+=F
 
