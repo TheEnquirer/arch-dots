@@ -51,6 +51,9 @@ exec --no-startup-id feh --bg-fill ~/.config/bgs/firewatch-blue-mountains
 # start flameshot
 exec --no-startup-id flameshot &
 
+# key rebinds
+exec --no-startup-id exec /home/enquirer/.config/i3/rebind.zsh
+
 # moniter setup
 #exec --no-startup-id xrandr --output HDMI-1 --rotate right
 #exec --no-startup-id xrandr --output HDMI-1 --auto --output DP-2 --auto --left-of HDMI-1
