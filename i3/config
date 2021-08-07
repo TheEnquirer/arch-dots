@@ -76,6 +76,9 @@ gaps inner 20
 
 for_window [class=".*"] border pixel 0
 
+for_window [floating] resize set 1200 800
+for_window [floating] move position center
+
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
 # start a terminal
@@ -165,7 +168,7 @@ bindsym Mod4+space focus mode_toggle
 bindsym $mod+a focus parent
 
 # new note window
-#bindsym $mod+ctrl+n exec i3-sensible-terminal && floating toggle
+bindsym $mod+ctrl+n exec i3-sensible-terminal, exec --no-startup-id "sh -c 'sleep 0.2; i3 floating toggle'"
 
 # screenshot
 bindsym $mod+ctrl+4 exec --no-startup-id flameshot gui
