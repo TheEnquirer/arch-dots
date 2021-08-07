@@ -355,4 +355,9 @@ noh
 set noshowmode
 set noshowcmd
 set shortmess+=F
+set laststatus=0
+set fillchars=fold:\ ,vert:\│,eob:\ ,msgsep:‾
+
+
+
 
