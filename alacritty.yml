@@ -47,8 +47,10 @@ colors:
         cyan:    '0x63f2f1'
         white:   '0xa6b3cc'
         key_bindings:
-            - { key: N, mods: Command, command: { program: "open", args: ["-nb", "io.alacritty"] } }
-            - { key: O, mods: Alt, command: { program: "mkdir"}}
+          - { key: N, mods: Command, command: { program: "open", args: ["-nb", "io.alacritty"] } }
+          - { key: O, mods: Alt, command: { program: "mkdir"}}
+          #- { key: W,      mods: Alt,         action: Quit}
+            #- { key: w, mods: Alt, command: { program: "exit"}}
             #- { key: O, mods: Alt, command: { program: "/Users/huxmarv/.config/bin/toggleOP.zsh"}}
             #- { key: O, mods: Alt, command: { program: "/Users/huxmarv/.config/bin/toggleOP.zsh"}}
 
