@@ -307,7 +307,18 @@ bindsym Menu mode "switch"
 #}
 
 #bindsym --release Mod4 exec --no-startup-id xdotool key --clearmodifiers ctrl+v
-bindsym Mod3+w fullscreen toggle
+bindsym --release Mod3+w exec --no-startup-id xdotool key ctrl+Right
+bindsym --release Mod3+b exec --no-startup-id xdotool key ctrl+Left
+
+bindsym --release Mod3+h exec --no-startup-id xdotool key Left
+bindsym --release Mod3+j exec --no-startup-id xdotool key Down
+bindsym --release Mod3+k exec --no-startup-id xdotool key Up
+bindsym --release Mod3+l exec --no-startup-id xdotool key Right
+
+bindsym --release Mod3+a exec --no-startup-id xdotool key ctrl+End
+bindsym --release Mod3+i exec --no-startup-id xdotool key ctrl+Home
+
+bindsym --release Mod3+0 exec --no-startup-id xdotool key ctrl+Home
 
 
 
