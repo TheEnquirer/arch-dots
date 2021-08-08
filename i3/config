@@ -307,7 +307,7 @@ bindsym Menu mode "switch"
 #}
 
 #bindsym --release Mod4 exec --no-startup-id xdotool key --clearmodifiers ctrl+v
-
+bindsym Mod3+w fullscreen toggle
 
 
 
