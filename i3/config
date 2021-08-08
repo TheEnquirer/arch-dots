@@ -307,6 +307,7 @@ bindsym Menu mode "switch"
 #}
 
 #bindsym --release Mod4 exec --no-startup-id xdotool key --clearmodifiers ctrl+v
+# VIM LIKE, layer 3
 bindsym --release Mod3+w exec --no-startup-id xdotool key ctrl+Right
 bindsym --release Mod3+b exec --no-startup-id xdotool key ctrl+Left
 
@@ -320,8 +321,28 @@ bindsym --release Mod3+i exec --no-startup-id xdotool key ctrl+Home
 
 bindsym --release Mod3+0 exec --no-startup-id xdotool key ctrl+Home
 
+# REMAPS, layer 2
+bindsym --release Mod2+q exec --no-startup-id xdotool key 1
+bindsym --release Mod2+w exec --no-startup-id xdotool key 2
+bindsym --release Mod2+e exec --no-startup-id xdotool key 3
+bindsym --release Mod2+a exec --no-startup-id xdotool key 4
+bindsym --release Mod2+s exec --no-startup-id xdotool key 5
+bindsym --release Mod2+d exec --no-startup-id xdotool key 6
+bindsym --release Mod2+z exec --no-startup-id xdotool key 7
+bindsym --release Mod2+x exec --no-startup-id xdotool key 8
+bindsym --release Mod2+c exec --no-startup-id xdotool key 9
+bindsym --release Mod2+r exec --no-startup-id xdotool key 0
 
+bindsym --release Mod2+u exec --no-startup-id xdotool key bracketleft
+bindsym --release Mod2+i exec --no-startup-id xdotool key bracketright
 
+bindsym --release Mod2+j exec --no-startup-id xdotool key parenleft
+bindsym --release Mod2+k exec --no-startup-id xdotool key parenright
+
+bindsym --release Mod2+m exec --no-startup-id xdotool key braceleft
+bindsym --release Mod2+comma exec --no-startup-id xdotool key braceright
+
+bindsym --release Mod2+l exec --no-startup-id xdotool key period
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
