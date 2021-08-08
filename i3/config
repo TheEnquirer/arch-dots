@@ -12,6 +12,8 @@
 set $mod Mod1
 set $movemod Control+Mod4
 set $c Control
+set $m XF86Launch8
+set $ralt Alt_R
 focus_follows_mouse no
 
 # Font for window titles. Will also be used by the bar unless a different font
@@ -37,7 +39,7 @@ exec --no-startup-id nm-applet
 exec --no-startup-id setxkbmap -option ctrl:swapcaps
 
 # change key repeat
-exec --no-startup-id xset r rate 200 40
+exec --no-startup-id xset r rate 170 40
 
 # start picom
 exec --no-startup-id picom --config ~/.config/picom.conf -b
@@ -248,8 +250,7 @@ mode "resize" {
         # bindsym Down resize grow height 10 px or 10 ppt
         # bindsym Up resize shrink height 10 px or 10 ppt
         # bindsym Right resize grow width 10 px or 10 ppt
-
-        # back to normal: Enter or Escape or $mod+r
+# back to normal: Enter or Escape or $mod+r
         bindsym Return mode "default"
         bindsym i mode "default"
         bindsym Escape mode "default"
@@ -277,7 +278,39 @@ mode "switch" {
 
 }
 
-bindsym Alt_R mode "switch"
+bindsym Menu mode "switch"
+
+
+
+# macros
+
+#bindsym $m+f mode "resize"
+#bindsym Shift_R+w mode "resize"
+#bindsym XF86Launch8+Shift mode "resize"
+#bindsym Shift+space mode "resize"
+#bindsym Menu+w mode "resize"
+
+#bindsym Alt_R+d exec --no-startup-id "sh -c 'xdotool key c'"
+#bindsym $ralt mode "macro"
+
+#mode "macro" {
+
+#    bindsym w exec 	    --no-startup-id ./test.zsh
+#    #bindsym $mod+space exec --no-startup-id /home/enquirer/.config/rofi/launchers/text/launcher.sh
+
+
+#    bindsym Return mode "default"
+#    bindsym i mode "default"
+#    bindsym Escape mode "default"
+#    bindsym Alt_R mode "default"
+#    bindsym c mode "default"
+#}
+
+#bindsym --release Mod4 exec --no-startup-id xdotool key --clearmodifiers ctrl+v
+
+
+
+
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)

@@ -1,6 +1,3 @@
-#jjj
-echo "yeeeet"
-
 xset r rate 170 40
 setxkbmap -option ctrl:swapcaps
 
