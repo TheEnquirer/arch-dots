@@ -1,10 +1,10 @@
 window:
+    dynamic_padding: true
     decorations: None
     startup_mode: Maximized
     padding:
         x: 10
         y: 10
-    dynamic_padding: true
 scrolling:
     history: 100000
 font:
