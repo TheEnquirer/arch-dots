@@ -48,7 +48,7 @@ exec --no-startup-id picom --config ~/.config/picom.conf -b
 exec --no-startup-id unclutter &
 
 # start feh
-exec --no-startup-id feh --bg-fill ~/.config/bgs/firewatch-blue-mountains
+exec --no-startup-id feh --bg-fill ~/.config/bgs/firewatch-blue-mountains.jpg
 
 # start flameshot
 exec --no-startup-id flameshot &
@@ -337,6 +337,10 @@ bindsym --release Mod2+z exec --no-startup-id xdotool key 7
 bindsym --release Mod2+x exec --no-startup-id xdotool key 8
 bindsym --release Mod2+c exec --no-startup-id xdotool key 9
 bindsym --release Mod2+r exec --no-startup-id xdotool key 0
+bindsym --release Mod2+f exec --no-startup-id xdotool type "="
+bindsym --release Mod2+Shift+f exec --no-startup-id xdotool type "+"
+bindsym --release Mod2+v exec --no-startup-id xdotool type "'"
+bindsym --release Mod2+Shift+v exec --no-startup-id xdotool type "'"
 
 bindsym --release Mod2+u exec --no-startup-id xdotool key bracketleft
 bindsym --release Mod2+i exec --no-startup-id xdotool key bracketright
