@@ -340,6 +340,18 @@ bindsym --release Mod2+z exec --no-startup-id xdotool key 7
 bindsym --release Mod2+x exec --no-startup-id xdotool key 8
 bindsym --release Mod2+c exec --no-startup-id xdotool key 9
 bindsym --release Mod2+r exec --no-startup-id xdotool key 0
+
+bindsym --release Mod2+Shift+q exec --no-startup-id xdotool key 1
+bindsym --release Mod2+Shift+w exec --no-startup-id xdotool key 2
+bindsym --release Mod2+Shift+e exec --no-startup-id xdotool key 3
+bindsym --release Mod2+Shift+a exec --no-startup-id xdotool key 4
+bindsym --release Mod2+Shift+s exec --no-startup-id xdotool key 5
+bindsym --release Mod2+Shift+d exec --no-startup-id xdotool key 6
+bindsym --release Mod2+Shift+z exec --no-startup-id xdotool key 7
+bindsym --release Mod2+Shift+x exec --no-startup-id xdotool key 8
+bindsym --release Mod2+Shift+c exec --no-startup-id xdotool key 9
+bindsym --release Mod2+Shift+r exec --no-startup-id xdotool key 0
+
 bindsym --release Mod2+f exec --no-startup-id xdotool type "="
 bindsym --release Mod2+Shift+f exec --no-startup-id xdotool type "+"
 bindsym --release Mod2+v exec --no-startup-id xdotool type "'"
