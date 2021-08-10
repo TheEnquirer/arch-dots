@@ -97,6 +97,8 @@ bindsym $mod+q kill
 #bindsym $mod+space exec --no-startup-id rofi -show combi window run
 bindsym $mod+space exec --no-startup-id /home/enquirer/.config/rofi/launchers/text/launcher.sh
 
+bindsym $mod+Tab workspace back_and_forth
+
 # A more modern dmenu replacement is rofi:
 # bindcode $mod+40 exec "rofi -modi drun,run -show drun"
 # There also is i3-dmenu-desktop which only displays applications shipping a
@@ -112,8 +114,10 @@ bindsym $mod+ctrl+l focus right
 bindsym $mod+ctrl+1 focus output DP-4
 bindsym $mod+ctrl+2 focus output HDMI-0
 
-bindsym $c+bracketleft workspace prev
-bindsym $c+bracketright workspace next
+bindsym $mod+ctrl+bracketleft workspace prev
+bindsym $c+bracketleft exec /home/enquirer/.config/i3/i3next.zsh -1
+bindsym $mod+ctrl+bracketright workspace next
+bindsym $c+bracketright exec /home/enquirer/.config/i3/i3next.zsh 1
 
 # direct
 bindsym $mod+ctrl+o [class="Opera"] focus
@@ -136,8 +140,8 @@ bindsym $movemod+j move down
 bindsym $movemod+k move up
 bindsym $movemod+l move right
 
-bindsym $movemod+1 move container to output DP-2
-bindsym $movemod+2 move container to output HDMI-1
+bindsym $movemod+1 move container to output DP-4
+bindsym $movemod+2 move container to output HDMI-0
 
 bindsym $movemod+greater move workspace to output right
 bindsym $movemod+less move workspace to output left
@@ -210,6 +214,7 @@ bindsym $mod+8 workspace number $ws8
 bindsym $mod+9 workspace number $ws9
 bindsym $mod+0 workspace number $ws10
 
+bindsym $mod+ctrl+q workspace number $ws7
 
 # move focused container to workspace
 bindsym $mod+Shift+1 move container to workspace number $ws1
@@ -288,6 +293,18 @@ mode "switch" {
 
 bindsym Menu mode "switch"
 
+#mode "double_tap" {
+
+#    bindsym ctrl+s workspace number $ws7; mode "default"
+
+#    bindsym Return mode "default"
+#    bindsym i mode "default"
+#    bindsym Escape mode "default"
+#    bindsym Alt_R mode "default"
+
+#}
+
+#bindsym ctrl+s mode "double_tap"
 
 
 # macros

@@ -33,3 +33,4 @@ xmodmap -e "add mod2 = $spare_modifier"
 # Finally use xcape to cause the space bar to generate a space when tapped.
 pkill xcape
 xcape -t 200 -e "$spare_modifier=space"
+
