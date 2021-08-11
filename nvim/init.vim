@@ -154,6 +154,7 @@ let &t_8b="\<Esc>[48;2;%lu;%lu;%lum"
 set termguicolors
 colo dark_purple
 
+hi Comment gui=NONE
 " allow opacity to work in alacritty
 hi! Normal ctermbg=NONE guibg=NONE
 hi! NonText ctermbg=NONE guibg=NONE guifg=NONE ctermfg=NONE

@@ -53,6 +53,9 @@ exec --no-startup-id feh --bg-fill ~/.config/bgs/firewatch-blue-mountains.jpg
 # start flameshot
 exec --no-startup-id flameshot &
 
+# start polybar
+exec --no-startup-id /home/enquirer/.config/polybar/colorblocks/launch.sh
+
 # key rebinds
 exec --no-startup-id exec /home/enquirer/.config/i3/rebind.zsh
 
@@ -387,7 +390,7 @@ bindsym --release Mod2+l exec --no-startup-id xdotool key period
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
-#bar {
+bar {
     #position top
     #status_command i3status
-#}
+}
