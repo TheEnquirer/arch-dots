@@ -98,8 +98,10 @@ bindsym $mod+q kill
 
 # start dmenu (a program launcher)
 #bindsym $mod+space exec --no-startup-id rofi -show combi window run
-bindsym $mod+space exec --no-startup-id /home/enquirer/.config/rofi/launchers/text/launcher.sh
+#bindsym $mod+space fullscreen toggle
 
+
+bindsym $mod+space exec --no-startup-id /home/enquirer/.config/rofi/launchers/text/launcher.sh
 bindsym $mod+Tab workspace back_and_forth
 
 # A more modern dmenu replacement is rofi:
