@@ -1,0 +1,1022 @@
+02:20:53 PM.626: CPU Name: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz
+02:20:53 PM.626: CPU Speed: 3600.000MHz
+02:20:53 PM.626: Physical Cores: 8, Logical Cores: 8
+02:20:53 PM.626: Physical Memory: 32043MB Total, 24065MB Free
+02:20:53 PM.626: Kernel Version: Linux 5.13.10-arch1-1
+02:20:53 PM.626: Distribution: "Arch Linux" Unknown
+02:20:53 PM.626: Session Type: x11
+02:20:53 PM.626: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.13
+02:20:53 PM.627: Portable mode: false
+02:20:53 PM.651: OBS 27.0.1-2 (linux)
+02:20:53 PM.651: ---------------------------------
+02:20:53 PM.651: ---------------------------------
+02:20:53 PM.651: audio settings reset:
+02:20:53 PM.651: 	samples per sec: 48000
+02:20:53 PM.651: 	speakers:        2
+02:20:53 PM.652: ---------------------------------
+02:20:53 PM.652: Initializing OpenGL...
+02:20:53 PM.693: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce RTX 2070 SUPER/PCIe/SSE2
+02:20:53 PM.693: OpenGL loaded successfully, version 3.3.0 NVIDIA 470.63.01, shading language 3.30 NVIDIA via Cg compiler
+02:20:53 PM.730: ---------------------------------
+02:20:53 PM.730: video settings reset:
+02:20:53 PM.730: 	base resolution:   1920x1080
+02:20:53 PM.730: 	output resolution: 1280x720
+02:20:53 PM.730: 	downscale filter:  Bicubic
+02:20:53 PM.730: 	fps:               30/1
+02:20:53 PM.730: 	format:            NV12
+02:20:53 PM.730: 	YUV mode:          709/Partial
+02:20:53 PM.730: NV12 texture support not available
+02:20:53 PM.731: Audio monitoring device:
+02:20:53 PM.731: 	name: Default
+02:20:53 PM.731: 	id: default
+02:20:53 PM.731: ---------------------------------
+02:20:53 PM.731: Failed to load 'en-US' text for module: 'decklink-captions.so'
+02:20:53 PM.732: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+02:20:53 PM.791: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+02:20:53 PM.791: No blackmagic support
+02:20:53 PM.798: v4l2loopback not installed, virtual camera disabled
+02:20:53 PM.812: NVENC supported
+02:20:53 PM.812: FFMPEG VAAPI supported
+02:20:53 PM.816: os_dlopen(/usr//lib/obs-plugins/sndio.so->/usr//lib/obs-plugins/sndio.so): libsndio.so.7.1: cannot open shared object file: No such file or directory
+02:20:53 PM.816: 
+02:20:53 PM.816: Module '/usr//lib/obs-plugins/sndio.so' not loaded
+02:20:53 PM.816: ---------------------------------
+02:20:53 PM.816:   Loaded Modules:
+02:20:53 PM.816:     text-freetype2.so
+02:20:53 PM.816:     rtmp-services.so
+02:20:53 PM.816:     obs-x264.so
+02:20:53 PM.816:     obs-transitions.so
+02:20:53 PM.816:     obs-outputs.so
+02:20:53 PM.816:     obs-libfdk.so
+02:20:53 PM.816:     obs-filters.so
+02:20:53 PM.816:     obs-ffmpeg.so
+02:20:53 PM.816:     linux-v4l2.so
+02:20:53 PM.816:     linux-pulseaudio.so
+02:20:53 PM.816:     linux-jack.so
+02:20:53 PM.816:     linux-decklink.so
+02:20:53 PM.816:     linux-capture.so
+02:20:53 PM.816:     linux-alsa.so
+02:20:53 PM.816:     image-source.so
+02:20:53 PM.816:     frontend-tools.so
+02:20:53 PM.816:     decklink-ouput-ui.so
+02:20:53 PM.816:     decklink-captions.so
+02:20:53 PM.816: ---------------------------------
+02:20:53 PM.816: ==== Startup complete ===============================================
+02:20:53 PM.818: No scene file found, creating default scene
+02:20:53 PM.819: All scene data cleared
+02:20:53 PM.819: ------------------------------------------------
+02:20:53 PM.822: pulse-input: Server name: 'pulseaudio 15.0'
+02:20:53 PM.822: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+02:20:53 PM.822: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor'
+02:20:53 PM.823: pulse-input: Server name: 'pulseaudio 15.0'
+02:20:53 PM.823: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+02:20:53 PM.823: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo'
+02:20:53 PM.823: Switched to scene 'Scene'
+02:20:53 PM.823: Failed to glob scene collections
+02:20:54 PM.128: [rtmp-services plugin] Successfully updated file 'services.json' (version 180)
+02:20:54 PM.128: [rtmp-services plugin] Successfully updated package (version 180)
+02:20:54 PM.369: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+02:20:54 PM.369: 
+02:21:35 PM.395: 
+02:21:35 PM.395: ==== Auto-config wizard testing commencing ======
+
+02:21:59 PM.809: ---------------------------------
+02:21:59 PM.809: video settings reset:
+02:21:59 PM.809: 	base resolution:   1920x1080
+02:21:59 PM.809: 	output resolution: 1920x1080
+02:21:59 PM.809: 	downscale filter:  Bicubic
+02:21:59 PM.809: 	fps:               30/1
+02:21:59 PM.809: 	format:            NV12
+02:21:59 PM.809: 	YUV mode:          709/Partial
+02:21:59 PM.809: NV12 texture support not available
+02:21:59 PM.810: 
+02:21:59 PM.810: ==== Auto-config wizard testing stopping ========
+
+02:23:07 PM.514: User added source 'Window Capture (Xcomposite)' (xcomposite_input) to scene 'Scene'
+02:23:07 PM.575: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:23:07 PM.575: xcompcap: cleanup glXDestroyPixmap failed: GLXBadPixmap
+02:23:07 PM.576: xcompcap: cleanup glXDestroyPixmap failed: BadPixmap (invalid Pixmap parameter)
+02:23:07 PM.578: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:23:07 PM.578: 	title: Mailspring
+02:23:07 PM.578: 	class: mailspring
+02:23:07 PM.578: 	Bit depth: 24
+02:23:07 PM.578: 	Found proper GLXFBConfig (in 9): yes
+02:23:07 PM.578: 
+02:23:08 PM.044: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:23:08 PM.044: xcompcap: cleanup glXDestroyPixmap failed: GLXBadPixmap
+02:23:08 PM.044: xcompcap: cleanup glXDestroyPixmap failed: BadPixmap (invalid Pixmap parameter)
+02:23:08 PM.046: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:23:08 PM.046: 	title: Mailspring
+02:23:08 PM.046: 	class: mailspring
+02:23:08 PM.046: 	Bit depth: 24
+02:23:08 PM.046: 	Found proper GLXFBConfig (in 9): yes
+02:23:08 PM.046: 
+02:23:17 PM.048: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:23:17 PM.048: xcompcap: cleanup glXDestroyPixmap failed: GLXBadPixmap
+02:23:17 PM.048: xcompcap: cleanup glXDestroyPixmap failed: BadPixmap (invalid Pixmap parameter)
+02:23:17 PM.081: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:23:17 PM.081: 	title: Wiki - Install Instructions | OBS - Opera
+02:23:17 PM.081: 	class: Opera
+02:23:17 PM.081: 	Bit depth: 24
+02:23:17 PM.081: 	Found proper GLXFBConfig (in 9): yes
+02:23:17 PM.081: 
+02:23:17 PM.511: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:23:17 PM.535: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:23:17 PM.535: 	title: Wiki - Install Instructions | OBS - Opera
+02:23:17 PM.535: 	class: Opera
+02:23:17 PM.535: 	Bit depth: 24
+02:23:17 PM.535: 	Found proper GLXFBConfig (in 9): yes
+02:23:17 PM.535: 
+02:23:27 PM.344: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:23:27 PM.368: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:23:27 PM.368: 	title: Wiki - Install Instructions | OBS - Opera
+02:23:27 PM.368: 	class: Opera
+02:23:27 PM.368: 	Bit depth: 24
+02:23:27 PM.368: 	Found proper GLXFBConfig (in 9): yes
+02:23:27 PM.368: 
+02:23:27 PM.877: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:23:27 PM.916: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:23:27 PM.916: 	title: Wiki - Install Instructions | OBS - Opera
+02:23:27 PM.916: 	class: Opera
+02:23:27 PM.916: 	Bit depth: 24
+02:23:27 PM.916: 	Found proper GLXFBConfig (in 9): yes
+02:23:27 PM.916: 
+02:23:29 PM.377: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:23:29 PM.417: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:23:29 PM.417: 	title: Wiki - Install Instructions | OBS - Opera
+02:23:29 PM.417: 	class: Opera
+02:23:29 PM.417: 	Bit depth: 24
+02:23:29 PM.417: 	Found proper GLXFBConfig (in 9): yes
+02:23:29 PM.417: 
+02:23:29 PM.877: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:23:29 PM.905: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:23:29 PM.905: 	title: Wiki - Install Instructions | OBS - Opera
+02:23:29 PM.905: 	class: Opera
+02:23:29 PM.905: 	Bit depth: 24
+02:23:29 PM.905: 	Found proper GLXFBConfig (in 9): yes
+02:23:29 PM.905: 
+02:23:59 PM.711: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:23:59 PM.749: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:23:59 PM.749: 	title: Wiki - Install Instructions | OBS - Opera
+02:23:59 PM.749: 	class: Opera
+02:23:59 PM.749: 	Bit depth: 24
+02:23:59 PM.749: 	Found proper GLXFBConfig (in 9): yes
+02:23:59 PM.749: 
+02:24:00 PM.177: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:24:00 PM.203: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:24:00 PM.203: 	title: Wiki - Install Instructions | OBS - Opera
+02:24:00 PM.203: 	class: Opera
+02:24:00 PM.203: 	Bit depth: 24
+02:24:00 PM.203: 	Found proper GLXFBConfig (in 9): yes
+02:24:00 PM.203: 
+02:24:00 PM.577: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:24:00 PM.603: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:24:00 PM.603: 	title: Wiki - Install Instructions | OBS - Opera
+02:24:00 PM.603: 	class: Opera
+02:24:00 PM.603: 	Bit depth: 24
+02:24:00 PM.603: 	Found proper GLXFBConfig (in 9): yes
+02:24:00 PM.603: 
+02:24:01 PM.044: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:24:01 PM.070: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:24:01 PM.070: 	title: Wiki - Install Instructions | OBS - Opera
+02:24:01 PM.070: 	class: Opera
+02:24:01 PM.070: 	Bit depth: 24
+02:24:01 PM.070: 	Found proper GLXFBConfig (in 9): yes
+02:24:01 PM.070: 
+02:24:02 PM.077: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:24:02 PM.103: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:24:02 PM.103: 	title: Wiki - Install Instructions | OBS - Opera
+02:24:02 PM.103: 	class: Opera
+02:24:02 PM.103: 	Bit depth: 24
+02:24:02 PM.103: 	Found proper GLXFBConfig (in 9): yes
+02:24:02 PM.103: 
+02:24:02 PM.444: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:24:02 PM.483: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:24:02 PM.483: 	title: Wiki - Install Instructions | OBS - Opera
+02:24:02 PM.483: 	class: Opera
+02:24:02 PM.483: 	Bit depth: 24
+02:24:02 PM.483: 	Found proper GLXFBConfig (in 9): yes
+02:24:02 PM.483: 
+02:24:02 PM.977: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:24:03 PM.003: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:24:03 PM.003: 	title: Wiki - Install Instructions | OBS - Opera
+02:24:03 PM.003: 	class: Opera
+02:24:03 PM.003: 	Bit depth: 24
+02:24:03 PM.003: 	Found proper GLXFBConfig (in 9): yes
+02:24:03 PM.003: 
+02:24:03 PM.811: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:24:03 PM.836: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:24:03 PM.836: 	title: Wiki - Install Instructions | OBS - Opera
+02:24:03 PM.836: 	class: Opera
+02:24:03 PM.836: 	Bit depth: 24
+02:24:03 PM.836: 	Found proper GLXFBConfig (in 9): yes
+02:24:03 PM.836: 
+02:24:04 PM.077: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:24:04 PM.117: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:24:04 PM.117: 	title: Wiki - Install Instructions | OBS - Opera
+02:24:04 PM.117: 	class: Opera
+02:24:04 PM.117: 	Bit depth: 24
+02:24:04 PM.117: 	Found proper GLXFBConfig (in 9): yes
+02:24:04 PM.117: 
+02:24:04 PM.544: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:24:04 PM.570: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:24:04 PM.570: 	title: Wiki - Install Instructions | OBS - Opera
+02:24:04 PM.570: 	class: Opera
+02:24:04 PM.570: 	Bit depth: 24
+02:24:04 PM.570: 	Found proper GLXFBConfig (in 9): yes
+02:24:04 PM.570: 
+02:25:07 PM.512: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:25:07 PM.568: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:25:07 PM.568: 	title: Wiki - Install Instructions | OBS - Opera
+02:25:07 PM.568: 	class: Opera
+02:25:07 PM.568: 	Bit depth: 24
+02:25:07 PM.568: 	Found proper GLXFBConfig (in 9): yes
+02:25:07 PM.568: 
+02:25:07 PM.652: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:25:07 PM.679: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:25:07 PM.679: 	title: Wiki - Install Instructions | OBS - Opera
+02:25:07 PM.679: 	class: Opera
+02:25:07 PM.679: 	Bit depth: 24
+02:25:07 PM.679: 	Found proper GLXFBConfig (in 9): yes
+02:25:07 PM.679: 
+02:26:50 PM.028: ---------------------------------
+02:26:50 PM.028: [NVENC encoder: 'simple_h264_recording'] settings:
+02:26:50 PM.028: 	rate_control: CQP
+02:26:50 PM.028: 	bitrate:      0
+02:26:50 PM.028: 	cqp:          23
+02:26:50 PM.028: 	keyint:       250
+02:26:50 PM.028: 	preset:       hq
+02:26:50 PM.028: 	profile:      high
+02:26:50 PM.028: 	width:        1920
+02:26:50 PM.028: 	height:       1080
+02:26:50 PM.028: 	2-pass:       false
+02:26:50 PM.028: 	b-frames:     2
+02:26:50 PM.028: 	psycho-aq:    1
+02:26:50 PM.028: 	GPU:          0
+02:26:50 PM.028: 
+02:26:50 PM.389: libfdk_aac encoder created
+02:26:50 PM.389: libfdk_aac bitrate: 192, channels: 2
+02:26:50 PM.390: ==== Recording Start ===============================================
+02:26:50 PM.390: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/enquirer/2021-08-19 14-26-50.mkv'...
+02:26:59 PM.175: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/enquirer/2021-08-19 14-26-50.mkv' stopped
+02:26:59 PM.175: Output 'simple_file_output': stopping
+02:26:59 PM.175: Output 'simple_file_output': Total frames output: 227
+02:26:59 PM.175: Output 'simple_file_output': Total drawn frames: 263
+02:26:59 PM.176: ==== Recording Stop ================================================
+02:26:59 PM.368: libfdk_aac encoder destroyed
+02:27:40 PM.363: ---------------------------------
+02:27:40 PM.364: [NVENC encoder: 'simple_h264_recording'] settings:
+02:27:40 PM.364: 	rate_control: CQP
+02:27:40 PM.364: 	bitrate:      0
+02:27:40 PM.364: 	cqp:          23
+02:27:40 PM.364: 	keyint:       250
+02:27:40 PM.364: 	preset:       hq
+02:27:40 PM.364: 	profile:      high
+02:27:40 PM.364: 	width:        1920
+02:27:40 PM.364: 	height:       1080
+02:27:40 PM.364: 	2-pass:       false
+02:27:40 PM.364: 	b-frames:     2
+02:27:40 PM.364: 	psycho-aq:    1
+02:27:40 PM.364: 	GPU:          0
+02:27:40 PM.364: 
+02:27:40 PM.523: libfdk_aac encoder created
+02:27:40 PM.523: libfdk_aac bitrate: 192, channels: 2
+02:27:40 PM.524: ==== Recording Start ===============================================
+02:27:40 PM.524: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/enquirer/2021-08-19 14-27-40.mkv'...
+02:27:43 PM.690: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/enquirer/2021-08-19 14-27-40.mkv' stopped
+02:27:43 PM.690: Output 'simple_file_output': stopping
+02:27:43 PM.690: Output 'simple_file_output': Total frames output: 59
+02:27:43 PM.690: Output 'simple_file_output': Total drawn frames: 95
+02:27:43 PM.690: ==== Recording Stop ================================================
+02:27:43 PM.874: libfdk_aac encoder destroyed
+02:28:19 PM.330: Settings changed (outputs)
+02:28:19 PM.330: ------------------------------------------------
+02:28:21 PM.765: ---------------------------------
+02:28:21 PM.765: [NVENC encoder: 'simple_h264_recording'] settings:
+02:28:21 PM.765: 	rate_control: CQP
+02:28:21 PM.765: 	bitrate:      0
+02:28:21 PM.765: 	cqp:          23
+02:28:21 PM.765: 	keyint:       250
+02:28:21 PM.765: 	preset:       hq
+02:28:21 PM.765: 	profile:      high
+02:28:21 PM.765: 	width:        1920
+02:28:21 PM.765: 	height:       1080
+02:28:21 PM.765: 	2-pass:       false
+02:28:21 PM.765: 	b-frames:     2
+02:28:21 PM.765: 	psycho-aq:    1
+02:28:21 PM.765: 	GPU:          0
+02:28:21 PM.765: 
+02:28:21 PM.936: libfdk_aac encoder created
+02:28:21 PM.936: libfdk_aac bitrate: 192, channels: 2
+02:28:21 PM.937: ==== Recording Start ===============================================
+02:28:21 PM.937: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/enquirer/recordings/2021-08-19 14-28-21.mkv'...
+02:28:25 PM.456: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/enquirer/recordings/2021-08-19 14-28-21.mkv' stopped
+02:28:25 PM.456: Output 'simple_file_output': stopping
+02:28:25 PM.457: Output 'simple_file_output': Total frames output: 70
+02:28:25 PM.457: Output 'simple_file_output': Total drawn frames: 106
+02:28:25 PM.457: ==== Recording Stop ================================================
+02:28:25 PM.635: libfdk_aac encoder destroyed
+02:28:53 PM.606: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:28:53 PM.636: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:28:53 PM.636: 	title: how to play mkv linus - Google Search - Opera
+02:28:53 PM.636: 	class: Opera
+02:28:53 PM.636: 	Bit depth: 24
+02:28:53 PM.636: 	Found proper GLXFBConfig (in 9): yes
+02:28:53 PM.636: 
+02:31:19 PM.371: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:31:19 PM.405: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:31:19 PM.405: 	title: arch video player - Google Search - Opera
+02:31:19 PM.405: 	class: Opera
+02:31:19 PM.405: 	Bit depth: 24
+02:31:19 PM.405: 	Found proper GLXFBConfig (in 9): yes
+02:31:19 PM.405: 
+02:31:30 PM.680: ---------------------------------
+02:31:30 PM.680: [NVENC encoder: 'simple_h264_recording'] settings:
+02:31:30 PM.680: 	rate_control: CQP
+02:31:30 PM.680: 	bitrate:      0
+02:31:30 PM.680: 	cqp:          23
+02:31:30 PM.680: 	keyint:       250
+02:31:30 PM.680: 	preset:       hq
+02:31:30 PM.680: 	profile:      high
+02:31:30 PM.680: 	width:        1920
+02:31:30 PM.680: 	height:       1080
+02:31:30 PM.680: 	2-pass:       false
+02:31:30 PM.680: 	b-frames:     2
+02:31:30 PM.680: 	psycho-aq:    1
+02:31:30 PM.680: 	GPU:          0
+02:31:30 PM.680: 
+02:31:30 PM.833: libfdk_aac encoder created
+02:31:30 PM.833: libfdk_aac bitrate: 192, channels: 2
+02:31:30 PM.834: ==== Recording Start ===============================================
+02:31:30 PM.834: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/enquirer/recordings/2021-08-19 14-31-30.mkv'...
+02:31:38 PM.752: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/enquirer/recordings/2021-08-19 14-31-30.mkv' stopped
+02:31:38 PM.752: Output 'simple_file_output': stopping
+02:31:38 PM.752: Output 'simple_file_output': Total frames output: 202
+02:31:38 PM.752: Output 'simple_file_output': Total drawn frames: 238
+02:31:38 PM.754: ==== Recording Stop ================================================
+02:31:38 PM.932: libfdk_aac encoder destroyed
+02:31:43 PM.052: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:31:43 PM.062: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:31:43 PM.062: 	title: arch video player - Google Search - Opera
+02:31:43 PM.062: 	class: Opera
+02:31:43 PM.062: 	Bit depth: 24
+02:31:43 PM.062: 	Found proper GLXFBConfig (in 9): yes
+02:31:43 PM.062: 
+02:32:12 PM.153: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:32:12 PM.170: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:32:12 PM.170: 	title: arch video player - Google Search - Opera
+02:32:12 PM.170: 	class: Opera
+02:32:12 PM.170: 	Bit depth: 24
+02:32:12 PM.170: 	Found proper GLXFBConfig (in 9): yes
+02:32:12 PM.170: 
+02:33:03 PM.458: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:33:03 PM.473: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:33:03 PM.473: 	title: Internship Prez 2021 - Google Slides - Opera
+02:33:03 PM.473: 	class: Opera
+02:33:03 PM.473: 	Bit depth: 24
+02:33:03 PM.473: 	Found proper GLXFBConfig (in 9): yes
+02:33:03 PM.473: 
+02:44:43 PM.081: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:44:43 PM.104: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:44:43 PM.104: 	title: Internship Prez 2021 - Google Slides - Opera
+02:44:43 PM.104: 	class: Opera
+02:44:43 PM.104: 	Bit depth: 24
+02:44:43 PM.104: 	Found proper GLXFBConfig (in 9): yes
+02:44:43 PM.104: 
+02:45:51 PM.766: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:45:51 PM.779: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:45:51 PM.779: 	title: Internship Prez 2021 - Google Slides - Opera
+02:45:51 PM.779: 	class: Opera
+02:45:51 PM.779: 	Bit depth: 24
+02:45:51 PM.779: 	Found proper GLXFBConfig (in 9): yes
+02:45:51 PM.779: 
+02:45:55 PM.072: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:45:55 PM.088: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:45:55 PM.088: 	title: Internship Prez 2021 - Google Slides - Opera
+02:45:55 PM.088: 	class: Opera
+02:45:55 PM.088: 	Bit depth: 24
+02:45:55 PM.088: 	Found proper GLXFBConfig (in 9): yes
+02:45:55 PM.088: 
+02:49:48 PM.596: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:49:48 PM.628: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:49:48 PM.628: 	title: Internship Prez 2021 - Google Slides - Opera
+02:49:48 PM.628: 	class: Opera
+02:49:48 PM.628: 	Bit depth: 24
+02:49:48 PM.628: 	Found proper GLXFBConfig (in 9): yes
+02:49:48 PM.628: 
+02:51:41 PM.230: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:51:41 PM.387: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:51:41 PM.387: 	title: Internship Prez 2021 - Google Slides - Opera
+02:51:41 PM.387: 	class: Opera
+02:51:41 PM.387: 	Bit depth: 24
+02:51:41 PM.387: 	Found proper GLXFBConfig (in 9): yes
+02:51:41 PM.387: 
+02:54:08 PM.029: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:54:08 PM.045: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:54:08 PM.045: 	title: Internship Prez 2021 - Google Slides - Opera
+02:54:08 PM.045: 	class: Opera
+02:54:08 PM.045: 	Bit depth: 24
+02:54:08 PM.045: 	Found proper GLXFBConfig (in 9): yes
+02:54:08 PM.045: 
+02:54:23 PM.526: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:54:23 PM.535: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:54:23 PM.535: 	title: YouTube - Opera
+02:54:23 PM.535: 	class: Opera
+02:54:23 PM.535: 	Bit depth: 24
+02:54:23 PM.535: 	Found proper GLXFBConfig (in 9): yes
+02:54:23 PM.535: 
+02:54:31 PM.381: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:54:31 PM.400: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:54:31 PM.400: 	title: sigmale male grindset trump come - YouTube - Opera
+02:54:31 PM.400: 	class: Opera
+02:54:31 PM.400: 	Bit depth: 24
+02:54:31 PM.400: 	Found proper GLXFBConfig (in 9): yes
+02:54:31 PM.400: 
+02:54:40 PM.819: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:54:40 PM.861: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:54:40 PM.861: 	title: Donald Trump Sigma Male Grindset - I'm Gonna Come - YouTube - Opera
+02:54:40 PM.861: 	class: Opera
+02:54:40 PM.861: 	Bit depth: 24
+02:54:40 PM.861: 	Found proper GLXFBConfig (in 9): yes
+02:54:40 PM.861: 
+02:54:42 PM.427: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:54:42 PM.466: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:54:42 PM.466: 	title: Donald Trump Sigma Male Grindset - I'm Gonna Come - YouTube - Opera
+02:54:42 PM.466: 	class: Opera
+02:54:42 PM.466: 	Bit depth: 24
+02:54:42 PM.466: 	Found proper GLXFBConfig (in 9): yes
+02:54:42 PM.466: 
+02:54:43 PM.547: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:54:43 PM.571: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:54:43 PM.571: 	title: Donald Trump Sigma Male Grindset - I'm Gonna Come - YouTube - Opera
+02:54:43 PM.571: 	class: Opera
+02:54:43 PM.571: 	Bit depth: 24
+02:54:43 PM.571: 	Found proper GLXFBConfig (in 9): yes
+02:54:43 PM.571: 
+02:54:46 PM.640: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:54:46 PM.655: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:54:46 PM.655: 	title: Donald Trump Sigma Male Grindset - I'm Gonna Come - YouTube - Opera
+02:54:46 PM.655: 	class: Opera
+02:54:46 PM.655: 	Bit depth: 24
+02:54:46 PM.655: 	Found proper GLXFBConfig (in 9): yes
+02:54:46 PM.655: 
+02:54:47 PM.860: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:54:47 PM.868: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:54:47 PM.868: 	title: Donald Trump Sigma Male Grindset - I'm Gonna Come - YouTube - Opera
+02:54:47 PM.868: 	class: Opera
+02:54:47 PM.868: 	Bit depth: 24
+02:54:47 PM.868: 	Found proper GLXFBConfig (in 9): yes
+02:54:47 PM.868: 
+02:54:50 PM.261: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:54:50 PM.297: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:54:50 PM.297: 	title: Donald Trump Sigma Male Grindset - I'm Gonna Come - YouTube - Opera
+02:54:50 PM.297: 	class: Opera
+02:54:50 PM.297: 	Bit depth: 24
+02:54:50 PM.297: 	Found proper GLXFBConfig (in 9): yes
+02:54:50 PM.297: 
+02:54:52 PM.329: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:54:52 PM.344: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:54:52 PM.344: 	title: Donald Trump Sigma Male Grindset - I'm Gonna Come - YouTube - Opera
+02:54:52 PM.344: 	class: Opera
+02:54:52 PM.344: 	Bit depth: 24
+02:54:52 PM.344: 	Found proper GLXFBConfig (in 9): yes
+02:54:52 PM.344: 
+02:54:54 PM.532: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:54:54 PM.594: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:54:54 PM.594: 	title: Donald Trump Sigma Male Grindset - I'm Gonna Come - YouTube - Opera
+02:54:54 PM.594: 	class: Opera
+02:54:54 PM.594: 	Bit depth: 24
+02:54:54 PM.594: 	Found proper GLXFBConfig (in 9): yes
+02:54:54 PM.594: 
+02:54:57 PM.030: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:54:57 PM.052: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:54:57 PM.052: 	title: Donald Trump Sigma Male Grindset - I'm Gonna Come - YouTube - Opera
+02:54:57 PM.052: 	class: Opera
+02:54:57 PM.052: 	Bit depth: 24
+02:54:57 PM.052: 	Found proper GLXFBConfig (in 9): yes
+02:54:57 PM.052: 
+02:55:01 PM.076: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:55:01 PM.084: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:55:01 PM.084: 	title: Donald Trump Sigma Male Grindset - I'm Gonna Come - YouTube - Opera
+02:55:01 PM.084: 	class: Opera
+02:55:01 PM.084: 	Bit depth: 24
+02:55:01 PM.084: 	Found proper GLXFBConfig (in 9): yes
+02:55:01 PM.084: 
+02:55:22 PM.423: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:55:22 PM.423: xcompcap: cleanup glXDestroyPixmap failed: GLXBadPixmap
+02:55:22 PM.424: xcompcap: cleanup glXDestroyPixmap failed: BadPixmap (invalid Pixmap parameter)
+02:55:22 PM.448: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:55:22 PM.448: 	title: Donald Trump Sigma Male Grindset - I'm Gonna Come - YouTube - Opera
+02:55:22 PM.448: 	class: Opera
+02:55:22 PM.448: 	Bit depth: 24
+02:55:22 PM.448: 	Found proper GLXFBConfig (in 9): yes
+02:55:22 PM.448: 
+02:55:59 PM.283: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:55:59 PM.365: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:55:59 PM.365: 	title: Donald Trump Sigma Male Grindset - I'm Gonna Come - YouTube - Opera
+02:55:59 PM.365: 	class: Opera
+02:55:59 PM.365: 	Bit depth: 24
+02:55:59 PM.365: 	Found proper GLXFBConfig (in 9): yes
+02:55:59 PM.365: 
+02:56:48 PM.225: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:56:48 PM.256: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:56:48 PM.256: 	title: Internship Prez 2021 - Google Slides - Opera
+02:56:48 PM.256: 	class: Opera
+02:56:48 PM.256: 	Bit depth: 24
+02:56:48 PM.256: 	Found proper GLXFBConfig (in 9): yes
+02:56:48 PM.256: 
+02:57:00 PM.730: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:57:00 PM.756: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:00 PM.756: 	title: Search results - huxmarv@nuevaschool.org - The Nueva School Mail - Opera
+02:57:00 PM.756: 	class: Opera
+02:57:00 PM.756: 	Bit depth: 24
+02:57:00 PM.756: 	Found proper GLXFBConfig (in 9): yes
+02:57:00 PM.756: 
+03:10:39 PM.826: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+03:10:39 PM.846: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+03:10:39 PM.846: 	title: Internship Prez 2021 - Google Slides - Opera
+03:10:39 PM.846: 	class: Opera
+03:10:39 PM.846: 	Bit depth: 24
+03:10:39 PM.846: 	Found proper GLXFBConfig (in 9): yes
+03:10:39 PM.846: 
+03:14:26 PM.672: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+03:14:26 PM.699: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+03:14:26 PM.699: 	title: Feature: API? : BearableApp - Opera
+03:14:26 PM.699: 	class: Opera
+03:14:26 PM.699: 	Bit depth: 24
+03:14:26 PM.699: 	Found proper GLXFBConfig (in 9): yes
+03:14:26 PM.699: 
+12:13:53 AM.238: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+12:13:53 AM.320: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+12:13:53 AM.320: 	title: Sessions: Vi | A Creator-Safe Collection | Riot Games Music - YouTube - Opera
+12:13:53 AM.320: 	class: Opera
+12:13:53 AM.320: 	Bit depth: 24
+12:13:53 AM.320: 	Found proper GLXFBConfig (in 9): yes
+12:13:53 AM.320: 
+12:15:23 AM.525: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+12:15:23 AM.550: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+12:15:23 AM.550: 	title: Sessions: Vi | A Creator-Safe Collection | Riot Games Music - YouTube - Opera
+12:15:23 AM.550: 	class: Opera
+12:15:23 AM.550: 	Bit depth: 24
+12:15:23 AM.550: 	Found proper GLXFBConfig (in 9): yes
+12:15:23 AM.550: 
+12:59:19 AM.239: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+12:59:19 AM.248: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+12:59:19 AM.248: 	title: 2021 Loom Showcase Presentations - Google Sheets - Opera
+12:59:19 AM.248: 	class: Opera
+12:59:19 AM.248: 	Bit depth: 24
+12:59:19 AM.248: 	Found proper GLXFBConfig (in 9): yes
+12:59:19 AM.248: 
+12:59:19 AM.260: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+12:59:19 AM.279: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+12:59:19 AM.279: 	title: 2021 Loom Showcase Presentations - Google Sheets - Opera
+12:59:19 AM.279: 	class: Opera
+12:59:19 AM.279: 	Bit depth: 24
+12:59:19 AM.279: 	Found proper GLXFBConfig (in 9): yes
+12:59:19 AM.279: 
+12:59:19 AM.281: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+12:59:19 AM.311: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+12:59:19 AM.311: 	title: 2021 Loom Showcase Presentations - Google Sheets - Opera
+12:59:19 AM.311: 	class: Opera
+12:59:19 AM.311: 	Bit depth: 24
+12:59:19 AM.311: 	Found proper GLXFBConfig (in 9): yes
+12:59:19 AM.311: 
+12:59:19 AM.822: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+12:59:19 AM.834: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+12:59:19 AM.834: 	title: 2021 Loom Showcase Presentations - Google Sheets - Opera
+12:59:19 AM.834: 	class: Opera
+12:59:19 AM.834: 	Bit depth: 24
+12:59:19 AM.834: 	Found proper GLXFBConfig (in 9): yes
+12:59:19 AM.834: 
+12:59:19 AM.896: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+12:59:19 AM.913: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+12:59:19 AM.913: 	title: 2021 Loom Showcase Presentations - Google Sheets - Opera
+12:59:19 AM.913: 	class: Opera
+12:59:19 AM.913: 	Bit depth: 24
+12:59:19 AM.913: 	Found proper GLXFBConfig (in 9): yes
+12:59:19 AM.913: 
+12:59:57 AM.170: ---------------------------------
+12:59:57 AM.170: [NVENC encoder: 'simple_h264_recording'] settings:
+12:59:57 AM.170: 	rate_control: CQP
+12:59:57 AM.170: 	bitrate:      0
+12:59:57 AM.170: 	cqp:          23
+12:59:57 AM.170: 	keyint:       250
+12:59:57 AM.170: 	preset:       hq
+12:59:57 AM.170: 	profile:      high
+12:59:57 AM.170: 	width:        1920
+12:59:57 AM.170: 	height:       1080
+12:59:57 AM.170: 	2-pass:       false
+12:59:57 AM.170: 	b-frames:     2
+12:59:57 AM.170: 	psycho-aq:    1
+12:59:57 AM.170: 	GPU:          0
+12:59:57 AM.170: 
+12:59:57 AM.324: libfdk_aac encoder created
+12:59:57 AM.325: libfdk_aac bitrate: 192, channels: 2
+12:59:57 AM.325: ==== Recording Start ===============================================
+12:59:57 AM.326: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/enquirer/recordings/2021-08-21 00-59-57.mkv'...
+01:00:05 AM.720: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/enquirer/recordings/2021-08-21 00-59-57.mkv' stopped
+01:00:05 AM.720: Output 'simple_file_output': stopping
+01:00:05 AM.720: Output 'simple_file_output': Total frames output: 216
+01:00:05 AM.720: Output 'simple_file_output': Total drawn frames: 252
+01:00:05 AM.722: ==== Recording Stop ================================================
+01:00:05 AM.899: libfdk_aac encoder destroyed
+01:00:12 AM.144: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+01:00:12 AM.155: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:00:12 AM.155: 	title: Internship Prez 2021 - Google Slides - Opera
+01:00:12 AM.155: 	class: Opera
+01:00:12 AM.155: 	Bit depth: 24
+01:00:12 AM.155: 	Found proper GLXFBConfig (in 9): yes
+01:00:12 AM.155: 
+01:00:36 AM.520: ---------------------------------
+01:00:36 AM.520: [NVENC encoder: 'simple_h264_recording'] settings:
+01:00:36 AM.520: 	rate_control: CQP
+01:00:36 AM.520: 	bitrate:      0
+01:00:36 AM.520: 	cqp:          23
+01:00:36 AM.520: 	keyint:       250
+01:00:36 AM.520: 	preset:       hq
+01:00:36 AM.520: 	profile:      high
+01:00:36 AM.520: 	width:        1920
+01:00:36 AM.520: 	height:       1080
+01:00:36 AM.520: 	2-pass:       false
+01:00:36 AM.520: 	b-frames:     2
+01:00:36 AM.520: 	psycho-aq:    1
+01:00:36 AM.520: 	GPU:          0
+01:00:36 AM.520: 
+01:00:36 AM.638: libfdk_aac encoder created
+01:00:36 AM.638: libfdk_aac bitrate: 192, channels: 2
+01:00:36 AM.639: ==== Recording Start ===============================================
+01:00:36 AM.639: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/enquirer/recordings/2021-08-21 01-00-36.mkv'...
+01:00:42 AM.355: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/enquirer/recordings/2021-08-21 01-00-36.mkv' stopped
+01:00:42 AM.355: Output 'simple_file_output': stopping
+01:00:42 AM.355: Output 'simple_file_output': Total frames output: 136
+01:00:42 AM.355: Output 'simple_file_output': Total drawn frames: 172
+01:00:42 AM.355: ==== Recording Stop ================================================
+01:00:42 AM.534: libfdk_aac encoder destroyed
+01:01:29 AM.681: ---------------------------------
+01:01:29 AM.681: [NVENC encoder: 'simple_h264_recording'] settings:
+01:01:29 AM.681: 	rate_control: CQP
+01:01:29 AM.681: 	bitrate:      0
+01:01:29 AM.681: 	cqp:          23
+01:01:29 AM.681: 	keyint:       250
+01:01:29 AM.681: 	preset:       hq
+01:01:29 AM.681: 	profile:      high
+01:01:29 AM.681: 	width:        1920
+01:01:29 AM.681: 	height:       1080
+01:01:29 AM.681: 	2-pass:       false
+01:01:29 AM.681: 	b-frames:     2
+01:01:29 AM.681: 	psycho-aq:    1
+01:01:29 AM.681: 	GPU:          0
+01:01:29 AM.681: 
+01:01:29 AM.833: libfdk_aac encoder created
+01:01:29 AM.833: libfdk_aac bitrate: 192, channels: 2
+01:01:29 AM.834: ==== Recording Start ===============================================
+01:01:29 AM.834: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/enquirer/recordings/2021-08-21 01-01-29.mkv'...
+01:01:35 AM.371: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/enquirer/recordings/2021-08-21 01-01-29.mkv' stopped
+01:01:35 AM.371: Output 'simple_file_output': stopping
+01:01:35 AM.371: Output 'simple_file_output': Total frames output: 131
+01:01:35 AM.371: Output 'simple_file_output': Total drawn frames: 166
+01:01:35 AM.372: ==== Recording Stop ================================================
+01:01:35 AM.547: libfdk_aac encoder destroyed
+01:02:31 AM.556: User added filter 'Gain' (gain_filter) to source 'Mic/Aux'
+01:02:57 AM.469: ---------------------------------
+01:02:57 AM.469: [NVENC encoder: 'simple_h264_recording'] settings:
+01:02:57 AM.469: 	rate_control: CQP
+01:02:57 AM.469: 	bitrate:      0
+01:02:57 AM.469: 	cqp:          23
+01:02:57 AM.469: 	keyint:       250
+01:02:57 AM.469: 	preset:       hq
+01:02:57 AM.469: 	profile:      high
+01:02:57 AM.469: 	width:        1920
+01:02:57 AM.469: 	height:       1080
+01:02:57 AM.469: 	2-pass:       false
+01:02:57 AM.469: 	b-frames:     2
+01:02:57 AM.469: 	psycho-aq:    1
+01:02:57 AM.469: 	GPU:          0
+01:02:57 AM.469: 
+01:02:57 AM.620: libfdk_aac encoder created
+01:02:57 AM.620: libfdk_aac bitrate: 192, channels: 2
+01:02:57 AM.621: ==== Recording Start ===============================================
+01:02:57 AM.621: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/enquirer/recordings/2021-08-21 01-02-57.mkv'...
+01:03:02 AM.489: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/enquirer/recordings/2021-08-21 01-02-57.mkv' stopped
+01:03:02 AM.489: Output 'simple_file_output': stopping
+01:03:02 AM.489: Output 'simple_file_output': Total frames output: 110
+01:03:02 AM.489: Output 'simple_file_output': Total drawn frames: 146
+01:03:02 AM.490: ==== Recording Stop ================================================
+01:03:02 AM.683: libfdk_aac encoder destroyed
+01:03:17 AM.238: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+01:03:17 AM.242: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:03:17 AM.242: 	title: Internship Prez 2021 - Google Slides - Opera
+01:03:17 AM.242: 	class: Opera
+01:03:17 AM.242: 	Bit depth: 24
+01:03:17 AM.242: 	Found proper GLXFBConfig (in 9): yes
+01:03:17 AM.242: 
+01:03:34 AM.767: ---------------------------------
+01:03:34 AM.767: [NVENC encoder: 'simple_h264_recording'] settings:
+01:03:34 AM.767: 	rate_control: CQP
+01:03:34 AM.767: 	bitrate:      0
+01:03:34 AM.767: 	cqp:          23
+01:03:34 AM.767: 	keyint:       250
+01:03:34 AM.767: 	preset:       hq
+01:03:34 AM.767: 	profile:      high
+01:03:34 AM.767: 	width:        1920
+01:03:34 AM.767: 	height:       1080
+01:03:34 AM.767: 	2-pass:       false
+01:03:34 AM.767: 	b-frames:     2
+01:03:34 AM.767: 	psycho-aq:    1
+01:03:34 AM.767: 	GPU:          0
+01:03:34 AM.767: 
+01:03:34 AM.882: libfdk_aac encoder created
+01:03:34 AM.882: libfdk_aac bitrate: 192, channels: 2
+01:03:34 AM.883: ==== Recording Start ===============================================
+01:03:34 AM.883: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/enquirer/recordings/2021-08-21 01-03-34.mkv'...
+01:04:38 AM.319: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/enquirer/recordings/2021-08-21 01-03-34.mkv' stopped
+01:04:38 AM.319: Output 'simple_file_output': stopping
+01:04:38 AM.319: Output 'simple_file_output': Total frames output: 1867
+01:04:38 AM.319: Output 'simple_file_output': Total drawn frames: 1903
+01:04:38 AM.320: ==== Recording Stop ================================================
+01:04:38 AM.507: libfdk_aac encoder destroyed
+01:04:48 AM.594: ---------------------------------
+01:04:48 AM.594: [NVENC encoder: 'simple_h264_recording'] settings:
+01:04:48 AM.594: 	rate_control: CQP
+01:04:48 AM.594: 	bitrate:      0
+01:04:48 AM.594: 	cqp:          23
+01:04:48 AM.594: 	keyint:       250
+01:04:48 AM.594: 	preset:       hq
+01:04:48 AM.594: 	profile:      high
+01:04:48 AM.594: 	width:        1920
+01:04:48 AM.594: 	height:       1080
+01:04:48 AM.594: 	2-pass:       false
+01:04:48 AM.594: 	b-frames:     2
+01:04:48 AM.594: 	psycho-aq:    1
+01:04:48 AM.594: 	GPU:          0
+01:04:48 AM.594: 
+01:04:48 AM.710: libfdk_aac encoder created
+01:04:48 AM.710: libfdk_aac bitrate: 192, channels: 2
+01:04:48 AM.711: ==== Recording Start ===============================================
+01:04:48 AM.711: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/enquirer/recordings/2021-08-21 01-04-48.mkv'...
+01:09:13 AM.706: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/enquirer/recordings/2021-08-21 01-04-48.mkv' stopped
+01:09:13 AM.706: Output 'simple_file_output': stopping
+01:09:13 AM.706: Output 'simple_file_output': Total frames output: 7913
+01:09:13 AM.706: Output 'simple_file_output': Total drawn frames: 7949
+01:09:13 AM.706: ==== Recording Stop ================================================
+01:09:13 AM.882: libfdk_aac encoder destroyed
+01:10:02 AM.616: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+01:10:02 AM.652: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:10:02 AM.652: 	title: Internship Prez 2021 - Google Slides - Opera
+01:10:02 AM.652: 	class: Opera
+01:10:02 AM.652: 	Bit depth: 24
+01:10:02 AM.652: 	Found proper GLXFBConfig (in 9): yes
+01:10:02 AM.652: 
+01:16:37 AM.452: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+01:16:37 AM.460: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:16:37 AM.460: 	title: Loom | Free Screen & Video Recording Software - Opera
+01:16:37 AM.460: 	class: Opera
+01:16:37 AM.460: 	Bit depth: 24
+01:16:37 AM.460: 	Found proper GLXFBConfig (in 9): yes
+01:16:37 AM.460: 
+01:16:37 AM.492: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+01:16:37 AM.511: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:16:37 AM.511: 	title: Loom | Free Screen & Video Recording Software - Opera
+01:16:37 AM.511: 	class: Opera
+01:16:37 AM.511: 	Bit depth: 24
+01:16:37 AM.511: 	Found proper GLXFBConfig (in 9): yes
+01:16:37 AM.511: 
+01:16:41 AM.351: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+01:16:41 AM.363: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:16:41 AM.363: 	title: Loom | Free Screen & Video Recording Software - Opera
+01:16:41 AM.363: 	class: Opera
+01:16:41 AM.363: 	Bit depth: 24
+01:16:41 AM.363: 	Found proper GLXFBConfig (in 9): yes
+01:16:41 AM.363: 
+01:16:41 AM.379: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+01:16:41 AM.409: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:16:41 AM.409: 	title: Loom | Free Screen & Video Recording Software - Opera
+01:16:41 AM.409: 	class: Opera
+01:16:41 AM.409: 	Bit depth: 24
+01:16:41 AM.409: 	Found proper GLXFBConfig (in 9): yes
+01:16:41 AM.409: 
+01:16:41 AM.479: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+01:16:41 AM.485: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:16:41 AM.485: 	title: Loom | Free Screen & Video Recording Software - Opera
+01:16:41 AM.485: 	class: Opera
+01:16:41 AM.485: 	Bit depth: 24
+01:16:41 AM.485: 	Found proper GLXFBConfig (in 9): yes
+01:16:41 AM.485: 
+01:19:15 AM.320: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+01:19:15 AM.325: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:19:15 AM.325: 	title: Loom for Education - Opera
+01:19:15 AM.325: 	class: Opera
+01:19:15 AM.325: 	Bit depth: 24
+01:19:15 AM.325: 	Found proper GLXFBConfig (in 9): yes
+01:19:15 AM.325: 
+01:20:14 AM.090: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+01:20:14 AM.111: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:20:14 AM.111: 	title: Loom for Education - Opera
+01:20:14 AM.111: 	class: Opera
+01:20:14 AM.111: 	Bit depth: 24
+01:20:14 AM.111: 	Found proper GLXFBConfig (in 9): yes
+01:20:14 AM.111: 
+01:22:07 AM.826: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+01:22:07 AM.855: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:22:07 AM.855: 	title: Loom | Free Screen & Video Recording Software - Opera
+01:22:07 AM.855: 	class: Opera
+01:22:07 AM.855: 	Bit depth: 24
+01:22:07 AM.855: 	Found proper GLXFBConfig (in 9): yes
+01:22:07 AM.855: 
+01:24:57 AM.189: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+01:24:57 AM.252: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:24:57 AM.252: 	title: Channel content - YouTube Studio - Opera
+01:24:57 AM.252: 	class: Opera
+01:24:57 AM.252: 	Bit depth: 24
+01:24:57 AM.252: 	Found proper GLXFBConfig (in 9): yes
+01:24:57 AM.252: 
+01:24:57 AM.256: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+01:24:57 AM.357: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:24:57 AM.357: 	title: Channel content - YouTube Studio - Opera
+01:24:57 AM.357: 	class: Opera
+01:24:57 AM.357: 	Bit depth: 24
+01:24:57 AM.357: 	Found proper GLXFBConfig (in 9): yes
+01:24:57 AM.357: 
+01:25:02 AM.918: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+01:25:02 AM.976: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:25:02 AM.976: 	title: Channel content - YouTube Studio - Opera
+01:25:02 AM.976: 	class: Opera
+01:25:02 AM.976: 	Bit depth: 24
+01:25:02 AM.976: 	Found proper GLXFBConfig (in 9): yes
+01:25:02 AM.976: 
+01:25:17 AM.039: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+01:25:17 AM.070: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:25:17 AM.070: 	title: Channel content - YouTube Studio - Opera
+01:25:17 AM.070: 	class: Opera
+01:25:17 AM.070: 	Bit depth: 24
+01:25:17 AM.070: 	Found proper GLXFBConfig (in 9): yes
+01:25:17 AM.070: 
+01:27:49 AM.044: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+01:27:49 AM.049: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:27:49 AM.049: 	title: loom_jank - YouTube - Opera
+01:27:49 AM.049: 	class: Opera
+01:27:49 AM.049: 	Bit depth: 24
+01:27:49 AM.049: 	Found proper GLXFBConfig (in 9): yes
+01:27:49 AM.049: 
+01:27:49 AM.226: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+01:27:49 AM.277: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:27:49 AM.277: 	title: loom_jank - YouTube - Opera
+01:27:49 AM.277: 	class: Opera
+01:27:49 AM.277: 	Bit depth: 24
+01:27:49 AM.277: 	Found proper GLXFBConfig (in 9): yes
+01:27:49 AM.277: 
+01:27:49 AM.368: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+01:27:49 AM.385: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:27:49 AM.385: 	title: loom_jank - YouTube - Opera
+01:27:49 AM.385: 	class: Opera
+01:27:49 AM.385: 	Bit depth: 24
+01:27:49 AM.385: 	Found proper GLXFBConfig (in 9): yes
+01:27:49 AM.385: 
+01:36:12 AM.220: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+01:36:12 AM.241: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:36:12 AM.241: 	title: 2021 Loom Showcase Presentations - Google Sheets - Opera
+01:36:12 AM.241: 	class: Opera
+01:36:12 AM.241: 	Bit depth: 24
+01:36:12 AM.241: 	Found proper GLXFBConfig (in 9): yes
+01:36:12 AM.241: 
+01:36:12 AM.313: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+01:36:12 AM.327: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:36:12 AM.327: 	title: 2021 Loom Showcase Presentations - Google Sheets - Opera
+01:36:12 AM.327: 	class: Opera
+01:36:12 AM.327: 	Bit depth: 24
+01:36:12 AM.327: 	Found proper GLXFBConfig (in 9): yes
+01:36:12 AM.327: 
+01:36:12 AM.344: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+01:36:12 AM.373: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:36:12 AM.373: 	title: 2021 Loom Showcase Presentations - Google Sheets - Opera
+01:36:12 AM.373: 	class: Opera
+01:36:12 AM.373: 	Bit depth: 24
+01:36:12 AM.373: 	Found proper GLXFBConfig (in 9): yes
+01:36:12 AM.373: 
+01:36:12 AM.575: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+01:36:12 AM.585: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:36:12 AM.585: 	title: 2021 Loom Showcase Presentations - Google Sheets - Opera
+01:36:12 AM.585: 	class: Opera
+01:36:12 AM.585: 	Bit depth: 24
+01:36:12 AM.585: 	Found proper GLXFBConfig (in 9): yes
+01:36:12 AM.585: 
+01:36:12 AM.594: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+01:36:12 AM.624: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+01:36:12 AM.624: 	title: 2021 Loom Showcase Presentations - Google Sheets - Opera
+01:36:12 AM.624: 	class: Opera
+01:36:12 AM.624: 	Bit depth: 24
+01:36:12 AM.624: 	Found proper GLXFBConfig (in 9): yes
+01:36:12 AM.624: 
+01:37:19 AM.984: ==== Shutting down ==================================================
+01:37:19 AM.989: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+01:37:20 AM.001: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor'
+01:37:20 AM.001: pulse-input: Got 24234726 packets with 5599894741 frames
+01:37:20 AM.002: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo'
+01:37:20 AM.002: pulse-input: Got 21967320 packets with 5600073051 frames
+01:37:20 AM.008: All scene data cleared
+01:37:20 AM.008: ------------------------------------------------
+01:37:20 AM.070: X Error: GLXBadDrawable, Major opcode: 151, Minor opcode: 26, Serial: 7452797
+01:37:20 AM.070: Failed to make context current.
+01:37:20 AM.070: X Error: GLXBadDrawable, Major opcode: 151, Minor opcode: 26, Serial: 7452799
+01:37:20 AM.070: Failed to make context current.
+01:37:20 AM.070: Failed to fetch parent window geometry!
+01:37:20 AM.070: Failed to fetch parent window geometry!
+01:37:20 AM.071: Failed to fetch parent window geometry!
+01:37:20 AM.071: Failed to fetch parent window geometry!
+01:37:20 AM.072: X Error: BadDrawable (invalid Pixmap or Window parameter), Major opcode: 151, Minor opcode: BadLength (poly request too large or internal Xlib length error), Serial: 7452804
+01:37:20 AM.073: X Error: GLXBadDrawable, Major opcode: 151, Minor opcode: BadAlloc (insufficient resources for operation), Serial: 7452805
+01:37:20 AM.073: X Error: GLXBadDrawable, Major opcode: 151, Minor opcode: 26, Serial: 7452807
+01:37:20 AM.073: Failed to make context current.
+01:37:20 AM.079: X Error: GLXBadDrawable, Major opcode: 151, Minor opcode: 26, Serial: 7452809
+01:37:20 AM.079: Failed to make context current.
+01:37:20 AM.079: X Error: GLXBadDrawable, Major opcode: 151, Minor opcode: 26, Serial: 7452811
+01:37:20 AM.079: Failed to make context current.
+01:37:20 AM.079: X Error: GLXBadDrawable, Major opcode: 151, Minor opcode: 26, Serial: 7452813
+01:37:20 AM.079: Failed to make context current.
+01:37:20 AM.080: Failed to fetch parent window geometry!
+01:37:20 AM.080: X Error: BadDrawable (invalid Pixmap or Window parameter), Major opcode: 151, Minor opcode: BadLength (poly request too large or internal Xlib length error), Serial: 7452815
+01:37:20 AM.080: X Error: GLXBadDrawable, Major opcode: 151, Minor opcode: BadAlloc (insufficient resources for operation), Serial: 7452816
+01:37:20 AM.080: X Error: GLXBadDrawable, Major opcode: 151, Minor opcode: 26, Serial: 7452818
+01:37:20 AM.080: Failed to make context current.
+01:37:20 AM.080: X Error: GLXBadDrawable, Major opcode: 151, Minor opcode: 26, Serial: 7452820
+01:37:20 AM.080: Failed to make context current.
+01:37:20 AM.214: [Scripting] Total detached callbacks: 0
+01:37:20 AM.216: Freeing OBS context data
+01:37:20 AM.254: == Profiler Results =============================
+01:37:20 AM.254: run_program_init: 333.571 ms
+01:37:20 AM.254:  ┣OBSApp::AppInit: 2.193 ms
+01:37:20 AM.254:  ┃ ┗OBSApp::InitLocale: 0.498 ms
+01:37:20 AM.254:  ┗OBSApp::OBSInit: 314.039 ms
+01:37:20 AM.254:    ┣obs_startup: 16.487 ms
+01:37:20 AM.254:    ┗OBSBasic::OBSInit: 273.346 ms
+01:37:20 AM.254:      ┣OBSBasic::InitBasicConfig: 0.206 ms
+01:37:20 AM.254:      ┣OBSBasic::ResetAudio: 0.099 ms
+01:37:20 AM.254:      ┣OBSBasic::ResetVideo: 79.42 ms
+01:37:20 AM.254:      ┣OBSBasic::InitOBSCallbacks: 0.002 ms
+01:37:20 AM.254:      ┣OBSBasic::InitHotkeys: 0.021 ms
+01:37:20 AM.254:      ┣obs_load_all_modules: 85.808 ms
+01:37:20 AM.254:      ┃ ┣obs_init_module(decklink-captions.so): 0.016 ms
+01:37:20 AM.254:      ┃ ┣obs_init_module(decklink-ouput-ui.so): 0.331 ms
+01:37:20 AM.254:      ┃ ┣obs_init_module(frontend-tools.so): 53.269 ms
+01:37:20 AM.254:      ┃ ┣obs_init_module(image-source.so): 0.003 ms
+01:37:20 AM.254:      ┃ ┣obs_init_module(linux-alsa.so): 0.001 ms
+01:37:20 AM.254:      ┃ ┣obs_init_module(linux-capture.so): 0.316 ms
+01:37:20 AM.254:      ┃ ┣obs_init_module(linux-decklink.so): 0.057 ms
+01:37:20 AM.254:      ┃ ┣obs_init_module(linux-jack.so): 0 ms
+01:37:20 AM.254:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.001 ms
+01:37:20 AM.254:      ┃ ┣obs_init_module(linux-v4l2.so): 2.619 ms
+01:37:20 AM.254:      ┃ ┣obs_init_module(obs-ffmpeg.so): 4.303 ms
+01:37:20 AM.254:      ┃ ┃ ┗nvenc_check: 4.271 ms
+01:37:20 AM.254:      ┃ ┣obs_init_module(obs-filters.so): 0.012 ms
+01:37:20 AM.254:      ┃ ┣obs_init_module(obs-libfdk.so): 0.001 ms
+01:37:20 AM.254:      ┃ ┣obs_init_module(obs-outputs.so): 0 ms
+01:37:20 AM.254:      ┃ ┣obs_init_module(obs-transitions.so): 0.003 ms
+01:37:20 AM.254:      ┃ ┣obs_init_module(obs-x264.so): 0 ms
+01:37:20 AM.254:      ┃ ┣obs_init_module(rtmp-services.so): 0.076 ms
+01:37:20 AM.254:      ┃ ┗obs_init_module(text-freetype2.so): 0.019 ms
+01:37:20 AM.254:      ┣OBSBasic::ResetOutputs: 0.054 ms
+01:37:20 AM.254:      ┣OBSBasic::CreateHotkeys: 0.019 ms
+01:37:20 AM.254:      ┣OBSBasic::InitService: 0.802 ms
+01:37:20 AM.254:      ┣OBSBasic::InitPrimitives: 0.216 ms
+01:37:20 AM.254:      ┗OBSBasic::Load: 4.506 ms
+01:37:20 AM.254: obs_hotkey_thread(25 ms): min=0.042 ms, median=0.946 ms, max=219.891 ms, 99th percentile=4.512 ms, 99.9849% below 25 ms
+01:37:20 AM.254: audio_thread(Audio): min=0 ms, median=0.14 ms, max=27.092 ms, 99th percentile=0.189 ms
+01:37:20 AM.254:  ┗receive_audio: min=0.001 ms, median=1.206 ms, max=26.929 ms, 99th percentile=1.633 ms, 0.00296736 calls per parent call
+01:37:20 AM.254:    ┣buffer_audio: min=0 ms, median=0.001 ms, max=0.176 ms, 99th percentile=0.002 ms
+01:37:20 AM.254:    ┗do_encode: min=0.054 ms, median=1.201 ms, max=26.922 ms, 99th percentile=1.628 ms
+01:37:20 AM.254:      ┣encode(simple_aac_recording): min=0.136 ms, median=1.194 ms, max=1.575 ms, 99th percentile=1.468 ms, 0.0322161 calls per parent call
+01:37:20 AM.254:      ┗encode(simple_aac_recording): min=0.053 ms, median=1.19 ms, max=2.216 ms, 99th percentile=1.611 ms
+01:37:20 AM.254: obs_graphics_thread(33.3333 ms): min=0.32 ms, median=2.611 ms, max=184.861 ms, 99th percentile=23.817 ms, 99.5951% below 33.333 ms
+01:37:20 AM.254:  ┣tick_sources: min=0.001 ms, median=0.012 ms, max=0.24 ms, 99th percentile=0.017 ms
+01:37:20 AM.254:  ┣output_frame: min=0.069 ms, median=0.641 ms, max=34.098 ms, 99th percentile=1.721 ms
+01:37:20 AM.254:  ┃ ┗gs_context(video->graphics): min=0.069 ms, median=0.639 ms, max=34.096 ms, 99th percentile=1.719 ms
+01:37:20 AM.254:  ┃   ┣render_video: min=0.026 ms, median=0.141 ms, max=4.41 ms, 99th percentile=0.294 ms
+01:37:20 AM.254:  ┃   ┃ ┗render_main_texture: min=0.02 ms, median=0.11 ms, max=4.389 ms, 99th percentile=0.208 ms
+01:37:20 AM.254:  ┃   ┗gs_flush: min=0.004 ms, median=0.025 ms, max=16.843 ms, 99th percentile=0.13 ms
+01:37:20 AM.254:  ┗render_displays: min=0.036 ms, median=1.311 ms, max=91.947 ms, 99th percentile=4.052 ms
+01:37:20 AM.254: obs_graphics_thread(33.3333 ms): min=0.271 ms, median=4.01 ms, max=1162.95 ms, 99th percentile=1004.44 ms, 73.2791% below 33.333 ms
+01:37:20 AM.254:  ┣tick_sources: min=0.001 ms, median=1.023 ms, max=215.455 ms, 99th percentile=2.674 ms
+01:37:20 AM.254:  ┣output_frame: min=0.07 ms, median=0.643 ms, max=61.811 ms, 99th percentile=8.624 ms
+01:37:20 AM.254:  ┃ ┣gs_context(video->graphics): min=0.07 ms, median=0.642 ms, max=61.811 ms, 99th percentile=8.623 ms
+01:37:20 AM.254:  ┃ ┃ ┣render_video: min=0.007 ms, median=0.298 ms, max=16.872 ms, 99th percentile=0.6 ms
+01:37:20 AM.254:  ┃ ┃ ┃ ┣render_main_texture: min=0.004 ms, median=0.261 ms, max=14.379 ms, 99th percentile=0.413 ms
+01:37:20 AM.254:  ┃ ┃ ┃ ┣render_convert_texture: min=0.037 ms, median=0.192 ms, max=16.764 ms, 99th percentile=0.24 ms, 0.0258803 calls per parent call
+01:37:20 AM.254:  ┃ ┃ ┃ ┗stage_output_texture: min=0.017 ms, median=0.089 ms, max=14.545 ms, 99th percentile=0.168 ms, 0.0258803 calls per parent call
+01:37:20 AM.254:  ┃ ┃ ┣gs_flush: min=0 ms, median=0.024 ms, max=46.56 ms, 99th percentile=0.105 ms
+01:37:20 AM.254:  ┃ ┃ ┗download_frame: min=0 ms, median=0.006 ms, max=0.215 ms, 99th percentile=0.007 ms, 0.0258803 calls per parent call
+01:37:20 AM.254:  ┃ ┗output_video_data: min=0.244 ms, median=0.732 ms, max=4.966 ms, 99th percentile=0.938 ms, 0.0258574 calls per parent call
+01:37:20 AM.254:  ┗render_displays: min=0.05 ms, median=1.559 ms, max=1160.23 ms, 99th percentile=1002.09 ms
+01:37:20 AM.254: OBSBasic::ResetVideo: 49.646 ms
+01:37:20 AM.254: OBSBasic::ResetOutputs: min=0.06 ms, median=0 ms, max=0.309 ms, 99th percentile=0.309 ms
+01:37:20 AM.254: video_thread(video): min=0.771 ms, median=2.397 ms, max=29.898 ms, 99th percentile=2.971 ms
+01:37:20 AM.254:  ┗receive_video: min=0.771 ms, median=2.395 ms, max=29.894 ms, 99th percentile=2.968 ms
+01:37:20 AM.254:    ┗do_encode: min=0.77 ms, median=2.393 ms, max=29.891 ms, 99th percentile=2.966 ms
+01:37:20 AM.254:      ┣encode(simple_h264_recording): min=0.877 ms, median=2.335 ms, max=3.584 ms, 99th percentile=3.149 ms, 0.0315603 calls per parent call
+01:37:20 AM.254:      ┗encode(simple_h264_recording): min=0.767 ms, median=2.38 ms, max=4.776 ms, 99th percentile=2.913 ms
+01:37:20 AM.254: =================================================
+01:37:20 AM.254: == Profiler Time Between Calls ==================
+01:37:20 AM.255: obs_hotkey_thread(25 ms): min=25.085 ms, median=26.067 ms, max=244.981 ms, 0.782329% within ±2% of 25 ms (0% lower, 99.2177% higher)
+01:37:20 AM.255: obs_graphics_thread(33.3333 ms): min=8.037 ms, median=33.333 ms, max=184.865 ms, 99.1392% within ±2% of 33.333 ms (0.455696% lower, 0.405063% higher)
+01:37:20 AM.255: obs_graphics_thread(33.3333 ms): min=0.456 ms, median=33.339 ms, max=1163.14 ms, 73.1493% within ±2% of 33.333 ms (0.0999454% lower, 26.7508% higher)
+01:37:20 AM.255: =================================================
+01:37:20 AM.381: Number of memory leaks: 1

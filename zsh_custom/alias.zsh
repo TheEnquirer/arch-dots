@@ -15,6 +15,7 @@ function swaputil {
     mv $tmp $2
 }
 alias swap="swaputil"
+alias ideaflow="chromium --app=http://ideaflow.app"
 #alias fd="__zoxide_z"
 # eval "$(zoxide init zsh)"
 #defaults write -g ApplePressAndHoldEnabled -bool false
