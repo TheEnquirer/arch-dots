@@ -131,7 +131,7 @@ bindsym $mod+ctrl+d [class="discord"] focus
 bindsym $mod+ctrl+t [class="TelegramDesktop"] focus
 bindsym $mod+ctrl+s [class="Mailspring"] focus
 bindsym $mod+ctrl+c [class="Condution"] focus
-bindsym $mod+ctrl+b [class="Chromium"] focus
+bindsym $mod+ctrl+b [class="obsidian"] focus
 bindsym $mod+ctrl+e [class="Zathura"] focus
 #bindsym $mod+Tab focus previous
 
