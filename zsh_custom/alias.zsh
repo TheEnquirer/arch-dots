@@ -8,6 +8,9 @@ alias vim="nvim"
 alias jp="jupyter notebook"
 alias cpwd="pwd | pbcopy"
 alias f=". ranger"
+alias m="run_generic"
+alias mc='gcc main.c -o ./auto && ./auto && rm ./auto'
+
 function swaputil {
     tmp=`mktemp`
     mv $1 $tmp
@@ -85,6 +88,40 @@ alias opt="toggleOPP"
 
 alias pbcopy='xsel --clipboard --input'
 alias pbpaste='xsel --clipboard --output'
+
+
+run_generic () {
+    files="$(ls 2>/dev/null)"
+    if echo $files | ag '^start\.z?sh$' > /dev/null
+    then
+        source start.*sh
+    elif echo $files | ag '^[Mm]akefile$' > /dev/null
+    then
+        make -j
+    elif echo $files | ag '^yarn\.lock$' > /dev/null
+    then
+        yarn && yarn run
+    else
+        TEMP_RUN_HEADER="$(date)\n$(printf "%*s\n" "${COLUMNS:-$(tput cols)}" '' | tr " " "#")"
+        if echo $files | ag '^main.*\.cpp$' > /dev/null
+        then
+            clang++ -std=c++11 main*.cpp -o auto && echo $TEMP_RUN_HEADER && ./auto && setopt +o nomatch && cat *.out 2> /dev/null
+        elif echo $files | ag '^main\.py$' > /dev/null
+        then
+            echo $TEMP_RUN_HEADER && python main.py
+        elif echo $files | ag '^index\.js$' > /dev/null
+        then
+            if echo $files | ag '^package(-lock)?\.json$' > /dev/null
+            then
+                npm install
+            fi
+            echo $TEMP_RUN_HEADER && node index.js
+        elif echo $files | ag '^main\.js$' > /dev/null
+        then
+            echo $TEMP_RUN_HEADER && node main.js
+        fi
+    fi
+}
 
 
 
