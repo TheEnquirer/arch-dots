@@ -399,14 +399,19 @@ bar {
     #status_command i3status
     #tray_padding 0
     #workspace_min_width 20
+    tray_output none
+    binding_mode_indicator yes
     colors {
 	background #00000000
 	statusline #00000000
 
 	focused_workspace  #2d419e #2d419e #f7f7f7
-	active_workspace   #f7f7f7 #333333
+	active_workspace   #18171b #18171b #f7f7f7
+
 	inactive_workspace #00000000 #00000000 #f7f7f7
 	urgent_workspace   #9e2d2d #9e2d2d #f7f7f7
+	binding_mode  #178c67 #178c67 #f7f7f7
+
     }
 
 }
