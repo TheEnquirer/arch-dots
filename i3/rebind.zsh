@@ -1,4 +1,4 @@
-xset r rate 170 40
+xset r rate 170 45
 setxkbmap -option ctrl:swapcaps
 
 xmodmap -e "keycode 191 = parenleft parenleft parenleft"
