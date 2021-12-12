@@ -15,6 +15,9 @@ Plug '/usr/local/opt/fzf'
 Plug 'junegunn/fzf.vim'
 Plug 'maxmellon/vim-jsx-pretty'
 Plug 'tpope/vim-surround'
+Plug 'easymotion/vim-easymotion'
+Plug 'rust-lang/rust.vim'
+
 imap <C-f> <Plug>(fzf-complete-line)
 nmap <C-f> :Lines<return>
 
