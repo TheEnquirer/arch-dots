@@ -32,8 +32,9 @@ function gpext {
 alias gp='gpext'
 alias grsh='git remote show'
 function gutil {
+    cls=('green' 'red' 'blue' 'white' 'yellow' 'cyan' 'magenta' 'black')
     gpl
-    tmux split-window -h -p 16 -d cmatrix
+    tmux split-window -h -p 16 -d unimatrix -f -s 95 -c $cls[$(shuf -i 0-7 -n 1)]
     git add ${1:-"."} && git commit -v --allow-empty
     gp
     tmux select-pane -R
@@ -124,6 +125,6 @@ run_generic () {
 }
 
 
-
+export PATH="$HOME/.cargo/bin:$PATH"
 
 
