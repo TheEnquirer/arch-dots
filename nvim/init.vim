@@ -17,6 +17,11 @@ Plug 'maxmellon/vim-jsx-pretty'
 Plug 'tpope/vim-surround'
 Plug 'easymotion/vim-easymotion'
 Plug 'rust-lang/rust.vim'
+Plug 'rodrigore/coc-tailwind-intellisense', {'do': 'npm install'}
+Plug 'iamcco/coc-tailwindcss',  {'do': 'yarn install --frozen-lockfile && yarn run build'}
+
+syntax enable
+filetype plugin indent on
 
 imap <C-f> <Plug>(fzf-complete-line)
 nmap <C-f> :Lines<return>
@@ -82,6 +87,8 @@ Plug 'chrisbra/Colorizer'
 Plug 'jaxbot/semantic-highlight.vim'
 Plug 'folke/zen-mode.nvim'
 Plug 'folke/twilight.nvim'
+
+
 "Plug 'szymonmaszke/vimpyter'
 
 call plug#end()
@@ -344,8 +351,8 @@ vnoremap <Leader>z zf
 nnoremap <Leader>o o<Esc>k
 nnoremap <Leader>O O<Esc>j
 "better bracket jumping
-nmap <C-_> %
-vmap <C-_> %
+nmap <Leader>w %
+vmap <Leader>w %
 "line moving commands
 "nnoremap <A-j> :m .+1<CR>==
 "nnoremap <A-k> :m .-2<CR>==
@@ -362,6 +369,17 @@ set shortmess+=F
 set laststatus=0
 set fillchars=fold:\ ,vert:\│,eob:\ ,msgsep:‾
 
+"highlight CursorLine cterm=NONE ctermbg=NONE ctermfg=NONE guibg=NONE guifg=NONE
+"set cursorline
+"autocmd InsertEnter * highlight CursorLine guibg=#000050 guifg=fg
+"autocmd InsertLeave * highlight CursorLine guibg=#004000 guifg=fg
+"hi clear CursorLine
+"augroup CLClear
+"    autocmd! ColorScheme * hi clear CursorLine
+"augroup END
 
-
+"hi CursorLineNR cterm=bold
+"augroup CLNRSet
+"    autocmd! ColorScheme * hi CursorLineNR cterm=bold
+"augroup END
 
