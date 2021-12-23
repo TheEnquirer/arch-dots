@@ -165,7 +165,10 @@ set termguicolors
 colo dark_purple
 
 hi Comment gui=NONE
-" allow opacity to work in alacritty
+
+
+"autocmd FileType javascript.jsx setlocal commentstring={/*\ %s\ */}
+ "allow opacity to work in alacritty
 hi! Normal ctermbg=NONE guibg=NONE
 hi! NonText ctermbg=NONE guibg=NONE guifg=NONE ctermfg=NONE
 command OP call SetOpa()
@@ -234,6 +237,11 @@ nnoremap q: <Nop>
 " nerd commenter
 nmap <Leader>t <Plug>NERDCommenterToggle
 xmap <Leader>t <Plug>NERDCommenterToggle
+
+let g:NERDCustomDelimiters={
+	\ 'javascript': { 'left': '//', 'right': '', 'leftAlt': '{/*', 'rightAlt': '*/}' },
+\}
+
 
 " Align line-wise comment delimiters flush left instead of following code indentation
 let g:NERDDefaultAlign = 'left'
