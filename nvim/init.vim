@@ -362,12 +362,6 @@ nnoremap <Leader>O O<Esc>j
 nmap <Leader>w %
 vmap <Leader>w %
 "line moving commands
-"nnoremap <A-j> :m .+1<CR>==
-"nnoremap <A-k> :m .-2<CR>==
-"inoremap <A-j> <Esc>:m .+1<CR>==gi
-"inoremap <A-k> <Esc>:m .-2<CR>==gi
-"vnoremap <A-j> :m '>+1<CR>gv=gv
-"vnoremap <A-k> :m '<-2<CR>gv=gv
 
 noh
 
@@ -376,18 +370,4 @@ set noshowcmd
 set shortmess+=F
 set laststatus=0
 set fillchars=fold:\ ,vert:\│,eob:\ ,msgsep:‾
-
-"highlight CursorLine cterm=NONE ctermbg=NONE ctermfg=NONE guibg=NONE guifg=NONE
-"set cursorline
-"autocmd InsertEnter * highlight CursorLine guibg=#000050 guifg=fg
-"autocmd InsertLeave * highlight CursorLine guibg=#004000 guifg=fg
-"hi clear CursorLine
-"augroup CLClear
-"    autocmd! ColorScheme * hi clear CursorLine
-"augroup END
-
-"hi CursorLineNR cterm=bold
-"augroup CLNRSet
-"    autocmd! ColorScheme * hi CursorLineNR cterm=bold
-"augroup END
 
