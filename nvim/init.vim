@@ -17,9 +17,15 @@ Plug 'maxmellon/vim-jsx-pretty'
 Plug 'tpope/vim-surround'
 Plug 'easymotion/vim-easymotion'
 Plug 'rust-lang/rust.vim'
-Plug 'rodrigore/coc-tailwind-intellisense', {'do': 'yarn install'}
+Plug 'rodrigore/coc-tailwind-intellisense', {'do': 'yarn install'} " doesnt work
 "Plug 'rodrigore/coc-tailwind-intellisense', {'do': 'npm install'}
-"Plug 'iamcco/coc-tailwindcss',  {'do': 'yarn install --frozen-lockfile && yarn run build'}
+Plug 'iamcco/coc-tailwindcss',  {'do': 'yarn install --frozen-lockfile && yarn run build'}
+
+Plug 'nvim-telescope/telescope-fzy-native.nvim'
+Plug 'kyazdani42/nvim-web-devicons'
+Plug 'nvim-lua/plenary.nvim'
+Plug 'nvim-telescope/telescope.nvim'
+Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}  " We recommend updating the parsers on update
 
 syntax enable
 filetype plugin indent on
@@ -283,6 +289,14 @@ function! s:DiffWithSaved()
     exe "setlocal bt=nofile bh=wipe nobl noswf ro ft=" . filetype
 endfunction
 com! DiffSaved call s:DiffWithSaved()
+
+" find files and such w/ telescope!
+" Find files using Telescope command-line sugar.
+nnoremap <leader>ff <cmd>Telescope find_files<cr>
+nnoremap <leader>fg <cmd>Telescope live_grep<cr>
+nnoremap <leader>fb <cmd>Telescope buffers<cr>
+nnoremap <leader>fh <cmd>Telescope help_tags<cr>
+
 
 " Colors!
 command COLH ColorHighlight
