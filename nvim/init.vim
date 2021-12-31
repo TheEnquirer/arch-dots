@@ -17,8 +17,9 @@ Plug 'maxmellon/vim-jsx-pretty'
 Plug 'tpope/vim-surround'
 Plug 'easymotion/vim-easymotion'
 Plug 'rust-lang/rust.vim'
-Plug 'rodrigore/coc-tailwind-intellisense', {'do': 'npm install'}
-Plug 'iamcco/coc-tailwindcss',  {'do': 'yarn install --frozen-lockfile && yarn run build'}
+Plug 'rodrigore/coc-tailwind-intellisense', {'do': 'yarn install'}
+"Plug 'rodrigore/coc-tailwind-intellisense', {'do': 'npm install'}
+"Plug 'iamcco/coc-tailwindcss',  {'do': 'yarn install --frozen-lockfile && yarn run build'}
 
 syntax enable
 filetype plugin indent on
@@ -44,7 +45,7 @@ vnoremap <leader>X "_X
 nnoremap <silent> K :call <SID>show_documentation()<CR>
 function! s:show_documentation()
   if (index(['vim','help'], &filetype) >= 0)
-    execute 'h '.expand('<cword>')
+    execute :h '.expand('<cword>')
   else
     call CocAction('doHover')
   endif
@@ -287,6 +288,7 @@ com! DiffSaved call s:DiffWithSaved()
 command COLH ColorHighlight
 command COLC ColorClear
 
+command Tail call CocAction('extensionStats')
 
 " Note mode
 function! s:Note()
@@ -346,6 +348,9 @@ autocmd CursorHold * silent call CocActionAsync('highlight')
 " Symbol renaming.
 nmap <Leader>rn <Plug>(coc-rename)
 nmap <Leader>rf <Plug>(coc-refactor)
+
+" what does this next one even do??
+nmap <Leader>cl  <Plug>(coc-codelens-action)
 
 " Formatting selected code.
 xmap <Leader>f  <Plug>(coc-format-selected)
