@@ -296,7 +296,11 @@ nnoremap <leader>ff <cmd>Telescope find_files<cr>
 nnoremap <leader>fg <cmd>Telescope live_grep<cr>
 nnoremap <leader>fb <cmd>Telescope buffers<cr>
 nnoremap <leader>fh <cmd>Telescope help_tags<cr>
-
+"M.my_fd = function(opts)
+"  opts = opts or {}
+"  opts.cwd = vim.fn.systemlist("git rev-parse --show-toplevel")[1]
+"  require'telescope.builtin'.find_files(opts)
+"end
 
 " Colors!
 command COLH ColorHighlight
