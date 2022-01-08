@@ -293,6 +293,7 @@ com! DiffSaved call s:DiffWithSaved()
 " find files and such w/ telescope!
 " Find files using Telescope command-line sugar.
 nnoremap <leader>ff <cmd>Telescope find_files<cr>
+nnoremap <leader>fj <cmd>Telescope git_files<cr>
 nnoremap <leader>fg <cmd>Telescope live_grep<cr>
 nnoremap <leader>fb <cmd>Telescope buffers<cr>
 nnoremap <leader>fh <cmd>Telescope help_tags<cr>
