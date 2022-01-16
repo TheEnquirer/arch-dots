@@ -4004,7 +4004,7 @@ qt-privacy-ask=0
 #random=0
 
 # Repeat all (boolean)
-#loop=0
+loop=1
 
 # Repeat current item (boolean)
 #repeat=0

@@ -1,0 +1,39 @@
+2022/01/08-22:16:23.669 5227 Reusing MANIFEST /home/enquirer/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/08-22:16:23.669 5227 Recovering log #480
+2022/01/08-22:16:23.684 5227 Reusing old log /home/enquirer/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000480.log 
+2022/01/08-22:16:32.420 527f Level-0 table #485: started
+2022/01/08-22:16:32.437 527f Level-0 table #485: 1133556 bytes OK
+2022/01/08-22:16:32.444 527f Delete type=0 #480
+2022/01/08-22:16:32.565 527f Compacting 1@1 + 2@2 files
+2022/01/08-22:16:32.599 527f Generated table #486@1: 25592 keys, 2200976 bytes
+2022/01/08-22:16:32.608 527f Generated table #487@1: 1403 keys, 630762 bytes
+2022/01/08-22:16:32.608 527f Compacted 1@1 + 2@2 files => 2831738 bytes
+2022/01/08-22:16:32.619 527f compacted to: files[ 0 0 16 0 0 0 0 ]
+2022/01/08-22:16:43.615 5227 Level-0 table #489: started
+2022/01/08-22:16:43.656 5227 Level-0 table #489: 1022229 bytes OK
+2022/01/08-22:16:43.662 5227 Delete type=2 #482
+2022/01/08-22:16:43.662 5227 Delete type=2 #485
+2022/01/08-22:16:43.663 5227 Delete type=2 #473
+2022/01/08-22:16:43.663 5227 Delete type=0 #484
+2022/01/08-22:16:43.905 5280 Compacting 1@1 + 1@2 files
+2022/01/08-22:16:43.938 5280 Generated table #490@1: 25592 keys, 2200816 bytes
+2022/01/08-22:16:43.938 5280 Compacted 1@1 + 1@2 files => 2200816 bytes
+2022/01/08-22:16:43.944 5280 compacted to: files[ 0 0 16 0 0 0 0 ]
+2022/01/08-22:16:43.944 5280 Delete type=2 #489
+2022/01/08-22:16:43.944 5280 Delete type=2 #486
+2022/01/08-22:16:54.216 5227 Level-0 table #492: started
+2022/01/08-22:16:54.234 5227 Level-0 table #492: 1008692 bytes OK
+2022/01/08-22:16:54.243 5227 Delete type=0 #488
+2022/01/08-22:16:54.551 5280 Compacting 1@1 + 1@2 files
+2022/01/08-22:16:54.589 5280 Generated table #493@1: 25592 keys, 2200869 bytes
+2022/01/08-22:16:54.589 5280 Compacted 1@1 + 1@2 files => 2200869 bytes
+2022/01/08-22:16:54.599 5280 compacted to: files[ 0 0 16 0 0 0 0 ]
+2022/01/08-22:17:06.261 5227 Level-0 table #495: started
+2022/01/08-22:17:06.281 5227 Level-0 table #495: 1007722 bytes OK
+2022/01/08-22:17:06.288 5227 Delete type=2 #490
+2022/01/08-22:17:06.288 5227 Delete type=0 #491
+2022/01/08-22:17:06.288 5227 Delete type=2 #492
+2022/01/08-22:17:06.578 527d Compacting 1@1 + 1@2 files
+2022/01/08-22:17:06.649 527d Generated table #496@1: 25592 keys, 2201114 bytes
+2022/01/08-22:17:06.649 527d Compacted 1@1 + 1@2 files => 2201114 bytes
+2022/01/08-22:17:06.659 527d compacted to: files[ 0 0 16 0 0 0 0 ]
