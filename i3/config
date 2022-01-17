@@ -301,6 +301,33 @@ mode "switch" {
 
 bindsym Menu mode "switch"
 
+
+# Quiet mode :: doesnt work!
+
+#mode "quiet" {
+#        # These bindings trigger as soon as you enter the resize mode
+
+#        # Move a window in and out the quiet mode
+#        bindsym q exec ~/.config/i3/quiet-cmd.py toggle ; mode "default"
+
+#        # Resize the window in quiet mode
+#        bindsym s exec ~/.config/i3/quiet-cmd.py resize small
+#        bindsym m exec ~/.config/i3/quiet-cmd.py resize medium
+#        bindsym l exec ~/.config/i3/quiet-cmd.py resize large
+
+#        # back to normal
+#        bindsym Escape mode "default"
+#        bindsym Return mode "default"
+#        bindsym Caps_Lock mode "default"
+#        bindsym $mod+d mode "default"
+#}
+
+#bindsym $mod+shift+q exec $HOME/.config/i3/quiet-cmd.py switch
+##bindsym $mod+shift+q mode "quiet"
+#exec_always $HOME/.config/i3/quiet-toggle-bar.py --kill
+
+
+
  #mode "double_tap" {
 
 #    bindsym ctrl+s workspace number $ws7; mode "default"
