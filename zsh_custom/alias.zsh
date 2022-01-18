@@ -8,11 +8,13 @@ alias vim="nvim"
 alias jp="jupyter notebook"
 alias cpwd="pwd | pbcopy"
 alias f=". ranger"
+alias ff='~;ranger --cmd fzf_select --choosedir=$HOME/.rangerdir; LASTDIR=`cat $HOME/.rangerdir`; cd "$LASTDIR"'
 alias m="run_generic"
 alias mc='gcc main.c -o ./auto && ./auto && rm ./auto'
 alias gn="xset dpms force off;notify-send 'welcome back, huxley.'"
 alias focus="pkill picom; sleep 0.2; picom -i 0 -b"
 alias unfocus="pkill picom; sleep 0.2; picom -b"
+#alias ff="~;. ranger --cmd fzf_select "
 
 function exporter {
     pandoc -s $1 -c /home/enquirer/Desktop/proj/dispatch/missives/csstemplate.css --template /home/enquirer/Desktop/proj/dispatch/missives/template.html -o out.html --mathjax
