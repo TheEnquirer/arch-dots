@@ -1,5 +1,0 @@
-2021/08/26-17:41:30.142 7f6b Creating DB /home/enquirer/.config/chromium/Default/IndexedDB/https_app.condution.com_0.indexeddb.leveldb since it was missing.
-2021/08/26-17:41:30.151 7f6b Reusing MANIFEST /home/enquirer/.config/chromium/Default/IndexedDB/https_app.condution.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/08/26-17:41:44.942 7f11 Level-0 table #5: started
-2021/08/26-17:41:44.956 7f11 Level-0 table #5: 884568 bytes OK
-2021/08/26-17:41:44.960 7f11 Delete type=0 #3

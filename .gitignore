@@ -11,3 +11,9 @@ Condution/
 mac-conf/coc/extensions/node_modules/
 
 chromium/
+
+./chromium/*
+
+chromium/*
+
+./chromium/
