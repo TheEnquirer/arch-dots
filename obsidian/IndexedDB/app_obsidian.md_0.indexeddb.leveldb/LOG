@@ -1,67 +1,52 @@
-2022/01/09-21:07:08.937 10b2 Reusing MANIFEST /home/enquirer/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
-2022/01/09-21:07:08.938 10b2 Recovering log #494
-2022/01/09-21:07:08.945 10b2 Reusing old log /home/enquirer/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000494.log 
-2022/01/09-21:07:08.945 10b2 Delete type=2 #495
-2022/01/09-21:07:08.945 10b2 Delete type=2 #493
-2022/01/09-21:07:22.113 1041 Level-0 table #499: started
-2022/01/09-21:07:22.162 1041 Level-0 table #499: 1119995 bytes OK
-2022/01/09-21:07:22.172 1041 Delete type=0 #494
-2022/01/09-21:07:22.327 1041 Compacting 1@1 + 2@2 files
-2022/01/09-21:07:22.373 1041 Generated table #500@1: 25564 keys, 2203590 bytes
-2022/01/09-21:07:22.382 1041 Generated table #501@1: 1373 keys, 597625 bytes
-2022/01/09-21:07:22.382 1041 Compacted 1@1 + 2@2 files => 2801215 bytes
-2022/01/09-21:07:22.389 1041 compacted to: files[ 0 0 16 0 0 0 0 ]
-2022/01/09-21:07:22.389 1041 Delete type=2 #499
-2022/01/09-21:07:22.389 1041 Delete type=2 #496
-2022/01/09-21:07:22.389 1041 Delete type=2 #487
-2022/01/09-21:07:33.688 1092 Level-0 table #503: started
-2022/01/09-21:07:33.704 1092 Level-0 table #503: 999238 bytes OK
-2022/01/09-21:07:33.711 1092 Delete type=0 #498
-2022/01/09-21:07:33.954 1093 Compacting 1@1 + 1@2 files
-2022/01/09-21:07:33.987 1093 Generated table #504@1: 25564 keys, 2203600 bytes
-2022/01/09-21:07:33.987 1093 Compacted 1@1 + 1@2 files => 2203600 bytes
-2022/01/09-21:07:33.994 1093 compacted to: files[ 0 0 16 0 0 0 0 ]
-2022/01/09-21:07:33.994 1093 Delete type=2 #500
-2022/01/09-21:07:33.994 1093 Delete type=2 #503
-2022/01/09-21:07:43.908 1093 Level-0 table #506: started
-2022/01/09-21:07:43.934 1093 Level-0 table #506: 1026647 bytes OK
-2022/01/09-21:07:43.939 1093 Delete type=0 #502
-2022/01/09-21:07:44.254 1041 Compacting 1@1 + 1@2 files
-2022/01/09-21:07:44.290 1041 Generated table #507@1: 25565 keys, 2203446 bytes
-2022/01/09-21:07:44.291 1041 Compacted 1@1 + 1@2 files => 2203446 bytes
-2022/01/09-21:07:44.310 1041 compacted to: files[ 0 0 16 0 0 0 0 ]
-2022/01/09-21:07:44.311 1041 Delete type=2 #504
-2022/01/09-21:07:44.311 1041 Delete type=2 #506
-2022/01/10-17:02:21.343 13e03 Level-0 table #509: started
-2022/01/10-17:02:21.359 13e03 Level-0 table #509: 1045580 bytes OK
-2022/01/10-17:02:21.364 13e03 Delete type=0 #505
-2022/01/10-17:11:18.485 13e83 Compacting 1@1 + 2@2 files
-2022/01/10-17:11:18.520 13e83 Generated table #510@1: 25594 keys, 2201144 bytes
-2022/01/10-17:11:18.528 13e83 Generated table #511@1: 1367 keys, 590474 bytes
-2022/01/10-17:11:18.528 13e83 Compacted 1@1 + 2@2 files => 2791618 bytes
-2022/01/10-17:11:18.532 13e83 compacted to: files[ 0 0 16 0 0 0 0 ]
-2022/01/10-17:11:18.532 13e83 Delete type=2 #507
-2022/01/10-17:11:18.532 13e83 Delete type=2 #501
-2022/01/10-17:11:18.532 13e83 Delete type=2 #509
-2022/01/12-04:04:13.866 2b550 Level-0 table #513: started
-2022/01/12-04:04:13.886 2b550 Level-0 table #513: 1401793 bytes OK
-2022/01/12-04:04:13.892 2b550 Delete type=0 #508
-2022/01/12-04:06:53.090 2b550 Compacting 1@1 + 2@2 files
-2022/01/12-04:06:53.144 2b550 Generated table #514@1: 25968 keys, 2201766 bytes
-2022/01/12-04:06:53.162 2b550 Generated table #515@1: 1568 keys, 732980 bytes
-2022/01/12-04:06:53.162 2b550 Compacted 1@1 + 2@2 files => 2934746 bytes
-2022/01/12-04:06:53.166 2b550 compacted to: files[ 0 0 16 0 0 0 0 ]
-2022/01/12-04:06:53.166 2b550 Delete type=2 #510
-2022/01/12-04:06:53.166 2b550 Delete type=2 #513
-2022/01/12-04:06:53.166 2b550 Delete type=2 #511
-2022/01/14-23:07:08.983 69762 Level-0 table #517: started
-2022/01/14-23:07:09.003 69762 Level-0 table #517: 1506469 bytes OK
-2022/01/14-23:07:09.008 69762 Delete type=0 #512
-2022/01/15-06:05:53.792 6bd6f Compacting 1@1 + 2@2 files
-2022/01/15-06:05:53.825 6bd6f Generated table #518@1: 26684 keys, 2205224 bytes
-2022/01/15-06:05:53.833 6bd6f Generated table #519@1: 1406 keys, 620998 bytes
-2022/01/15-06:05:53.833 6bd6f Compacted 1@1 + 2@2 files => 2826222 bytes
-2022/01/15-06:05:53.837 6bd6f compacted to: files[ 0 0 16 0 0 0 0 ]
-2022/01/15-06:05:53.837 6bd6f Delete type=2 #515
-2022/01/15-06:05:53.837 6bd6f Delete type=2 #514
-2022/01/15-06:05:53.837 6bd6f Delete type=2 #517
+2022/01/23-19:23:44.847 10b2 Reusing MANIFEST /home/enquirer/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/23-19:23:44.847 10b2 Recovering log #534
+2022/01/23-19:23:44.855 10b2 Reusing old log /home/enquirer/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000534.log 
+2022/01/23-19:23:53.982 1062 Level-0 table #540: started
+2022/01/23-19:23:54.022 1062 Level-0 table #540: 1198242 bytes OK
+2022/01/23-19:23:54.029 1062 Delete type=0 #534
+2022/01/23-19:23:54.139 1062 Compacting 1@1 + 2@2 files
+2022/01/23-19:23:54.176 1062 Generated table #541@1: 27514 keys, 2210503 bytes
+2022/01/23-19:23:54.184 1062 Generated table #542@1: 1317 keys, 509781 bytes
+2022/01/23-19:23:54.184 1062 Compacted 1@1 + 2@2 files => 2720284 bytes
+2022/01/23-19:23:54.193 1062 compacted to: files[ 0 0 16 0 0 0 0 ]
+2022/01/23-19:24:03.993 1062 Level-0 table #544: started
+2022/01/23-19:24:04.006 1062 Level-0 table #544: 1018487 bytes OK
+2022/01/23-19:24:04.013 1062 Delete type=2 #536
+2022/01/23-19:24:04.013 1062 Delete type=2 #537
+2022/01/23-19:24:04.013 1062 Delete type=2 #540
+2022/01/23-19:24:04.013 1062 Delete type=0 #539
+2022/01/23-19:24:04.269 10f8 Compacting 1@1 + 1@2 files
+2022/01/23-19:24:04.302 10f8 Generated table #545@1: 27510 keys, 2209793 bytes
+2022/01/23-19:24:04.302 10f8 Compacted 1@1 + 1@2 files => 2209793 bytes
+2022/01/23-19:24:04.308 10f8 compacted to: files[ 0 0 16 0 0 0 0 ]
+2022/01/23-19:24:04.309 10f8 Delete type=2 #544
+2022/01/23-19:24:04.309 10f8 Delete type=2 #541
+2022/01/23-19:24:13.996 10b2 Level-0 table #547: started
+2022/01/23-19:24:14.009 10b2 Level-0 table #547: 995422 bytes OK
+2022/01/23-19:24:14.017 10b2 Delete type=0 #543
+2022/01/23-19:24:14.213 10fa Compacting 1@1 + 1@2 files
+2022/01/23-19:24:14.246 10fa Generated table #548@1: 27509 keys, 2208800 bytes
+2022/01/23-19:24:14.246 10fa Compacted 1@1 + 1@2 files => 2208800 bytes
+2022/01/23-19:24:14.253 10fa compacted to: files[ 0 0 16 0 0 0 0 ]
+2022/01/23-19:24:24.074 10fa Level-0 table #550: started
+2022/01/23-19:24:24.087 10fa Level-0 table #550: 1031629 bytes OK
+2022/01/23-19:24:24.099 10fa Delete type=2 #545
+2022/01/23-19:24:24.099 10fa Delete type=2 #547
+2022/01/23-19:24:24.099 10fa Delete type=0 #546
+2022/01/23-19:24:24.334 1062 Compacting 1@1 + 1@2 files
+2022/01/23-19:24:24.370 1062 Generated table #551@1: 27513 keys, 2208771 bytes
+2022/01/23-19:24:24.370 1062 Compacted 1@1 + 1@2 files => 2208771 bytes
+2022/01/23-19:24:24.379 1062 compacted to: files[ 0 0 16 0 0 0 0 ]
+2022/01/24-20:20:23.765 1557f Level-0 table #553: started
+2022/01/24-20:20:23.780 1557f Level-0 table #553: 1196756 bytes OK
+2022/01/24-20:20:23.784 1557f Delete type=2 #548
+2022/01/24-20:20:23.784 1557f Delete type=2 #550
+2022/01/24-20:20:23.784 1557f Delete type=0 #549
+2022/01/24-20:35:44.847 156f7 Compacting 1@1 + 2@2 files
+2022/01/24-20:35:44.883 156f7 Generated table #554@1: 27761 keys, 2210126 bytes
+2022/01/24-20:35:44.890 156f7 Generated table #555@1: 1344 keys, 543103 bytes
+2022/01/24-20:35:44.890 156f7 Compacted 1@1 + 2@2 files => 2753229 bytes
+2022/01/24-20:35:44.893 156f7 compacted to: files[ 0 0 16 0 0 0 0 ]
+2022/01/24-20:35:44.894 156f7 Delete type=2 #551
+2022/01/24-20:35:44.894 156f7 Delete type=2 #553
+2022/01/24-20:35:44.894 156f7 Delete type=2 #542

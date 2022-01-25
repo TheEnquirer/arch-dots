@@ -1,3 +1,6 @@
-2022/01/08-22:16:22.571 5227 Reusing MANIFEST /home/enquirer/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
-2022/01/08-22:16:22.572 5227 Recovering log #7
-2022/01/08-22:16:22.572 5227 Reusing old log /home/enquirer/.config/obsidian/Local Storage/leveldb/000007.log 
+2022/01/17-00:47:06.583 960 Reusing MANIFEST /home/enquirer/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
+2022/01/17-00:47:06.583 960 Recovering log #7
+2022/01/17-00:47:06.584 960 Reusing old log /home/enquirer/.config/obsidian/Local Storage/leveldb/000007.log 
+2022/01/17-00:47:26.636 a08 Level-0 table #11: started
+2022/01/17-00:47:26.639 a08 Level-0 table #11: 8512 bytes OK
+2022/01/17-00:47:26.646 a08 Delete type=0 #7

@@ -89,7 +89,8 @@ for_window [floating] move position center
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
 # start a terminal
-bindsym $mod+Return exec i3-sensible-terminal
+#bindsym $mod+Return exec i3-sensible-terminal
+bindsym $mod+Return exec alacritty
 
 # kill focused window
 bindsym $mod+q kill
@@ -183,7 +184,7 @@ bindsym Mod4+space focus mode_toggle
 bindsym $mod+a focus parent
 
 # new note window
-bindsym $mod+Shift+n exec i3-sensible-terminal, exec --no-startup-id "sh -c 'sleep 0.4; i3 floating toggle'"
+bindsym $mod+Shift+n exec alacritty, exec --no-startup-id "sh -c 'sleep 0.4; i3 floating toggle'"
 
 # new firefox window
 bindsym $mod+Shift+f exec firefox, exec --no-startup-id "sh -c 'sleep 0.4; i3 floating toggle'"

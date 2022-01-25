@@ -1,12 +1,12 @@
 [general]
-distance = 30
+distance = 100
 useNetWMFullscreen = true
 ignoreSkipTaskbar = true
 updateFreq = 1
 lazyTrans = false
 pipePath = /tmp/skippy-xd-fifo
 movePointerOnStart = true
-movePointerOnSelect = true
+movePointerOnSelect = false
 movePointerOnRaise = true
 switchDesktopOnActivate = true
 useNameWindowPixmap = false

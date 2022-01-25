@@ -23,17 +23,22 @@ colors:
     # Default colors
     primary:
         background: '#18171b'
+        #background: '#000000'
         foreground: '#d9b57a'
+        #foreground: '#f6e8d0'
 
     # Normal colors
     normal:
-        black:   '0x100e23'
+        #black:   '0x100e23'
+        #black:   '#000000'
+        black: '#18171b'
         red:     '#b33323'
         green:   '#42824a'
         yellow:  '0xffe9aa'
         blue:    '0x91ddff'
         magenta: '0xc991e1'
         cyan:    '0xaaffe4'
+        #cyan:    '#d0def6'
         white:   '0xcbe3e7'
 
     # Bright colors

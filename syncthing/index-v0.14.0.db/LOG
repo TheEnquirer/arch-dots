@@ -1027,3 +1027,65 @@
 21:03:55.516048 table@remove removed @304
 21:03:55.516157 table@remove removed @305
 21:03:55.516256 table@remove removed @306
+=============== Jan 16, 2022 (UTC) ===============
+05:52:57.491700 db@close closing
+05:52:57.491942 db@close done T·240.926µs
+=============== Jan 17, 2022 (UTC) ===============
+00:44:50.934766 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+00:44:50.935280 version@stat F·[0 11] S·13MiB[0B 13MiB] Sc·[0.00 0.14]
+00:44:50.935291 db@open opening
+00:44:50.935324 journal@recovery F·1
+00:44:50.935643 journal@recovery recovering @311
+00:44:51.047729 memdb@flush created L0@320 N·81376 S·2MiB "\x00\x00\x00..ore,v1285992":"\x0e\x00\x00..pdf,v1290419"
+00:44:51.048058 version@stat F·[1 11] S·16MiB[2MiB 13MiB] Sc·[0.25 0.14]
+00:44:51.063083 db@janitor F·15 G·1
+00:44:51.063088 db@janitor removing table-310
+00:44:51.063111 db@open done T·127.816682ms
+00:44:52.436437 table@compaction L0·1 -> L1·7 S·15MiB Q·1294554
+00:44:52.458055 table@build created L1@323 N·20211 S·2MiB "\x00\x00\x00..rg#,v447489":"\x00\x00\x00..svg,v540949"
+00:44:52.481057 table@build created L1@324 N·20393 S·2MiB "\x00\x00\x00..svg,v459612":"\x00\x00\x00..png,v224418"
+00:44:52.510857 table@build created L1@325 N·19329 S·2MiB "\x00\x00\x00..png,v222605":"\x00\x00\x00...md,v39288"
+00:44:52.538881 table@build created L1@326 N·36656 S·2MiB "\x00\x00\x00..pdf,v39291":"\x01\x00\x00..09f,v26919"
+00:44:52.564710 table@build created L1@327 N·32003 S·2MiB "\x01\x00\x00..486,v26921":"\x02\x00\x00..pdf,v125934"
+00:44:52.595426 table@build created L1@328 N·41434 S·2MiB "\x02\x00\x00..tml,v65547":"\r1l..\vMr,v753290"
+00:44:52.613381 table@build created L1@329 N·16005 S·1MiB "\r1\xf4..\xf7\x00\a,v37967":"\x0e\x00\x00..tex,v99751"
+00:44:52.613412 version@stat F·[0 11] S·14MiB[0B 14MiB] Sc·[0.00 0.14]
+00:44:52.616511 table@compaction committed F-1 S-1MiB Ke·0 D·78092 T·180.056991ms
+00:44:52.616705 table@remove removed @313
+00:44:52.616916 table@remove removed @314
+00:44:52.617027 table@remove removed @315
+00:44:52.617268 table@remove removed @316
+00:44:52.617373 table@remove removed @317
+00:44:52.617480 table@remove removed @318
+00:44:52.617565 table@remove removed @319
+=============== Jan 22, 2022 (UTC) ===============
+05:22:20.417362 db@close closing
+05:22:20.418109 db@close done T·994.754µs
+=============== Jan 23, 2022 (UTC) ===============
+19:16:38.763934 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:16:38.765883 version@stat F·[0 11] S·14MiB[0B 14MiB] Sc·[0.00 0.14]
+19:16:38.765894 db@open opening
+19:16:38.765933 journal@recovery F·1
+19:16:38.766294 journal@recovery recovering @321
+19:16:38.823655 memdb@flush created L0@330 N·45311 S·1MiB "\x00\x00\x00..son,v1294657":"\x0e\x00\x00..org,v1327483"
+19:16:38.823992 version@stat F·[1 11] S·15MiB[1MiB 14MiB] Sc·[0.25 0.14]
+19:16:38.834129 db@janitor F·15 G·1
+19:16:38.834138 db@janitor removing table-320
+19:16:38.834161 db@open done T·68.264484ms
+19:16:40.218568 table@compaction L0·1 -> L1·7 S·15MiB Q·1339870
+19:16:40.236693 table@build created L1@333 N·20241 S·2MiB "\x00\x00\x00..rg#,v447489":"\x00\x00\x00..svg,v825329"
+19:16:40.256800 table@build created L1@334 N·19215 S·2MiB "\x00\x00\x00..svg,v630628":"\x00\x00\x00..png,v792023"
+19:16:40.275964 table@build created L1@335 N·19677 S·2MiB "\x00\x00\x00..svg,v854963":"\x00\x00\x00..tml,v122744"
+19:16:40.297672 table@build created L1@336 N·35367 S·2MiB "\x00\x00\x00..tex,v78951":"\x01\x00\x00..svg,v548176"
+19:16:40.317760 table@build created L1@337 N·32670 S·2MiB "\x01\x00\x00..svg,v593505":"\x02\x00\x00..svg,v563143"
+19:16:40.339970 table@build created L1@338 N·40764 S·2MiB "\x02\x00\x00..zip,v370570":"\v\x00\x00..\x00\r\x0e,v85341"
+19:16:40.357988 table@build created L1@339 N·21170 S·1MiB "\v\x00\x00..\x00\r\x0f,v85347":"\x0e\x00\x00..tex,v99751"
+19:16:40.358020 version@stat F·[0 11] S·14MiB[0B 14MiB] Sc·[0.00 0.14]
+19:16:40.360618 table@compaction committed F-1 S-953KiB Ke·0 D·42238 T·142.028767ms
+19:16:40.428000 table@remove removed @323
+19:16:40.428085 table@remove removed @324
+19:16:40.428175 table@remove removed @325
+19:16:40.428252 table@remove removed @326
+19:16:40.428329 table@remove removed @327
+19:16:40.428435 table@remove removed @328
+19:16:40.428535 table@remove removed @329
