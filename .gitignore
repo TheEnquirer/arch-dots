@@ -17,3 +17,20 @@ chromium/
 chromium/*
 
 ./chromium/
+
+coc
+
+coc/
+
+./coc/
+coc/*
+./coc/*
+
+obsidian
+obsidian/*
+syncthing
+syncthing/*
+
+yarn/
+
+yarn/*

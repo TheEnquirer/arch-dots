@@ -113,6 +113,7 @@ Plug 'folke/twilight.nvim'
 
 
 "Plug 'szymonmaszke/vimpyter'
+Plug 'metakirby5/codi.vim'
 
 call plug#end()
 

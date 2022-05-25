@@ -135,5 +135,7 @@ run_generic () {
 
 
 export PATH="$HOME/.cargo/bin:$PATH"
+export DENO_INSTALL="/home/enquirer/.deno"
+export PATH="$DENO_INSTALL/bin:$PATH"
 
 

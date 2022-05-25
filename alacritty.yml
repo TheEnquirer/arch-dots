@@ -14,7 +14,7 @@ font:
     use_thin_strokes: true
 
 #background_opacity: 0.85
-background_opacity: 1
+#background_opacity: 1
 
 colors:
     cursor:
@@ -70,7 +70,7 @@ mouse:
     hide_when_typing: true
 
 
-background_opacity: 1
+#background_opacity: 1
 
 
 

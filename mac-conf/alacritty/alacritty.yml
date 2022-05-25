@@ -1,6 +1,7 @@
 window:
     decorations: buttonless
     startup_mode: Maximized
+    opacity: 0.85
     #padding: 
         #x: 10
         #y: 2
@@ -61,7 +62,6 @@ mouse:
     hide_when_typing: true
 
 
-background_opacity: 0.85
 
 
 
