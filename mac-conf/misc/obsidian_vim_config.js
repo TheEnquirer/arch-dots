@@ -15,5 +15,15 @@ CodeMirror.Vim.map('k', 'gk', 'normal')
 
 // TODO: get this working with the obsidian plugin eco
 
+// HAS BEEN UPDATED TO
 
+// nmap j gj
+//nmap k gk
+
+//unmap <Space>
+
+//exmap comment obcommand editor:toggle-comment
+//nmap <Space> t :comment  " this doesnt seem to work..
+
+//imap jf <Esc>
 
