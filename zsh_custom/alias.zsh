@@ -14,6 +14,7 @@ alias mc='gcc main.c -o ./auto && ./auto && rm ./auto'
 alias gn="xset dpms force off;notify-send 'welcome back, huxley.'"
 alias focus="pkill picom; sleep 0.2; picom -i 0 -b"
 alias unfocus="pkill picom; sleep 0.2; picom -b"
+alias j="just"
 
 function exporter {
     pandoc -s $1 -c /home/enquirer/Desktop/proj/dispatch/missives/csstemplate.css --template /home/enquirer/Desktop/proj/dispatch/missives/template.html -o out.html --mathjax
