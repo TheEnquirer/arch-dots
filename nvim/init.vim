@@ -26,6 +26,7 @@ Plug 'kyazdani42/nvim-web-devicons'
 Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim'
 Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}  " We recommend updating the parsers on update
+Plug 'github/copilot.vim'
 
 if has('nvim')
   function! UpdateRemotePlugins(...)
@@ -403,6 +404,12 @@ nnoremap <Leader>O O<Esc>j
 nmap <Leader>w %
 vmap <Leader>w %
 "line moving commands
+"
+imap <silent><script><expr> <Leader><Tab> copilot#Accept("\<CR>")
+let g:copilot_no_tab_map = v:true
+let g:copilot_node_command =
+	    \"~/env/src/node-v16.15.0-linux-x64/bin/node"
+
 
 noh
 
