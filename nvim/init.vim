@@ -352,7 +352,10 @@ set signcolumn=yes
 set statusline=0
 "   Completion window
 inoremap <expr> <Tab> pumvisible() ? "\<C-n>" : "\<Tab>"
+"inoremap <expr> <C-e> pumvisible() ? "\<C-n>" : "\<Tab>"
 inoremap <expr> <S-Tab> pumvisible() ? "\<C-p>" : "\<S-Tab>"
+
+
 "   Coc Snippets
 imap <C-o> <Plug>(coc-snippets-expand)
 let g:coc_snippet_next = 'jn'
@@ -405,7 +408,18 @@ nmap <Leader>w %
 vmap <Leader>w %
 "line moving commands
 "
-imap <silent><script><expr> <Leader><Tab> copilot#Accept("\<CR>")
+"imap <silent><script><expr> <Leader><Tab> copilot#Accept("\<CR>")
+"imap <silent><script><expr> <C-e> copilot#Accept("\<CR>")
+"imap <silent><script><expr> <C-e> pumvisible()? copilot#Accept("\<CR>") : copilot#Accept("\<Tab>")
+"imap <silent><script><expr> <C-e> copilot#Accept("\<CR>")
+"imap <silent><script><expr> <C-e> copilot#Accept("\<CR>")
+
+
+
+
+inoremap <expr> <Tab> pumvisible() ? "\<C-n>" : copilot#Accept("\<Tab>")
+"inoremap <expr> <Tab> pumvisible() ? "\<C-n>" : "\<Tab>"
+"inoremap <expr> <Tab> pumvisible() ? "\<C-n>" : "\<Tab>"
 let g:copilot_no_tab_map = v:true
 let g:copilot_node_command =
 	    \"~/env/src/node-v16.15.0-linux-x64/bin/node"
@@ -413,11 +427,15 @@ let g:copilot_node_command =
 
 noh
 
+set number
+
 set noshowmode
 set noshowcmd
 set shortmess+=F
 set laststatus=0
 set fillchars=fold:\ ,vert:\│,eob:\ ,msgsep:‾
+
+
 
 " wilder
 "call wilder#setup({'modes': [':', '/', '?']})
