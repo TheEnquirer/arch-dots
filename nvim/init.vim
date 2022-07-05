@@ -407,15 +407,6 @@ nnoremap <Leader>O O<Esc>j
 nmap <Leader>w %
 vmap <Leader>w %
 "line moving commands
-"
-"imap <silent><script><expr> <Leader><Tab> copilot#Accept("\<CR>")
-"imap <silent><script><expr> <C-e> copilot#Accept("\<CR>")
-"imap <silent><script><expr> <C-e> pumvisible()? copilot#Accept("\<CR>") : copilot#Accept("\<Tab>")
-"imap <silent><script><expr> <C-e> copilot#Accept("\<CR>")
-"imap <silent><script><expr> <C-e> copilot#Accept("\<CR>")
-
-
-
 
 inoremap <expr> <Tab> pumvisible() ? "\<C-n>" : copilot#Accept("\<Tab>")
 "inoremap <expr> <Tab> pumvisible() ? "\<C-n>" : "\<Tab>"
@@ -423,7 +414,6 @@ inoremap <expr> <Tab> pumvisible() ? "\<C-n>" : copilot#Accept("\<Tab>")
 let g:copilot_no_tab_map = v:true
 let g:copilot_node_command =
 	    \"~/env/src/node-v16.15.0-linux-x64/bin/node"
-
 
 noh
 
@@ -434,7 +424,6 @@ set noshowcmd
 set shortmess+=F
 set laststatus=0
 set fillchars=fold:\ ,vert:\│,eob:\ ,msgsep:‾
-
 
 
 " wilder
