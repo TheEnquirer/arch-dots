@@ -1,8 +1,0 @@
-/home/enquirer/Downloads/testadf.blend
-/home/enquirer/Desktop/vid/fractals/bool_experiment.blend
-/home/enquirer/Downloads/H-mandelbulb-mandeltorus-3.blend
-/home/enquirer/Downloads/benesi_pwr2-2.blend
-/home/enquirer/Downloads/H-mandelbulb-mandeltorus-1.blend
-/home/enquirer/Downloads/Vectron_Sample_Machina-Infinitum.blend
-/home/enquirer/Downloads/unessay.blend
-/home/enquirer/Desktop/vid/Mountain.blend

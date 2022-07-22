@@ -34,3 +34,24 @@ syncthing/*
 yarn/
 
 yarn/*
+
+BetterDiscord/
+bioservices/
+blender/
+cef_user_data/
+
+Electron/
+
+gh/
+github-copilot/
+google-chrome/
+google-chrome-beta/
+gtk-2.0/
+gtk-3.0/
+matplotlib/
+nextjs-nodejs/
+obs-studio/
+obsidian/
+opera/
+QtProject.conf
+zoomus.conf

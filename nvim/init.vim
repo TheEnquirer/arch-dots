@@ -27,6 +27,8 @@ Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim'
 Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}  " We recommend updating the parsers on update
 Plug 'github/copilot.vim'
+"Plug 'ludovicchabant/vim-gutentags' " doesnt work
+"Plug 'kristijanhusak/vim-js-file-import', {'do': 'npm install'}
 
 if has('nvim')
   function! UpdateRemotePlugins(...)
@@ -409,8 +411,6 @@ vmap <Leader>w %
 "line moving commands
 
 inoremap <expr> <Tab> pumvisible() ? "\<C-n>" : copilot#Accept("\<Tab>")
-"inoremap <expr> <Tab> pumvisible() ? "\<C-n>" : "\<Tab>"
-"inoremap <expr> <Tab> pumvisible() ? "\<C-n>" : "\<Tab>"
 let g:copilot_no_tab_map = v:true
 let g:copilot_node_command =
 	    \"~/env/src/node-v16.15.0-linux-x64/bin/node"
