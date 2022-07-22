@@ -1,0 +1,135 @@
+# skhd config (https://github.com/koekeishiya/skhd)
+
+# keyboard test
+#ctrl - j : ok
+
+## focusing
+ctrl + cmd - h             : yabai -m window   --focus west
+ctrl + cmd - j             : yabai -m window   --focus south
+ctrl + cmd - k             : yabai -m window   --focus north
+ctrl + cmd - l             : yabai -m window   --focus east
+ctrl + cmd - 1             : yabai -m display  --focus 1
+ctrl + cmd - 2             : yabai -m display  --focus 2
+ctrl + cmd - 3             : yabai -m display  --focus 3
+# TODO: figure out focus --prev  for cmd-tab alternative
+
+
+# swapping
+ctrl + alt - h             : yabai -m window   --swap west
+ctrl + alt - l             : yabai -m window   --swap east
+ctrl + alt - j             : yabai -m window   --swap south
+ctrl + alt - k             : yabai -m window   --swap north
+
+ctrl + shift + alt - h: yabai -m window --warp west
+ctrl + shift + alt - j: yabai -m window --warp south
+ctrl + shift + alt - k: yabai -m window --warp north
+ctrl + shift + alt - l: yabai -m window --warp east
+
+
+ctrl + alt - 1      : yabai -m window   --display 1
+ctrl + alt - 2      : yabai -m window   --display 2
+ctrl + alt - 3      : yabai -m window   --display 3
+ctrl + cmd - 4      : yabai -m space    --focus 1
+
+# moving
+ctrl + cmd - left  : yabai -m window --space prev || yabai -m space --focus prev
+ctrl + cmd - right : yabai -m window --space next || yabai -m space --focus next
+
+# open specific applications
+ctrl + cmd - d             : open -a Cordis
+ctrl + cmd - m             : open -a Messages
+ctrl + cmd - s             : open -a Spark
+ctrl + cmd - o             : open -a Opera
+ctrl + cmd - t             : open -a Telegram
+ctrl + cmd - b             : open -a Obsidian
+ctrl + cmd - c             : open -a Condution
+ctrl + cmd - v             : open -a Vivaldi
+ctrl + cmd - z             : open -a zoom.us
+ctrl + cmd - e             : open -a Vecto
+#ctrl + cmd - p             : open -a Preview
+
+
+# remaps
+#ralt - h: skhd -k "left"
+#ralt - j: skhd -k "down"
+#ralt - k: skhd -k "up"
+#ralt - l: skhd -k "right"
+
+
+#ralt + shift - h: skhd -k "shift - left"
+#ralt + shift - j: skhd -k "shift - down"
+#ralt + shift - k: skhd -k "shift - up"
+#ralt + shift - l: skhd -k "shift - right"
+
+# modal experiments
+
+## modal toggles
+:: viml
+#cmd - m  ; viml
+shift - space ; viml
+viml < cmd - m ; viml
+viml < i ; default
+viml < escape ; default
+
+
+
+## hjkl
+viml < h : skhd -k "left"
+viml < j : skhd -k "down"
+viml < k : skhd -k "up"
+viml < l : skhd -k "right"
+
+viml < shift - h: skhd -k "shift - left"
+viml < shift - j: skhd -k "shift - down"
+viml < shift - k: skhd -k "shift - up"
+viml < shift - l: skhd -k "shift - right"
+
+## other move
+viml < g : skhd -k "cmd - up"
+viml < shift - g : skhd -k "cmd - down"
+
+viml < w : skhd -k "alt - right"
+viml < b : skhd -k "alt - left"
+
+viml < shift - w : skhd -k "alt + shift - right"
+viml < shift - b : skhd -k "alt + shift - left"
+
+viml < shift - a : skhd -k "cmd - right"; skhd -k "escape"
+viml < shift - i : skhd -k "cmd - left"; skhd -k "escape"
+
+## visual
+viml < shift - v : skhd -k "cmd - left"; skhd -k "cmd + shift - right"
+viml < v : skhd -k "left"; skhd -k "right"
+
+## del and clipboard
+viml < p : skhd -k "cmd - v"
+viml < y : skhd -k "cmd - c"
+viml < d : skhd -k "cmd - x"
+
+## undo / redo
+viml < u : skhd -k "cmd - z"
+viml < ctrl - r : skhd -k "cmd + shift - z"
+
+# instant window
+ctrl + cmd - n: yabai -m display  --focus 3; open -na Alacritty; sleep 0.15; yabai -m window --toggle float; yabai -m window --resize abs:1000:600; yabai -m window --move abs:780:425
+
+# unlock/Lock
+ctrl + cmd - f: yabai -m window --toggle float
+
+# sticky -- sadly, doesnt work :(
+#ctrl + alt - s: yabai -m window --toggle sticky
+
+# toggle horizontal/vertical split
+ctrl + alt - i: yabai -m window --toggle split
+
+# toggle yabai fullscreen
+ctrl + alt - b             : yabai -m window --toggle zoom-parent
+
+
+ctrl + alt + cmd - r : launchctl kickstart -k "gui/${UID}/homebrew.mxcl.yabai"
+
+
+
+
+
+

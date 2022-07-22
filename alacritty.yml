@@ -1,0 +1,89 @@
+window:
+    dynamic_padding: true
+    decorations: None
+    startup_mode: Maximized
+    padding:
+        x: 15
+        y: 15
+scrolling:
+    history: 100000
+font:
+    size: 8.5
+    normal:
+        family: monospace
+    use_thin_strokes: true
+
+#background_opacity: 0.85
+#background_opacity: 1
+
+colors:
+    cursor:
+        text: '#000000'
+        cursor: '#E8E8E8'
+    # Default colors
+    primary:
+        background: '#18171b'
+        #background: '#000000'
+        foreground: '#d9b57a'
+        #foreground: '#f6e8d0'
+
+    # Normal colors
+    normal:
+        #black:   '0x100e23'
+        #black:   '#000000'
+        black: '#18171b'
+        red:     '#b33323'
+        green:   '#42824a'
+        yellow:  '0xffe9aa'
+        blue:    '0x91ddff'
+        magenta: '0xc991e1'
+        cyan:    '0xaaffe4'
+        #cyan:    '#d0def6'
+        white:   '0xcbe3e7'
+
+    # Bright colors
+    bright:
+        black:   '0x565575'
+        red:     '#c7311f'
+        green:   '#43a34f'
+        yellow:  '0xffb378'
+        blue:    '0x65b2ff'
+        magenta: '0x906cff'
+        cyan:    '0x63f2f1'
+        white:   '0xa6b3cc'
+        key_bindings:
+          - { key: N, mods: Command, command: { program: "open", args: ["-nb", "io.alacritty"] } }
+          - { key: O, mods: Alt, command: { program: "mkdir"}}
+
+          - { key: V, mods: Alt, action: Paste }
+          #- { key: W,      mods: Alt,         action: Quit}
+            #- { key: w, mods: Alt, command: { program: "exit"}}
+            #- { key: O, mods: Alt, command: { program: "/Users/huxmarv/.config/bin/toggleOP.zsh"}}
+            #- { key: O, mods: Alt, command: { program: "/Users/huxmarv/.config/bin/toggleOP.zsh"}}
+
+
+    #- { key: N,        mods: Command,       action: SpawnNewInstance             }
+
+
+
+mouse:
+    hide_when_typing: true
+
+
+#background_opacity: 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
