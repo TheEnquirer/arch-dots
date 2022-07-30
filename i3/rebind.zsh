@@ -18,8 +18,6 @@ xmodmap -e 'remove mod4 = Hyper_R'
 xmodmap -e 'add mod3 = Hyper_R'
 
 
-
-
 spare_modifier="Hyper_L"
 xmodmap -e 'clear mod2'
 xmodmap -e "keycode 196 = $spare_modifier"

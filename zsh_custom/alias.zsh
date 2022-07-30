@@ -76,6 +76,19 @@ function chpwd () {    # auto called by zsh
 #    done
 }
 
+###########################################
+#    GUM
+###########################################
+
+alias jl="just_filter"
+
+function just_filter () {
+    CMD=$( echo "\n $(just --dump)" | gum filter | cut -d':' -f1 | tr -d ' ')
+    if [ -n "$CMD" ]; then
+		just $CMD
+	fi
+}
+
 ########################################
 #    helpers
 ########################################
