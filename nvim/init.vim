@@ -29,6 +29,7 @@ Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}  " We recommend upda
 Plug 'github/copilot.vim'
 "Plug 'ludovicchabant/vim-gutentags' " doesnt work
 "Plug 'kristijanhusak/vim-js-file-import', {'do': 'npm install'}
+Plug 'jbyuki/instant.nvim'
 
 if has('nvim')
   function! UpdateRemotePlugins(...)
@@ -157,11 +158,43 @@ set ruler " display current cursor "coordinates"
 set showmatch " highlight the matching bracket
 
 set nu rnu " reletive line nums
-augroup numbertoggle
-  autocmd!
-  autocmd BufEnter,FocusGained,InsertLeave * set relativenumber
-  autocmd BufLeave,FocusLost,InsertEnter   * set norelativenumber
-augroup END
+
+function! ToggleLineNumbers()
+    if !exists('g:ToggleLineNumbersAutoGroupMarker')
+	let g:ToggleLineNumbersAutoGroupMarker = 1
+    endif
+
+    " Enable if the group was previously disabled
+    if (g:ToggleLineNumbersAutoGroupMarker == 1)
+	let g:ToggleLineNumbersAutoGroupMarker = 0
+
+	setlocal nu rnu
+
+	" actual augroup
+	augroup numbertoggle
+	    autocmd!
+	    autocmd BufEnter,FocusGained,InsertLeave * set relativenumber
+	    autocmd BufLeave,FocusLost,InsertEnter   * set norelativenumber
+	augroup END
+    else    " Clear the group if it was previously enabled
+	let g:ToggleLineNumbersAutoGroupMarker = 1
+
+	" resetting the augroup
+	augroup numbertoggle
+	    autocmd!
+	augroup END
+	setlocal nonu nornu
+    endif
+endfunction
+
+call ToggleLineNumbers()
+
+function s:CallableToggleLineNumbers()
+	setlocal nonu nornu
+	call ToggleLineNumbers()
+endfunction
+com! ToggleLineNumbers call s:CallableToggleLineNumbers()
+
 
 " show invisibles
 set encoding=utf-8
@@ -335,6 +368,8 @@ function! s:Note()
     setlocal syntax=markdown
     inoremap jf <Esc>
     ZenMode
+    call ToggleLineNumbers()
+    setlocal nonu nornu
 endfunction
 com! Note call s:Note()
 
@@ -425,6 +460,11 @@ set shortmess+=F
 set laststatus=0
 set fillchars=fold:\ ,vert:\│,eob:\ ,msgsep:‾
 
+" live editing
+let g:instant_username = "enquirer"
+
+
+
 
 " wilder
 "call wilder#setup({'modes': [':', '/', '?']})
@@ -493,5 +533,8 @@ set fillchars=fold:\ ,vert:\│,eob:\ ,msgsep:‾
 "call wilder#set_option('renderer', wilder#renderer_mux({
 "      \ ':': s:popupmenu_renderer,
 "      \ '/': s:wildmenu_renderer,
-"      \ 'substitute': s:wildmenu_renderer,
+"      \ 'substitute': s:wildmenu_rende
+
 "      \ }))
+
+
