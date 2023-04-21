@@ -30,6 +30,7 @@ Plug 'github/copilot.vim'
 "Plug 'ludovicchabant/vim-gutentags' " doesnt work
 "Plug 'kristijanhusak/vim-js-file-import', {'do': 'npm install'}
 Plug 'jbyuki/instant.nvim'
+Plug 'hkupty/iron.nvim'
 
 if has('nvim')
   function! UpdateRemotePlugins(...)
@@ -324,6 +325,7 @@ nmap <Leader>hr <Plug>(GitGutterRevertHunk)
 "no escape key (escape pressing escape)
 inoremap jc <Esc>
 inoremap jf <Esc>:w<return>:<Backspace>
+tnoremap jf <Esc> <C-\><C-n><cmd>lua IronFocusToggle()<CR>
 inoremap <C-c> <Esc>:w<return>
 command W w
 
@@ -355,6 +357,9 @@ nnoremap <leader>fh <cmd>Telescope help_tags<cr>
 "  opts.cwd = vim.fn.systemlist("git rev-parse --show-toplevel")[1]
 "  require'telescope.builtin'.find_files(opts)
 "end
+"
+"" iron repl config
+luafile ~/.config/nvim/lua/config/iron.lua
 
 " Colors!
 command COLH ColorHighlight
@@ -462,7 +467,6 @@ set fillchars=fold:\ ,vert:\│,eob:\ ,msgsep:‾
 
 " live editing
 let g:instant_username = "enquirer"
-
 
 
 
