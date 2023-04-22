@@ -352,6 +352,9 @@ nnoremap <leader>fj <cmd>Telescope git_files<cr>
 nnoremap <leader>fg <cmd>Telescope live_grep<cr>
 nnoremap <leader>fb <cmd>Telescope buffers<cr>
 nnoremap <leader>fh <cmd>Telescope help_tags<cr>
+
+nnoremap <M-e> <C-^>
+
 "M.my_fd = function(opts)
 "  opts = opts or {}
 "  opts.cwd = vim.fn.systemlist("git rev-parse --show-toplevel")[1]
